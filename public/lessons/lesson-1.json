@@ -55,7 +55,11 @@
         {
           "title": "English sound cheat sheet",
           "track": 1,
-          "pdf": "media/drills/01-orientation/001-english-sound-cheat-sheet.pdf",
+          "pdf": "media/drills/01-orientation/001-english-sound-cheat-sheet.pdf"
+        },
+        {
+          "title": "Introduction",
+          "track": 1,
           "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--001-introduction.mp4",
           "duration": 260
         },

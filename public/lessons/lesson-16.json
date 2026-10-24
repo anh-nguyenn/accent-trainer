@@ -69,9 +69,7 @@
         {
           "title": "Client coveted interview phrases",
           "track": 1,
-          "pdf": "media/drills/43-going-forward/001-client-coveted-interview-phrases.pdf",
-          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/43-going-forward--001-supercharge-your-goals1.mp4",
-          "duration": 174
+          "pdf": "media/drills/43-going-forward/001-client-coveted-interview-phrases.pdf"
         },
         {
           "title": "Common presentation phrases",
@@ -92,6 +90,12 @@
           "title": "Flaunt your vocab tool",
           "track": 1,
           "pdf": "media/drills/43-going-forward/001-flaunt-your-vocab-tool.pdf"
+        },
+        {
+          "title": "Supercharge your goals1",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/43-going-forward--001-supercharge-your-goals1.mp4",
+          "duration": 174
         }
       ]
     },

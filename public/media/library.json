@@ -1,0 +1,3980 @@
+{
+ "sections": [
+  {
+   "title": "Part 1 · Foundations",
+   "modules": [
+    {
+     "module": "01",
+     "driveName": "01 - PART 1",
+     "label": "Course orientation",
+     "lessons": [
+      1
+     ],
+     "items": [
+      {
+       "title": "English sound cheat sheet",
+       "track": 1,
+       "pdf": "media/drills/01-orientation/001-english-sound-cheat-sheet.pdf"
+      },
+      {
+       "title": "Introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--001-introduction.mp4",
+       "duration": 260
+      },
+      {
+       "title": "Self assessment tool",
+       "track": 1,
+       "pdf": "media/drills/01-orientation/001-self-assessment-tool.pdf"
+      },
+      {
+       "title": "Top most common English words",
+       "track": 2,
+       "pdf": "media/drills/01-orientation/002-top-most-common-english-words.pdf",
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--002-why-is-my-accent-so-difficult-to-change.mp4",
+       "duration": 395
+      },
+      {
+       "title": "What is an accent",
+       "track": 3,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--003-what-is-an-accent.mp4",
+       "duration": 412
+      },
+      {
+       "title": "Speech 101",
+       "track": 4,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--004-speech-101.mp4",
+       "duration": 643
+      },
+      {
+       "title": "IPA for vowels an overview part 1",
+       "track": 5,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--005-ipa-for-vowels-an-overview-part-1.mp4",
+       "duration": 1291
+      },
+      {
+       "title": "IPA vowel handout",
+       "track": 6,
+       "pdf": "media/drills/01-orientation/006-ipa-vowel-handout.pdf",
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--006-ipa-for-vowels-part-2-with-quiz.mp4",
+       "duration": 1256
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part 2 · Consonants",
+   "modules": [
+    {
+     "module": "02",
+     "driveName": "02 - Important Consonants in English TH",
+     "label": "TH",
+     "lessons": [
+      5
+     ],
+     "items": [
+      {
+       "title": "How to master one of the most common sounds in English the voiced th!",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--001-how-to-master-one-of-the-most-common-sounds-in-english-the-voiced-th.mp4",
+       "duration": 968
+      },
+      {
+       "title": "Voiced TH VS D minimal pairs",
+       "track": 2,
+       "audio": "media/drills/02-th/002-voiced-th-vs-d-minimal-pairs.mp3",
+       "pdf": "media/drills/02-th/002-voiced-th-vs-d-minimal-pairs.pdf",
+       "duration": 129,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--002-voiced-th-vs-d-minimal-pairs.mp4"
+      },
+      {
+       "title": "Voiced TH initial words",
+       "track": 3,
+       "audio": "media/drills/02-th/003-voiced-th-initial-words.mp3",
+       "pdf": "media/drills/02-th/003-voiced-th-initial-words.pdf",
+       "duration": 80,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--003-voiced-th-initial-words.mp4"
+      },
+      {
+       "title": "Voiced TH middle words",
+       "track": 4,
+       "audio": "media/drills/02-th/004-voiced-th-middle-words.mp3",
+       "pdf": "media/drills/02-th/004-voiced-th-middle-words.pdf",
+       "duration": 87,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--004-voiced-th-middle-words.mp4"
+      },
+      {
+       "title": "Voiced TH end words",
+       "track": 5,
+       "audio": "media/drills/02-th/005-voiced-th-end-words.mp3",
+       "pdf": "media/drills/02-th/005-voiced-th-end-words.pdf",
+       "duration": 36,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--005-voiced-th-end-words.mp4"
+      },
+      {
+       "title": "Voiced TH initial phrases",
+       "track": 6,
+       "audio": "media/drills/02-th/006-voiced-th-initial-phrases.mp3",
+       "pdf": "media/drills/02-th/006-voiced-th-initial-phrases.pdf",
+       "duration": 74,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--006-voiced-th-initial-phrases.mp4"
+      },
+      {
+       "title": "Voiced TH middle phrases",
+       "track": 7,
+       "audio": "media/drills/02-th/007-voiced-th-middle-phrases.mp3",
+       "pdf": "media/drills/02-th/007-voiced-th-middle-phrases.pdf",
+       "duration": 95,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--007-voiced-th-middle-phrases.mp4"
+      },
+      {
+       "title": "Voiced TH end phrases",
+       "track": 8,
+       "audio": "media/drills/02-th/008-voiced-th-end-phrases.mp3",
+       "pdf": "media/drills/02-th/008-voiced-th-end-phrases.pdf",
+       "duration": 38,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--008-voiced-th-end-phrases.mp4"
+      },
+      {
+       "title": "Voiced TH initial sentences",
+       "track": 9,
+       "audio": "media/drills/02-th/009-voiced-th-initial-sentences.mp3",
+       "pdf": "media/drills/02-th/009-voiced-th-initial-sentences.pdf",
+       "duration": 170,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--009-voiced-th-initial-sentences.mp4"
+      },
+      {
+       "title": "Voiced TH middle sentences",
+       "track": 10,
+       "audio": "media/drills/02-th/010-voiced-th-middle-sentences.mp3",
+       "pdf": "media/drills/02-th/010-voiced-th-middle-sentences.pdf",
+       "duration": 211,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--010-voiced-th-middle-sentences.mp4"
+      },
+      {
+       "title": "Voiced TH end sentences",
+       "track": 11,
+       "audio": "media/drills/02-th/011-voiced-th-end-sentences.mp3",
+       "pdf": "media/drills/02-th/011-voiced-th-end-sentences.pdf",
+       "duration": 77,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--011-voiced-th-end-sentences.mp4"
+      },
+      {
+       "title": "TH exception words",
+       "track": 12,
+       "audio": "media/drills/02-th/012-th-exception-words.mp3",
+       "pdf": "media/drills/02-th/012-th-exception-words.pdf",
+       "duration": 41,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--012-th-exception-words.mp4"
+      },
+      {
+       "title": "Voiced TH to D words",
+       "track": 13,
+       "audio": "media/drills/02-th/013-voiced-th-to-d-words.mp3",
+       "pdf": "media/drills/02-th/013-voiced-th-to-d-words.pdf",
+       "duration": 77,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--013-voiced-th-to-d-words.mp4"
+      },
+      {
+       "title": "Voiced TH to D sentences",
+       "track": 14,
+       "audio": "media/drills/02-th/014-voiced-th-to-d-sentences.mp3",
+       "pdf": "media/drills/02-th/014-voiced-th-to-d-sentences.pdf",
+       "duration": 102,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--014-voiced-th-to-d-sentences.mp4"
+      },
+      {
+       "title": "Voiceless TH VS T minimal pairs",
+       "track": 15,
+       "audio": "media/drills/02-th/015-voiceless-th-vs-t-minimal-pairs.mp3",
+       "pdf": "media/drills/02-th/015-voiceless-th-vs-t-minimal-pairs.pdf",
+       "duration": 112,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--015-voiceless-th-vs-t-minimal-pairs.mp4"
+      },
+      {
+       "title": "Voiceless TH initial words",
+       "track": 16,
+       "audio": "media/drills/02-th/016-voiceless-th-initial-words.mp3",
+       "pdf": "media/drills/02-th/016-voiceless-th-initial-words.pdf",
+       "duration": 215,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--016-voiceless-th-initial-words.mp4"
+      },
+      {
+       "title": "Voiceless TH middle words",
+       "track": 17,
+       "audio": "media/drills/02-th/017-voiceless-th-middle-words.mp3",
+       "pdf": "media/drills/02-th/017-voiceless-th-middle-words.pdf",
+       "duration": 167,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--017-voiceless-th-middle-words.mp4"
+      },
+      {
+       "title": "Voiceless TH end words",
+       "track": 18,
+       "audio": "media/drills/02-th/018-voiceless-th-end-words.mp3",
+       "pdf": "media/drills/02-th/018-voiceless-th-end-words.pdf",
+       "duration": 242,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--018-voiceless-th-end-words.mp4"
+      },
+      {
+       "title": "Voiceless TH initial phrases",
+       "track": 19,
+       "audio": "media/drills/02-th/019-voiceless-th-initial-phrases.mp3",
+       "pdf": "media/drills/02-th/019-voiceless-th-initial-phrases.pdf",
+       "duration": 246,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--019-voiceless-th-initial-phrases.mp4"
+      },
+      {
+       "title": "Voiceless TH middle phrases",
+       "track": 20,
+       "audio": "media/drills/02-th/020-voiceless-th-middle-phrases.mp3",
+       "pdf": "media/drills/02-th/020-voiceless-th-middle-phrases.pdf",
+       "duration": 216,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--020-voiceless-th-middle-phrases.mp4"
+      },
+      {
+       "title": "Voiceless TH end phrases",
+       "track": 21,
+       "audio": "media/drills/02-th/021-voiceless-th-end-phrases.mp3",
+       "pdf": "media/drills/02-th/021-voiceless-th-end-phrases.pdf",
+       "duration": 254,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--021-voiceless-th-end-phrases.mp4"
+      },
+      {
+       "title": "Voiceless TH initial sentences",
+       "track": 22,
+       "audio": "media/drills/02-th/022-voiceless-th-initial-sentences.mp3",
+       "pdf": "media/drills/02-th/022-voiceless-th-initial-sentences.pdf",
+       "duration": 240,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--022-voiceless-th-initial-sentences.mp4"
+      },
+      {
+       "title": "Voiceless TH middle sentences",
+       "track": 23,
+       "audio": "media/drills/02-th/023-voiceless-th-middle-sentences.mp3",
+       "pdf": "media/drills/02-th/023-voiceless-th-middle-sentences.pdf",
+       "duration": 219,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--023-voiceless-th-middle-sentences.mp4"
+      },
+      {
+       "title": "Voiceless TH end sentences",
+       "track": 24,
+       "audio": "media/drills/02-th/024-voiceless-th-end-sentences.mp3",
+       "pdf": "media/drills/02-th/024-voiceless-th-end-sentences.pdf",
+       "duration": 247,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--024-voiceless-th-end-sentences.mp4"
+      },
+      {
+       "title": "D to voiceless TH word transition",
+       "track": 25,
+       "audio": "media/drills/02-th/025-d-to-voiceless-th-word-transition.mp3",
+       "pdf": "media/drills/02-th/025-d-to-voiceless-th-word-transition.pdf",
+       "duration": 80,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--025-d-to-voiceless-th-word-transition.mp4"
+      },
+      {
+       "title": "D to voiceless TH sentence transition",
+       "track": 26,
+       "audio": "media/drills/02-th/026-d-to-voiceless-th-sentence-transition.mp3",
+       "pdf": "media/drills/02-th/026-d-to-voiceless-th-sentence-transition.pdf",
+       "duration": 115,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--026-d-to-voiceless-th-sentence-transition.mp4"
+      },
+      {
+       "title": "TH reading and conversation",
+       "track": 27,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--027-th-reading-and-conversation.mp4",
+       "duration": 260
+      }
+     ]
+    },
+    {
+     "module": "03",
+     "driveName": "03 - Important Consonants in English V",
+     "label": "V",
+     "lessons": [
+      5
+     ],
+     "items": [
+      {
+       "title": "V introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--001-v-introduction.mp4",
+       "duration": 440
+      },
+      {
+       "title": "V VS W minimal pair words",
+       "track": 2,
+       "audio": "media/drills/03-v/002-v-vs-w-minimal-pair-words.mp3",
+       "pdf": "media/drills/03-v/002-v-vs-w-minimal-pair-words.pdf",
+       "duration": 83,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--002-v-vs-w-minimal-pair-words.mp4"
+      },
+      {
+       "title": "V VS W minimal pair sentences",
+       "track": 3,
+       "audio": "media/drills/03-v/003-v-vs-w-minimal-pair-sentences.mp3",
+       "pdf": "media/drills/03-v/003-v-vs-w-minimal-pair-sentences.pdf",
+       "duration": 261,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--003-v-vs-w-minimal-pair-sentences.mp4"
+      },
+      {
+       "title": "V VS f minimal pairs",
+       "track": 4,
+       "audio": "media/drills/03-v/004-v-vs-f-minimal-pairs.mp3",
+       "pdf": "media/drills/03-v/004-v-vs-f-minimal-pairs.pdf",
+       "duration": 152,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--004-v-vs-f-minimal-pairs.mp4"
+      },
+      {
+       "title": "V VS B minimal pairs",
+       "track": 5,
+       "audio": "media/drills/03-v/005-v-vs-b-minimal-pairs.mp3",
+       "pdf": "media/drills/03-v/005-v-vs-b-minimal-pairs.pdf",
+       "duration": 123,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--005-v-vs-b-minimal-pairs.mp4"
+      },
+      {
+       "title": "V initial words",
+       "track": 6,
+       "audio": "media/drills/03-v/006-v-initial-words.mp3",
+       "pdf": "media/drills/03-v/006-v-initial-words.pdf",
+       "duration": 87,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--006-v-initial-words.mp4"
+      },
+      {
+       "title": "V middle words",
+       "track": 7,
+       "audio": "media/drills/03-v/007-v-middle-words.mp3",
+       "pdf": "media/drills/03-v/007-v-middle-words.pdf",
+       "duration": 86,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--007-v-middle-words.mp4"
+      },
+      {
+       "title": "V end words",
+       "track": 8,
+       "audio": "media/drills/03-v/008-v-end-words.mp3",
+       "pdf": "media/drills/03-v/008-v-end-words.pdf",
+       "duration": 92,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--008-v-end-words.mp4"
+      },
+      {
+       "title": "V initial phrases",
+       "track": 9,
+       "audio": "media/drills/03-v/009-v-initial-phrases.mp3",
+       "pdf": "media/drills/03-v/009-v-initial-phrases.pdf",
+       "duration": 38,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--009-v-initial-phrases.mp4"
+      },
+      {
+       "title": "V middle phrases",
+       "track": 10,
+       "audio": "media/drills/03-v/010-v-middle-phrases.mp3",
+       "pdf": "media/drills/03-v/010-v-middle-phrases.pdf",
+       "duration": 35,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--010-v-middle-phrases.mp4"
+      },
+      {
+       "title": "V end phrases",
+       "track": 11,
+       "audio": "media/drills/03-v/011-v-end-phrases.mp3",
+       "pdf": "media/drills/03-v/011-v-end-phrases.pdf",
+       "duration": 35,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--011-v-end-phrases.mp4"
+      },
+      {
+       "title": "V initial sentences",
+       "track": 12,
+       "audio": "media/drills/03-v/012-v-initial-sentences.mp3",
+       "pdf": "media/drills/03-v/012-v-initial-sentences.pdf",
+       "duration": 70,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--012-v-initial-sentences.mp4"
+      },
+      {
+       "title": "V middle sentences",
+       "track": 13,
+       "audio": "media/drills/03-v/013-v-middle-sentences.mp3",
+       "pdf": "media/drills/03-v/013-v-middle-sentences.pdf",
+       "duration": 74,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--013-v-middle-sentences.mp4"
+      },
+      {
+       "title": "V end sentences",
+       "track": 14,
+       "audio": "media/drills/03-v/014-v-end-sentences.mp3",
+       "pdf": "media/drills/03-v/014-v-end-sentences.pdf",
+       "duration": 85,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--014-v-end-sentences.mp4"
+      },
+      {
+       "title": "V reading and conversation",
+       "track": 15,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--015-v-reading-and-conversation.mp4",
+       "duration": 223
+      }
+     ]
+    },
+    {
+     "module": "04",
+     "driveName": "04 - Important Consonants in English P T & K Airflow",
+     "label": "P, T and K airflow",
+     "lessons": [
+      5
+     ],
+     "items": [
+      {
+       "title": "P T K introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--001-p-t-k-introduction.mp4",
+       "duration": 551
+      },
+      {
+       "title": "P initial words",
+       "track": 2,
+       "audio": "media/drills/04-p-t-k/002-p-initial-words.mp3",
+       "pdf": "media/drills/04-p-t-k/002-p-initial-words.pdf",
+       "duration": 56,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--002-p-initial-words.mp4"
+      },
+      {
+       "title": "P end words",
+       "track": 3,
+       "audio": "media/drills/04-p-t-k/003-p-end-words.mp3",
+       "pdf": "media/drills/04-p-t-k/003-p-end-words.pdf",
+       "duration": 63,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--003-p-end-words.mp4"
+      },
+      {
+       "title": "P initial phrases",
+       "track": 4,
+       "audio": "media/drills/04-p-t-k/004-p-initial-phrases.mp3",
+       "pdf": "media/drills/04-p-t-k/004-p-initial-phrases.pdf",
+       "duration": 58,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--004-p-initial-phrases.mp4"
+      },
+      {
+       "title": "P end phrases",
+       "track": 5,
+       "audio": "media/drills/04-p-t-k/005-p-end-phrases.mp3",
+       "pdf": "media/drills/04-p-t-k/005-p-end-phrases.pdf",
+       "duration": 73,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--005-p-end-phrases.mp4"
+      },
+      {
+       "title": "P initial sentences",
+       "track": 6,
+       "audio": "media/drills/04-p-t-k/006-p-initial-sentences.mp3",
+       "pdf": "media/drills/04-p-t-k/006-p-initial-sentences.pdf",
+       "duration": 89,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--006-p-initial-sentences.mp4"
+      },
+      {
+       "title": "P end sentences",
+       "track": 7,
+       "audio": "media/drills/04-p-t-k/007-p-end-sentences.mp3",
+       "pdf": "media/drills/04-p-t-k/007-p-end-sentences.pdf",
+       "duration": 103,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--007-p-end-sentences.mp4"
+      },
+      {
+       "title": "T initial words",
+       "track": 8,
+       "audio": "media/drills/04-p-t-k/008-t-initial-words.mp3",
+       "pdf": "media/drills/04-p-t-k/008-t-initial-words.pdf",
+       "duration": 91,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--008-t-initial-words.mp4"
+      },
+      {
+       "title": "T end words",
+       "track": 9,
+       "audio": "media/drills/04-p-t-k/009-t-end-words.mp3",
+       "pdf": "media/drills/04-p-t-k/009-t-end-words.pdf",
+       "duration": 85,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--009-t-end-words.mp4"
+      },
+      {
+       "title": "T initial phrases",
+       "track": 10,
+       "audio": "media/drills/04-p-t-k/010-t-initial-phrases.mp3",
+       "pdf": "media/drills/04-p-t-k/010-t-initial-phrases.pdf",
+       "duration": 62,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--010-t-initial-phrases.mp4"
+      },
+      {
+       "title": "T end phrases",
+       "track": 11,
+       "audio": "media/drills/04-p-t-k/011-t-end-phrases.mp3",
+       "pdf": "media/drills/04-p-t-k/011-t-end-phrases.pdf",
+       "duration": 54,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--011-t-end-phrases.mp4"
+      },
+      {
+       "title": "T initial sentences",
+       "track": 12,
+       "audio": "media/drills/04-p-t-k/012-t-initial-sentences.mp3",
+       "pdf": "media/drills/04-p-t-k/012-t-initial-sentences.pdf",
+       "duration": 145,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--012-t-initial-sentences.mp4"
+      },
+      {
+       "title": "T end sentences",
+       "track": 13,
+       "audio": "media/drills/04-p-t-k/013-t-end-sentences.mp3",
+       "pdf": "media/drills/04-p-t-k/013-t-end-sentences.pdf",
+       "duration": 143,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--013-t-end-sentences.mp4"
+      },
+      {
+       "title": "T middle stressed words",
+       "track": 14,
+       "audio": "media/drills/04-p-t-k/014-t-middle-stressed-words.mp3",
+       "pdf": "media/drills/04-p-t-k/014-t-middle-stressed-words.pdf",
+       "duration": 56,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--014-t-middle-stressed-words.mp4"
+      },
+      {
+       "title": "T middle stressed sentences",
+       "track": 15,
+       "audio": "media/drills/04-p-t-k/015-t-middle-stressed-sentences.mp3",
+       "pdf": "media/drills/04-p-t-k/015-t-middle-stressed-sentences.pdf",
+       "duration": 130,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--015-t-middle-stressed-sentences.mp4"
+      },
+      {
+       "title": "K initial words",
+       "track": 16,
+       "audio": "media/drills/04-p-t-k/016-k-initial-words.mp3",
+       "pdf": "media/drills/04-p-t-k/016-k-initial-words.pdf",
+       "duration": 87,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--016-k-initial-words.mp4"
+      },
+      {
+       "title": "K end words",
+       "track": 17,
+       "audio": "media/drills/04-p-t-k/017-k-end-words.mp3",
+       "pdf": "media/drills/04-p-t-k/017-k-end-words.pdf",
+       "duration": 85,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--017-k-end-words.mp4"
+      },
+      {
+       "title": "K initial phrases",
+       "track": 18,
+       "audio": "media/drills/04-p-t-k/018-k-initial-phrases.mp3",
+       "pdf": "media/drills/04-p-t-k/018-k-initial-phrases.pdf",
+       "duration": 74,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--018-k-initial-phrases.mp4"
+      },
+      {
+       "title": "K end phrases",
+       "track": 19,
+       "audio": "media/drills/04-p-t-k/019-k-end-phrases.mp3",
+       "pdf": "media/drills/04-p-t-k/019-k-end-phrases.pdf",
+       "duration": 49,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--019-k-end-phrases.mp4"
+      },
+      {
+       "title": "K initial sentences",
+       "track": 20,
+       "audio": "media/drills/04-p-t-k/020-k-initial-sentences.mp3",
+       "pdf": "media/drills/04-p-t-k/020-k-initial-sentences.pdf",
+       "duration": 133,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--020-k-initial-sentences.mp4"
+      },
+      {
+       "title": "K end sentences",
+       "track": 21,
+       "audio": "media/drills/04-p-t-k/021-k-end-sentences.mp3",
+       "pdf": "media/drills/04-p-t-k/021-k-end-sentences.pdf",
+       "duration": 110,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--021-k-end-sentences.mp4"
+      },
+      {
+       "title": "K middle stressed words",
+       "track": 22,
+       "audio": "media/drills/04-p-t-k/022-k-middle-stressed-words.mp3",
+       "pdf": "media/drills/04-p-t-k/022-k-middle-stressed-words.pdf",
+       "duration": 61,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--022-k-middle-stressed-words.mp4"
+      },
+      {
+       "title": "K middle stressed sentences",
+       "track": 23,
+       "audio": "media/drills/04-p-t-k/023-k-middle-stressed-sentences.mp3",
+       "pdf": "media/drills/04-p-t-k/023-k-middle-stressed-sentences.pdf",
+       "duration": 109,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--023-k-middle-stressed-sentences.mp4"
+      },
+      {
+       "title": "Ptk reading and conversation",
+       "track": 24,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--024-ptk-reading-and-conversation.mp4",
+       "duration": 226
+      }
+     ]
+    },
+    {
+     "module": "05",
+     "driveName": "05 - Important Consonants in English N",
+     "label": "N",
+     "lessons": [
+      6
+     ],
+     "items": [
+      {
+       "title": "N introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--001-n-introduction.mp4",
+       "duration": 434
+      },
+      {
+       "title": "N initial words",
+       "track": 2,
+       "audio": "media/drills/05-n/002-n-initial-words.mp3",
+       "pdf": "media/drills/05-n/002-n-initial-words.pdf",
+       "duration": 56,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--002-n-initial-words.mp4"
+      },
+      {
+       "title": "N middle words",
+       "track": 3,
+       "audio": "media/drills/05-n/003-n-middle-words.mp3",
+       "pdf": "media/drills/05-n/003-n-middle-words.pdf",
+       "duration": 67,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--003-n-middle-words.mp4"
+      },
+      {
+       "title": "N end words",
+       "track": 4,
+       "audio": "media/drills/05-n/004-n-end-words.mp3",
+       "pdf": "media/drills/05-n/004-n-end-words.pdf",
+       "duration": 72,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--004-n-end-words.mp4"
+      },
+      {
+       "title": "N initial phrases",
+       "track": 5,
+       "audio": "media/drills/05-n/005-n-initial-phrases.mp3",
+       "pdf": "media/drills/05-n/005-n-initial-phrases.pdf",
+       "duration": 38,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--005-n-initial-phrases.mp4"
+      },
+      {
+       "title": "N middle phrases",
+       "track": 6,
+       "audio": "media/drills/05-n/006-n-middle-phrases.mp3",
+       "pdf": "media/drills/05-n/006-n-middle-phrases.pdf",
+       "duration": 37,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--006-n-middle-phrases.mp4"
+      },
+      {
+       "title": "N end phrases",
+       "track": 7,
+       "audio": "media/drills/05-n/007-n-end-phrases.mp3",
+       "pdf": "media/drills/05-n/007-n-end-phrases.pdf",
+       "duration": 40,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--007-n-end-phrases.mp4"
+      },
+      {
+       "title": "N initial sentences",
+       "track": 8,
+       "audio": "media/drills/05-n/008-n-initial-sentences.mp3",
+       "pdf": "media/drills/05-n/008-n-initial-sentences.pdf",
+       "duration": 86,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--008-n-initial-sentences.mp4"
+      },
+      {
+       "title": "N middle sentences",
+       "track": 9,
+       "audio": "media/drills/05-n/009-n-middle-sentences.mp3",
+       "pdf": "media/drills/05-n/009-n-middle-sentences.pdf",
+       "duration": 89,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--009-n-middle-sentences.mp4"
+      },
+      {
+       "title": "N end sentences",
+       "track": 10,
+       "audio": "media/drills/05-n/010-n-end-sentences.mp3",
+       "pdf": "media/drills/05-n/010-n-end-sentences.pdf",
+       "duration": 104,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--010-n-end-sentences.mp4"
+      },
+      {
+       "title": "On words",
+       "track": 11,
+       "audio": "media/drills/05-n/011-on-words.mp3",
+       "pdf": "media/drills/05-n/011-on-words.pdf",
+       "duration": 63,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--011-on-words.mp4"
+      },
+      {
+       "title": "On sentences",
+       "track": 12,
+       "audio": "media/drills/05-n/012-on-sentences.mp3",
+       "pdf": "media/drills/05-n/012-on-sentences.pdf",
+       "duration": 71,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--012-on-sentences.mp4"
+      },
+      {
+       "title": "On reading and conversation",
+       "track": 13,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/05-n--013-on-reading-and-conversation.mp4",
+       "duration": 178
+      }
+     ]
+    },
+    {
+     "module": "06",
+     "driveName": "06 - Important Consonants in English NG",
+     "label": "NG",
+     "lessons": [
+      6
+     ],
+     "items": [
+      {
+       "title": "NG introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--001-ng-introduction.mp4",
+       "duration": 457
+      },
+      {
+       "title": "N VS NG minimal pair words",
+       "track": 2,
+       "audio": "media/drills/06-ng/002-n-vs-ng-minimal-pair-words.mp3",
+       "pdf": "media/drills/06-ng/002-n-vs-ng-minimal-pair-words.pdf",
+       "duration": 209,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--002-n-vs-ng-minimal-pairs-words.mp4"
+      },
+      {
+       "title": "N VS NG minimal pairs sentences",
+       "track": 3,
+       "audio": "media/drills/06-ng/003-n-vs-ng-minimal-pairs-sentences.mp3",
+       "pdf": "media/drills/06-ng/003-n-vs-ng-minimal-pairs-sentences.pdf",
+       "duration": 210,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--003-n-vs-ng-minimal-pairs-sentences.mp4"
+      },
+      {
+       "title": "NG words",
+       "track": 4,
+       "audio": "media/drills/06-ng/004-ng-words.mp3",
+       "pdf": "media/drills/06-ng/004-ng-words.pdf",
+       "duration": 369,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--004-ng-words.mp4"
+      },
+      {
+       "title": "NG middle words hard g",
+       "track": 5,
+       "audio": "media/drills/06-ng/005-ng-middle-words-hard-g.mp3",
+       "pdf": "media/drills/06-ng/005-ng-middle-words-hard-g.pdf",
+       "duration": 98,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--005-ng-middle-words-hard-g.mp4"
+      },
+      {
+       "title": "NG phrases",
+       "track": 6,
+       "audio": "media/drills/06-ng/006-ng-phrases.mp3",
+       "pdf": "media/drills/06-ng/006-ng-phrases.pdf",
+       "duration": 483,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--006-ng-phrases.mp4"
+      },
+      {
+       "title": "NG sentences",
+       "track": 7,
+       "audio": "media/drills/06-ng/007-ng-sentences.mp3",
+       "pdf": "media/drills/06-ng/007-ng-sentences.pdf",
+       "duration": 144,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--007-ng-sentences.mp4"
+      },
+      {
+       "title": "Ong words",
+       "track": 8,
+       "audio": "media/drills/06-ng/008-ong-words.mp3",
+       "pdf": "media/drills/06-ng/008-ong-words.pdf",
+       "duration": 108,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--008-ong-words.mp4"
+      },
+      {
+       "title": "Ong sentences",
+       "track": 9,
+       "audio": "media/drills/06-ng/009-ong-sentences.mp3",
+       "pdf": "media/drills/06-ng/009-ong-sentences.pdf",
+       "duration": 73,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--009-ong-sentences.mp4"
+      },
+      {
+       "title": "Syllabic N",
+       "track": 10,
+       "audio": "media/drills/06-ng/010-syllabic-n.mp3",
+       "pdf": "media/drills/06-ng/010-syllabic-n.pdf",
+       "duration": 103,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--010-syllabic-n.mp4"
+      },
+      {
+       "title": "NG reading and conversation",
+       "track": 11,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/06-ng--011-ng-reading-and-conversation.mp4",
+       "duration": 204
+      }
+     ]
+    },
+    {
+     "module": "07",
+     "driveName": "07 - Important Consonants in English SH",
+     "label": "SH",
+     "lessons": [
+      6
+     ],
+     "items": [
+      {
+       "title": "SH introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--001-sh-introduction.mp4",
+       "duration": 421
+      },
+      {
+       "title": "SH spelling",
+       "track": 2,
+       "audio": "media/drills/07-sh/002-sh-spelling.mp3",
+       "pdf": "media/drills/07-sh/002-sh-spelling.pdf",
+       "duration": 119,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--002-sh-spelling.mp4"
+      },
+      {
+       "title": "SH VS s minimal pairs",
+       "track": 3,
+       "audio": "media/drills/07-sh/003-sh-vs-s-minimal-pairs.mp3",
+       "pdf": "media/drills/07-sh/003-sh-vs-s-minimal-pairs.pdf",
+       "duration": 363,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--003-sh-vs-s-minimal-pairs.mp4"
+      },
+      {
+       "title": "SH initial words",
+       "track": 4,
+       "audio": "media/drills/07-sh/004-sh-initial-words.mp3",
+       "pdf": "media/drills/07-sh/004-sh-initial-words.pdf",
+       "duration": 150,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--004-sh-initial-words.mp4"
+      },
+      {
+       "title": "SH middle words",
+       "track": 5,
+       "audio": "media/drills/07-sh/005-sh-middle-words.mp3",
+       "pdf": "media/drills/07-sh/005-sh-middle-words.pdf",
+       "duration": 288,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--005-sh-middle-words.mp4"
+      },
+      {
+       "title": "SH end words",
+       "track": 6,
+       "audio": "media/drills/07-sh/006-sh-end-words.mp3",
+       "pdf": "media/drills/07-sh/006-sh-end-words.pdf",
+       "duration": 228,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--006-sh-end-words.mp4"
+      },
+      {
+       "title": "SH initial phrases",
+       "track": 7,
+       "audio": "media/drills/07-sh/007-sh-initial-phrases.mp3",
+       "pdf": "media/drills/07-sh/007-sh-initial-phrases.pdf",
+       "duration": 41,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--007-sh-initial-phrases.mp4"
+      },
+      {
+       "title": "SH middle phrases",
+       "track": 8,
+       "audio": "media/drills/07-sh/008-sh-middle-phrases.mp3",
+       "pdf": "media/drills/07-sh/008-sh-middle-phrases.pdf",
+       "duration": 43,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--008-sh-middle-phrases.mp4"
+      },
+      {
+       "title": "SH end phrases",
+       "track": 9,
+       "audio": "media/drills/07-sh/009-sh-end-phrases.mp3",
+       "pdf": "media/drills/07-sh/009-sh-end-phrases.pdf",
+       "duration": 42,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--009-sh-end-phrases.mp4"
+      },
+      {
+       "title": "SH initial sentences",
+       "track": 10,
+       "audio": "media/drills/07-sh/010-sh-initial-sentences.mp3",
+       "pdf": "media/drills/07-sh/010-sh-initial-sentences.pdf",
+       "duration": 81,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--010-sh-initial-sentences.mp4"
+      },
+      {
+       "title": "SH middle sentences",
+       "track": 11,
+       "audio": "media/drills/07-sh/011-sh-middle-sentences.mp3",
+       "pdf": "media/drills/07-sh/011-sh-middle-sentences.pdf",
+       "duration": 75,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--011-sh-middle-sentences.mp4"
+      },
+      {
+       "title": "SH end sentences",
+       "track": 12,
+       "audio": "media/drills/07-sh/012-sh-end-sentences.mp3",
+       "pdf": "media/drills/07-sh/012-sh-end-sentences.pdf",
+       "duration": 84,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--012-sh-end-sentences.mp4"
+      },
+      {
+       "title": "SH reading and conversation",
+       "track": 13,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/07-sh--013-sh-reading-and-conversation.mp4",
+       "duration": 189
+      }
+     ]
+    },
+    {
+     "module": "08",
+     "driveName": "08 - Important Consonants in English CH",
+     "label": "CH",
+     "lessons": [
+      6
+     ],
+     "items": [
+      {
+       "title": "CH introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--001-ch-introduction.mp4",
+       "duration": 347
+      },
+      {
+       "title": "CH spelling pronounced as K",
+       "track": 2,
+       "audio": "media/drills/08-ch/002-ch-spelling-pronounced-as-k.mp3",
+       "pdf": "media/drills/08-ch/002-ch-spelling-pronounced-as-k.pdf",
+       "duration": 138,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--002-ch-spelling-pronounced-as-k.mp4"
+      },
+      {
+       "title": "CH VS SH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/08-ch/003-ch-vs-sh-minimal-pairs.mp3",
+       "pdf": "media/drills/08-ch/003-ch-vs-sh-minimal-pairs.pdf",
+       "duration": 145,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--003-ch-vs-sh-minimal-pairs.mp4"
+      },
+      {
+       "title": "CH initial words",
+       "track": 4,
+       "audio": "media/drills/08-ch/004-ch-initial-words.mp3",
+       "pdf": "media/drills/08-ch/004-ch-initial-words.pdf",
+       "duration": 175
+      },
+      {
+       "title": "CH middle words",
+       "track": 5,
+       "audio": "media/drills/08-ch/005-ch-middle-words.mp3",
+       "pdf": "media/drills/08-ch/005-ch-middle-words.pdf",
+       "duration": 163,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--005-ch-middle-words.mp4"
+      },
+      {
+       "title": "CH end words",
+       "track": 6,
+       "audio": "media/drills/08-ch/006-ch-end-words.mp3",
+       "pdf": "media/drills/08-ch/006-ch-end-words.pdf",
+       "duration": 205,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--006-ch-end-words.mp4"
+      },
+      {
+       "title": "CH initial phrases",
+       "track": 7,
+       "audio": "media/drills/08-ch/007-ch-initial-phrases.mp3",
+       "pdf": "media/drills/08-ch/007-ch-initial-phrases.pdf",
+       "duration": 262,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--007-ch-initial-phrases.mp4"
+      },
+      {
+       "title": "CH middle phrases",
+       "track": 8,
+       "audio": "media/drills/08-ch/008-ch-middle-phrases.mp3",
+       "pdf": "media/drills/08-ch/008-ch-middle-phrases.pdf",
+       "duration": 296,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--008-ch-middle-phrases.mp4"
+      },
+      {
+       "title": "CH end phrases",
+       "track": 9,
+       "audio": "media/drills/08-ch/009-ch-end-phrases.mp3",
+       "pdf": "media/drills/08-ch/009-ch-end-phrases.pdf",
+       "duration": 230,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--009-ch-end-phrases.mp4"
+      },
+      {
+       "title": "CH initial sentences",
+       "track": 10,
+       "audio": "media/drills/08-ch/010-ch-initial-sentences.mp3",
+       "pdf": "media/drills/08-ch/010-ch-initial-sentences.pdf",
+       "duration": 261,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--010-ch-initial-sentences.mp4"
+      },
+      {
+       "title": "CH middle sentences",
+       "track": 11,
+       "audio": "media/drills/08-ch/011-ch-middle-sentences.mp3",
+       "pdf": "media/drills/08-ch/011-ch-middle-sentences.pdf",
+       "duration": 153,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--011-ch-middle-sentences.mp4"
+      },
+      {
+       "title": "CH end sentences",
+       "track": 12,
+       "audio": "media/drills/08-ch/012-ch-end-sentences.mp3",
+       "pdf": "media/drills/08-ch/012-ch-end-sentences.pdf",
+       "duration": 133,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--012-ch-end-sentences.mp4"
+      },
+      {
+       "title": "CH reading and conversation",
+       "track": 13,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/08-ch--013-ch-reading-and-conversation.mp4",
+       "duration": 142
+      }
+     ]
+    },
+    {
+     "module": "09",
+     "driveName": "09 - Important Consonants in English J",
+     "label": "J",
+     "lessons": [
+      6
+     ],
+     "items": [
+      {
+       "title": "J introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--001-j-introduction.mp4",
+       "duration": 311
+      },
+      {
+       "title": "J spelling",
+       "track": 2,
+       "audio": "media/drills/09-j/002-j-spelling.mp3",
+       "pdf": "media/drills/09-j/002-j-spelling.pdf",
+       "duration": 178,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--002-j-spelling.mp4"
+      },
+      {
+       "title": "J and Y VS CH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/09-j/003-j-and-y-vs-ch-minimal-pairs.mp3",
+       "pdf": "media/drills/09-j/003-j-and-y-vs-ch-minimal-pairs.pdf",
+       "duration": 261,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--003-j-and-y-vs-ch-minimal-pairs.mp4"
+      },
+      {
+       "title": "J initial words",
+       "track": 4,
+       "audio": "media/drills/09-j/004-j-initial-words.mp3",
+       "pdf": "media/drills/09-j/004-j-initial-words.pdf",
+       "duration": 148,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--004-j-initial-words.mp4"
+      },
+      {
+       "title": "J middle words",
+       "track": 5,
+       "audio": "media/drills/09-j/005-j-middle-words.mp3",
+       "pdf": "media/drills/09-j/005-j-middle-words.pdf",
+       "duration": 170,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--005-j-middle-words.mp4"
+      },
+      {
+       "title": "J end words",
+       "track": 6,
+       "audio": "media/drills/09-j/006-j-end-words.mp3",
+       "pdf": "media/drills/09-j/006-j-end-words.pdf",
+       "duration": 151,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--006-j-end-words.mp4"
+      },
+      {
+       "title": "J initial phrases",
+       "track": 7,
+       "audio": "media/drills/09-j/007-j-initial-phrases.mp3",
+       "pdf": "media/drills/09-j/007-j-initial-phrases.pdf",
+       "duration": 173,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--007-j-initial-phrases.mp4"
+      },
+      {
+       "title": "J middle phrases",
+       "track": 8,
+       "audio": "media/drills/09-j/008-j-middle-phrases.mp3",
+       "pdf": "media/drills/09-j/008-j-middle-phrases.pdf",
+       "duration": 290,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--008-j-middle-phrases.mp4"
+      },
+      {
+       "title": "J end phrases",
+       "track": 9,
+       "audio": "media/drills/09-j/009-j-end-phrases.mp3",
+       "pdf": "media/drills/09-j/009-j-end-phrases.pdf",
+       "duration": 302,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--009-j-end-phrases.mp4"
+      },
+      {
+       "title": "J initial sentences",
+       "track": 10,
+       "audio": "media/drills/09-j/010-j-initial-sentences.mp3",
+       "pdf": "media/drills/09-j/010-j-initial-sentences.pdf",
+       "duration": 119,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--010-j-initial-sentences.mp4"
+      },
+      {
+       "title": "J middle sentences",
+       "track": 11,
+       "audio": "media/drills/09-j/011-j-middle-sentences.mp3",
+       "pdf": "media/drills/09-j/011-j-middle-sentences.pdf",
+       "duration": 117,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--011-j-middle-sentences.mp4"
+      },
+      {
+       "title": "J end sentences",
+       "track": 12,
+       "audio": "media/drills/09-j/012-j-end-sentences.mp3",
+       "pdf": "media/drills/09-j/012-j-end-sentences.pdf",
+       "duration": 169,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--012-j-end-sentences.mp4"
+      },
+      {
+       "title": "J reading and conversation",
+       "track": 13,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/09-j--013-j-reading-and-conversation.mp4",
+       "duration": 180
+      }
+     ]
+    },
+    {
+     "module": "10",
+     "driveName": "10 - Important Consonants in English R",
+     "label": "R",
+     "lessons": [
+      4
+     ],
+     "items": [
+      {
+       "title": "R introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--001-r-introduction.mp4",
+       "duration": 627
+      },
+      {
+       "title": "R VS W minimal pairs words",
+       "track": 2,
+       "audio": "media/drills/10-r/002-r-vs-w-minimal-pairs-words.mp3",
+       "pdf": "media/drills/10-r/002-r-vs-w-minimal-pairs-words.pdf",
+       "duration": 217,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--002-r-vs-w-minimal-pairs-words.mp4"
+      },
+      {
+       "title": "R VS W minimal pairs sentences",
+       "track": 3,
+       "audio": "media/drills/10-r/003-r-vs-w-minimal-pairs-sentences.mp3",
+       "pdf": "media/drills/10-r/003-r-vs-w-minimal-pairs-sentences.pdf",
+       "duration": 212,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--003-r-vs-w-minimal-pairs-sentences.mp4"
+      },
+      {
+       "title": "R VS L minimal pairs words",
+       "track": 4,
+       "audio": "media/drills/10-r/004-r-vs-l-minimal-pairs-words.mp3",
+       "pdf": "media/drills/10-r/004-r-vs-l-minimal-pairs-words.pdf",
+       "duration": 215,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--004-r-vs-l-minimal-pairs-words.mp4"
+      },
+      {
+       "title": "R VS L minimal pairs sentences",
+       "track": 5,
+       "audio": "media/drills/10-r/005-r-vs-l-minimal-pairs-sentences.mp3",
+       "pdf": "media/drills/10-r/005-r-vs-l-minimal-pairs-sentences.pdf",
+       "duration": 252,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--005-r-vs-l-minimal-pairs-sentences.mp4"
+      },
+      {
+       "title": "R blend VS L blend minimal pairs",
+       "track": 6,
+       "audio": "media/drills/10-r/006-r-blend-vs-l-blend-minimal-pairs.mp3",
+       "pdf": "media/drills/10-r/006-r-blend-vs-l-blend-minimal-pairs.pdf",
+       "duration": 198,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--006-r-blend-vs-l-blend-minimal-pairs.mp4"
+      },
+      {
+       "title": "R initial words",
+       "track": 7,
+       "audio": "media/drills/10-r/007-r-initial-words.mp3",
+       "pdf": "media/drills/10-r/007-r-initial-words.pdf",
+       "duration": 338,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--007-r-initial-words.mp4"
+      },
+      {
+       "title": "R middle words",
+       "track": 8,
+       "audio": "media/drills/10-r/008-r-middle-words.mp3",
+       "pdf": "media/drills/10-r/008-r-middle-words.pdf",
+       "duration": 324,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--008-r-middle-words.mp4"
+      },
+      {
+       "title": "R end words",
+       "track": 9,
+       "audio": "media/drills/10-r/009-r-end-words.mp3",
+       "pdf": "media/drills/10-r/009-r-end-words.pdf",
+       "duration": 102,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--009-r-end-words.mp4"
+      },
+      {
+       "title": "R initial phrases",
+       "track": 10,
+       "audio": "media/drills/10-r/010-r-initial-phrases.mp3",
+       "pdf": "media/drills/10-r/010-r-initial-phrases.pdf",
+       "duration": 251,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--010-r-initial-phrases.mp4"
+      },
+      {
+       "title": "R middle phrases",
+       "track": 11,
+       "audio": "media/drills/10-r/011-r-middle-phrases.mp3",
+       "pdf": "media/drills/10-r/011-r-middle-phrases.pdf",
+       "duration": 308,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--011-r-middle-phrases.mp4"
+      },
+      {
+       "title": "R end phrases",
+       "track": 12,
+       "audio": "media/drills/10-r/012-r-end-phrases.mp3",
+       "pdf": "media/drills/10-r/012-r-end-phrases.pdf",
+       "duration": 166,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--012-r-end-phrases.mp4"
+      },
+      {
+       "title": "R initial sentences",
+       "track": 13,
+       "audio": "media/drills/10-r/013-r-initial-sentences.mp3",
+       "pdf": "media/drills/10-r/013-r-initial-sentences.pdf",
+       "duration": 85,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--013-r-initial-sentences.mp4"
+      },
+      {
+       "title": "R middle sentences",
+       "track": 14,
+       "audio": "media/drills/10-r/014-r-middle-sentences.mp3",
+       "pdf": "media/drills/10-r/014-r-middle-sentences.pdf",
+       "duration": 73,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--014-r-middle-sentences.mp4"
+      },
+      {
+       "title": "R end sentences",
+       "track": 15,
+       "audio": "media/drills/10-r/015-r-end-sentences.mp3",
+       "pdf": "media/drills/10-r/015-r-end-sentences.pdf",
+       "duration": 91,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--015-r-end-sentences.mp4"
+      },
+      {
+       "title": "Er words",
+       "track": 16,
+       "audio": "media/drills/10-r/016-er-words.mp3",
+       "pdf": "media/drills/10-r/016-er-words.pdf",
+       "duration": 264,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--016-er-words.mp4"
+      },
+      {
+       "title": "Er phrases",
+       "track": 17,
+       "audio": "media/drills/10-r/017-er-phrases.mp3",
+       "pdf": "media/drills/10-r/017-er-phrases.pdf",
+       "duration": 263,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--017-er-phrases.mp4"
+      },
+      {
+       "title": "Er sentences",
+       "track": 18,
+       "audio": "media/drills/10-r/018-er-sentences.mp3",
+       "pdf": "media/drills/10-r/018-er-sentences.pdf",
+       "duration": 374,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--018-er-sentences.mp4"
+      },
+      {
+       "title": "Ar words",
+       "track": 19,
+       "audio": "media/drills/10-r/019-ar-words.mp3",
+       "pdf": "media/drills/10-r/019-ar-words.pdf",
+       "duration": 439,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--019-ar-words.mp4"
+      },
+      {
+       "title": "Ar phrases",
+       "track": 20,
+       "audio": "media/drills/10-r/020-ar-phrases.mp3",
+       "pdf": "media/drills/10-r/020-ar-phrases.pdf",
+       "duration": 319,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--020-ar-phrases.mp4"
+      },
+      {
+       "title": "Ar sentences",
+       "track": 21,
+       "audio": "media/drills/10-r/021-ar-sentences.mp3",
+       "pdf": "media/drills/10-r/021-ar-sentences.pdf",
+       "duration": 124,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--021-ar-sentences.mp4"
+      },
+      {
+       "title": "Or words",
+       "track": 22,
+       "audio": "media/drills/10-r/022-or-words.mp3",
+       "pdf": "media/drills/10-r/022-or-words.pdf",
+       "duration": 476,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--022-or-words.mp4"
+      },
+      {
+       "title": "Or phrases",
+       "track": 23,
+       "audio": "media/drills/10-r/023-or-phrases.mp3",
+       "pdf": "media/drills/10-r/023-or-phrases.pdf",
+       "duration": 354,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--023-or-phrases.mp4"
+      },
+      {
+       "title": "Or sentences",
+       "track": 24,
+       "audio": "media/drills/10-r/024-or-sentences.mp3",
+       "pdf": "media/drills/10-r/024-or-sentences.pdf",
+       "duration": 270,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--024-or-sentences.mp4"
+      },
+      {
+       "title": "Air words",
+       "track": 25,
+       "audio": "media/drills/10-r/025-air-words.mp3",
+       "pdf": "media/drills/10-r/025-air-words.pdf",
+       "duration": 259,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--025-air-words.mp4"
+      },
+      {
+       "title": "Air phrases",
+       "track": 26,
+       "audio": "media/drills/10-r/026-air-phrases.mp3",
+       "pdf": "media/drills/10-r/026-air-phrases.pdf",
+       "duration": 306,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--026-air-phrases.mp4"
+      },
+      {
+       "title": "Air sentences",
+       "track": 27,
+       "audio": "media/drills/10-r/027-air-sentences.mp3",
+       "pdf": "media/drills/10-r/027-air-sentences.pdf",
+       "duration": 160,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--027-air-sentences.mp4"
+      },
+      {
+       "title": "Ear words",
+       "track": 28,
+       "audio": "media/drills/10-r/028-ear-words.mp3",
+       "pdf": "media/drills/10-r/028-ear-words.pdf",
+       "duration": 327,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--028-ear-words.mp4"
+      },
+      {
+       "title": "Ear phrases",
+       "track": 29,
+       "audio": "media/drills/10-r/029-ear-phrases.mp3",
+       "pdf": "media/drills/10-r/029-ear-phrases.pdf",
+       "duration": 394,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--029-ear-phrases.mp4"
+      },
+      {
+       "title": "Ear sentences",
+       "track": 30,
+       "audio": "media/drills/10-r/030-ear-sentences.mp3",
+       "pdf": "media/drills/10-r/030-ear-sentences.pdf",
+       "duration": 192,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--030-ear-sentences.mp4"
+      },
+      {
+       "title": "Ire words",
+       "track": 31,
+       "audio": "media/drills/10-r/031-ire-words.mp3",
+       "pdf": "media/drills/10-r/031-ire-words.pdf",
+       "duration": 243,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--031-ire-words.mp4"
+      },
+      {
+       "title": "Ire phrases",
+       "track": 32,
+       "audio": "media/drills/10-r/032-ire-phrases.mp3",
+       "pdf": "media/drills/10-r/032-ire-phrases.pdf",
+       "duration": 309,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--032-ire-phrases.mp4"
+      },
+      {
+       "title": "Ire sentences",
+       "track": 33,
+       "audio": "media/drills/10-r/033-ire-sentences.mp3",
+       "pdf": "media/drills/10-r/033-ire-sentences.pdf",
+       "duration": 154,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--033-ire-sentences.mp4"
+      },
+      {
+       "title": "R blend words and sentences",
+       "track": 34,
+       "audio": "media/drills/10-r/034-r-blend-words-and-sentences.mp3",
+       "pdf": "media/drills/10-r/034-r-blend-words-and-sentences.pdf",
+       "duration": 734,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--034-r-blend-words-and-sentences.mp4"
+      },
+      {
+       "title": "Multiple rs words and sentences",
+       "track": 35,
+       "audio": "media/drills/10-r/035-multiple-rs-words-and-sentences.mp3",
+       "pdf": "media/drills/10-r/035-multiple-rs-words-and-sentences.pdf",
+       "duration": 322,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--035-multiple-rs-words-and-sentences.mp4"
+      },
+      {
+       "title": "Rl combination words phrases and sentences",
+       "track": 36,
+       "audio": "media/drills/10-r/036-rl-combination-words-phrases-and-sentences.mp3",
+       "pdf": "media/drills/10-r/036-rl-combination-words-phrases-and-sentences.pdf",
+       "duration": 736,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--036-rl-combination-words-phrases-and-sentences.mp4"
+      },
+      {
+       "title": "Rw combination words and sentences",
+       "track": 37,
+       "audio": "media/drills/10-r/037-rw-combination-words-and-sentences.mp3",
+       "pdf": "media/drills/10-r/037-rw-combination-words-and-sentences.pdf",
+       "duration": 233,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--037-rw-combination-words-and-sentences.mp4"
+      },
+      {
+       "title": "R reading and conversation",
+       "track": 38,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/10-r--038-r-reading-and-conversation.mp4",
+       "duration": 255
+      }
+     ]
+    },
+    {
+     "module": "11",
+     "driveName": "11 - Important Consonants in English L",
+     "label": "L",
+     "lessons": [
+      6
+     ],
+     "items": [
+      {
+       "title": "L introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--001-l-introduction.mp4",
+       "duration": 455
+      },
+      {
+       "title": "L VS W minimal pair words",
+       "track": 2,
+       "audio": "media/drills/11-l/002-l-vs-w-minimal-pair-words.mp3",
+       "pdf": "media/drills/11-l/002-l-vs-w-minimal-pair-words.pdf",
+       "duration": 237,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--002-l-vs-w-minimal-pair-words.mp4"
+      },
+      {
+       "title": "L VS W minimal pair sentences",
+       "track": 3,
+       "audio": "media/drills/11-l/003-l-vs-w-minimal-pair-sentences.mp3",
+       "pdf": "media/drills/11-l/003-l-vs-w-minimal-pair-sentences.pdf",
+       "duration": 160,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--003-l-vs-w-minimal-pair-sentences.mp4"
+      },
+      {
+       "title": "L VS N minimal pair words",
+       "track": 4,
+       "audio": "media/drills/11-l/004-l-vs-n-minimal-pair-words.mp3",
+       "pdf": "media/drills/11-l/004-l-vs-n-minimal-pair-words.pdf",
+       "duration": 313,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--004-l-vs-n-minimal-pair-words.mp4"
+      },
+      {
+       "title": "L VS N minimal pair sentences",
+       "track": 5,
+       "audio": "media/drills/11-l/005-l-vs-n-minimal-pair-sentences.mp3",
+       "pdf": "media/drills/11-l/005-l-vs-n-minimal-pair-sentences.pdf",
+       "duration": 207,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--005-l-vs-n-minimal-pair-sentences.mp4"
+      },
+      {
+       "title": "L silent words",
+       "track": 6,
+       "audio": "media/drills/11-l/006-l-silent-words.mp3",
+       "pdf": "media/drills/11-l/006-l-silent-words.pdf",
+       "duration": 213,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--006-l-silent-words.mp4"
+      },
+      {
+       "title": "L initial words",
+       "track": 7,
+       "audio": "media/drills/11-l/007-l-initial-words.mp3",
+       "pdf": "media/drills/11-l/007-l-initial-words.pdf",
+       "duration": 247,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--007-l-initial-words.mp4"
+      },
+      {
+       "title": "L middle words",
+       "track": 8,
+       "audio": "media/drills/11-l/008-l-middle-words.mp3",
+       "pdf": "media/drills/11-l/008-l-middle-words.pdf",
+       "duration": 264,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--008-l-middle-words.mp4"
+      },
+      {
+       "title": "L end words",
+       "track": 9,
+       "audio": "media/drills/11-l/009-l-end-words.mp3",
+       "pdf": "media/drills/11-l/009-l-end-words.pdf",
+       "duration": 538,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--009-l-end-words.mp4"
+      },
+      {
+       "title": "L initial phrases",
+       "track": 10,
+       "audio": "media/drills/11-l/010-l-initial-phrases.mp3",
+       "pdf": "media/drills/11-l/010-l-initial-phrases.pdf",
+       "duration": 49,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--010-l-initial-phrases.mp4"
+      },
+      {
+       "title": "L middle phrases",
+       "track": 11,
+       "audio": "media/drills/11-l/011-l-middle-phrases.mp3",
+       "pdf": "media/drills/11-l/011-l-middle-phrases.pdf",
+       "duration": 197,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--011-l-middle-phrases.mp4"
+      },
+      {
+       "title": "L end phrases",
+       "track": 12,
+       "audio": "media/drills/11-l/012-l-end-phrases.mp3",
+       "pdf": "media/drills/11-l/012-l-end-phrases.pdf",
+       "duration": 190,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--012-l-end-phrases.mp4"
+      },
+      {
+       "title": "L initial sentences",
+       "track": 13,
+       "audio": "media/drills/11-l/013-l-initial-sentences.mp3",
+       "pdf": "media/drills/11-l/013-l-initial-sentences.pdf",
+       "duration": 75,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--013-l-initial-sentences.mp4"
+      },
+      {
+       "title": "L middle sentences",
+       "track": 14,
+       "audio": "media/drills/11-l/014-l-middle-sentences.mp3",
+       "pdf": "media/drills/11-l/014-l-middle-sentences.pdf",
+       "duration": 119,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--014-l-middle-sentences.mp4"
+      },
+      {
+       "title": "L end sentences",
+       "track": 15,
+       "audio": "media/drills/11-l/015-l-end-sentences.mp3",
+       "pdf": "media/drills/11-l/015-l-end-sentences.pdf",
+       "duration": 203,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--015-l-end-sentences.mp4"
+      },
+      {
+       "title": "L blends initial words and sentences",
+       "track": 16,
+       "audio": "media/drills/11-l/016-l-blends-initial-words-and-sentences.mp3",
+       "pdf": "media/drills/11-l/016-l-blends-initial-words-and-sentences.pdf",
+       "duration": 538,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--016-l-blends-initial-words-and-sentences.mp4"
+      },
+      {
+       "title": "L blends final words and sentences",
+       "track": 17,
+       "audio": "media/drills/11-l/017-l-blends-final-words-and-sentences.mp3",
+       "pdf": "media/drills/11-l/017-l-blends-final-words-and-sentences.pdf",
+       "duration": 440,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--017-l-blends-final-words-and-sentences.mp4"
+      },
+      {
+       "title": "Syllabic L",
+       "track": 18,
+       "audio": "media/drills/11-l/018-syllabic-l.mp3",
+       "pdf": "media/drills/11-l/018-syllabic-l.pdf",
+       "duration": 100,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--018-syllabic-l.mp4"
+      },
+      {
+       "title": "L reading and conversation",
+       "track": 19,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/11-l--019-l-reading-and-conversation.mp4",
+       "duration": 130
+      }
+     ]
+    },
+    {
+     "module": "12",
+     "driveName": "12 - Important Consonants in English T",
+     "label": "T",
+     "lessons": [
+      12
+     ],
+     "items": [
+      {
+       "title": "T introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--001-t-introduction.mp4",
+       "duration": 391
+      },
+      {
+       "title": "Silent T words",
+       "track": 2,
+       "audio": "media/drills/12-t/002-silent-t-words.mp3",
+       "pdf": "media/drills/12-t/002-silent-t-words.pdf",
+       "duration": 131,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--002-silent-t-words.mp4"
+      },
+      {
+       "title": "T minimal pairs",
+       "track": 3,
+       "audio": "media/drills/12-t/003-t-minimal-pairs.mp3",
+       "pdf": "media/drills/12-t/003-t-minimal-pairs.pdf",
+       "duration": 79,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--003-t-minimal-pairs.mp4"
+      },
+      {
+       "title": "T initial aspirated words and sentences",
+       "track": 4,
+       "audio": "media/drills/12-t/004-t-initial-aspirated-words-and-sentences.mp3",
+       "pdf": "media/drills/12-t/004-t-initial-aspirated-words-and-sentences.pdf",
+       "duration": 182,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--004-t-initial-aspirated-words-and-sentences.mp4"
+      },
+      {
+       "title": "T middle stressed aspirated words",
+       "track": 5,
+       "audio": "media/drills/12-t/005-t-middle-stressed-aspirated-words.mp3",
+       "pdf": "media/drills/12-t/005-t-middle-stressed-aspirated-words.pdf",
+       "duration": 161,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--005-t-middle-stressed-aspirated-words.mp4"
+      },
+      {
+       "title": "T aspirated end words",
+       "track": 6,
+       "audio": "media/drills/12-t/006-t-aspirated-end-words.mp3",
+       "pdf": "media/drills/12-t/006-t-aspirated-end-words.pdf",
+       "duration": 207,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--006-t-aspirated-end-words.mp4"
+      },
+      {
+       "title": "Glottal T introduction",
+       "track": 7,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--007-glottal-t-introduction.mp4",
+       "duration": 239
+      },
+      {
+       "title": "Glottal T words",
+       "track": 8,
+       "audio": "media/drills/12-t/008-glottal-t-words.mp3",
+       "pdf": "media/drills/12-t/008-glottal-t-words.pdf",
+       "duration": 310,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--008-glottal-t-words.mp4"
+      },
+      {
+       "title": "Glottal T phrases",
+       "track": 9,
+       "audio": "media/drills/12-t/009-glottal-t-phrases.mp3",
+       "pdf": "media/drills/12-t/009-glottal-t-phrases.pdf",
+       "duration": 414,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--009-glottal-t-phrases.mp4"
+      },
+      {
+       "title": "Glottal T in tly words and sentences",
+       "track": 10,
+       "audio": "media/drills/12-t/010-glottal-t-in-tly-words-and-sentences.mp3",
+       "pdf": "media/drills/12-t/010-glottal-t-in-tly-words-and-sentences.pdf",
+       "duration": 180,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--010-glottal-t-in-tly-words-and-sentences.mp4"
+      },
+      {
+       "title": "Glottal T in tment words and sentences",
+       "track": 11,
+       "audio": "media/drills/12-t/011-glottal-t-in-tment-words-and-sentences.mp3",
+       "pdf": "media/drills/12-t/011-glottal-t-in-tment-words-and-sentences.pdf",
+       "duration": 184,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--011-glottal-t-in-tment-words-and-sentences.mp4"
+      },
+      {
+       "title": "Glottal T with syllabic N words and sentences",
+       "track": 12,
+       "audio": "media/drills/12-t/012-glottal-t-with-syllabic-n-words-and-sentences.mp3",
+       "pdf": "media/drills/12-t/012-glottal-t-with-syllabic-n-words-and-sentences.pdf",
+       "duration": 372,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--012-glottal-t-with-syllabic-n-words-and-sentences.mp4"
+      },
+      {
+       "title": "Flap T introduction",
+       "track": 13,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--013-flap-t-introduction.mp4",
+       "duration": 96
+      },
+      {
+       "title": "Flap T words",
+       "track": 14,
+       "audio": "media/drills/12-t/014-flap-t-words.mp3",
+       "pdf": "media/drills/12-t/014-flap-t-words.pdf",
+       "duration": 306,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--014-flap-t-words.mp4"
+      },
+      {
+       "title": "Flap T phrases",
+       "track": 15,
+       "audio": "media/drills/12-t/015-flap-t-phrases.mp3",
+       "pdf": "media/drills/12-t/015-flap-t-phrases.pdf",
+       "duration": 419,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--015-flap-t-phrases.mp4"
+      },
+      {
+       "title": "Flap T betty botter poem",
+       "track": 16,
+       "audio": "media/drills/12-t/016-flap-t-betty-botter-poem.mp3",
+       "pdf": "media/drills/12-t/016-flap-t-betty-botter-poem.pdf",
+       "duration": 393,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--016-flap-t-betty-botter-poem.mp4"
+      },
+      {
+       "title": "Mixed T words and sentences",
+       "track": 17,
+       "audio": "media/drills/12-t/017-mixed-t-words-and-sentences.mp3",
+       "pdf": "media/drills/12-t/017-mixed-t-words-and-sentences.pdf",
+       "duration": 491,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--017-mixed-t-words-and-sentences.mp4"
+      },
+      {
+       "title": "T stressed syllable words",
+       "track": 18,
+       "audio": "media/drills/12-t/018-t-stressed-syllable-words.mp3",
+       "pdf": "media/drills/12-t/018-t-stressed-syllable-words.pdf",
+       "duration": 298,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--018-t-stressed-syllable-words.mp4"
+      },
+      {
+       "title": "Dropping the T",
+       "track": 19,
+       "audio": "media/drills/12-t/019-dropping-the-t.mp3",
+       "pdf": "media/drills/12-t/019-dropping-the-t.pdf",
+       "duration": 393,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--019-dropping-the-t.mp4"
+      },
+      {
+       "title": "T reading and conversation",
+       "track": 20,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/12-t--020-t-reading-and-conversation.mp4",
+       "duration": 215
+      }
+     ]
+    },
+    {
+     "module": "13",
+     "driveName": "13 - Important Consonants in English D",
+     "label": "D",
+     "lessons": [
+      12
+     ],
+     "items": [
+      {
+       "title": "D introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--001-d-introduction.mp4",
+       "duration": 322
+      },
+      {
+       "title": "D VS T minimal pairs",
+       "track": 2,
+       "audio": "media/drills/13-d/002-d-vs-t-minimal-pairs.mp3",
+       "pdf": "media/drills/13-d/002-d-vs-t-minimal-pairs.pdf",
+       "duration": 433,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--002-d-vs-t-minimal-pairs.mp4"
+      },
+      {
+       "title": "D initial words",
+       "track": 3,
+       "audio": "media/drills/13-d/003-d-initial-words.mp3",
+       "pdf": "media/drills/13-d/003-d-initial-words.pdf",
+       "duration": 77,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--003-d-initial-words.mp4"
+      },
+      {
+       "title": "D middle words",
+       "track": 4,
+       "audio": "media/drills/13-d/004-d-middle-words.mp3",
+       "pdf": "media/drills/13-d/004-d-middle-words.pdf",
+       "duration": 84,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--004-d-middle-words.mp4"
+      },
+      {
+       "title": "D end words",
+       "track": 5,
+       "audio": "media/drills/13-d/005-d-end-words.mp3",
+       "pdf": "media/drills/13-d/005-d-end-words.pdf",
+       "duration": 357,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--005-d-end-words.mp4"
+      },
+      {
+       "title": "D initial phrases",
+       "track": 6,
+       "audio": "media/drills/13-d/006-d-initial-phrases.mp3",
+       "pdf": "media/drills/13-d/006-d-initial-phrases.pdf",
+       "duration": 72,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--006-d-initial-phrases.mp4"
+      },
+      {
+       "title": "D end phrases",
+       "track": 7,
+       "audio": "media/drills/13-d/007-d-end-phrases.mp3",
+       "pdf": "media/drills/13-d/007-d-end-phrases.pdf",
+       "duration": 391,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--007-d-end-phrases.mp4"
+      },
+      {
+       "title": "D initial sentences",
+       "track": 8,
+       "audio": "media/drills/13-d/008-d-initial-sentences.mp3",
+       "pdf": "media/drills/13-d/008-d-initial-sentences.pdf",
+       "duration": 99,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--008-d-initial-sentences.mp4"
+      },
+      {
+       "title": "D end sentences",
+       "track": 9,
+       "audio": "media/drills/13-d/009-d-end-sentences.mp3",
+       "pdf": "media/drills/13-d/009-d-end-sentences.pdf",
+       "duration": 443,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--009-d-end-sentences.mp4"
+      },
+      {
+       "title": "Ed in past tense lesson",
+       "track": 10,
+       "audio": "media/drills/13-d/010-ed-in-past-tense-lesson.mp3",
+       "pdf": "media/drills/13-d/010-ed-in-past-tense-lesson.pdf",
+       "duration": 530,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--010-ed-in-past-tense-lesson.mp4"
+      },
+      {
+       "title": "D reading and conversation",
+       "track": 11,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/13-d--011-d-reading-and-conversation.mp4",
+       "duration": 112
+      }
+     ]
+    },
+    {
+     "module": "14",
+     "driveName": "14 - Important Consonants in English H",
+     "label": "H",
+     "lessons": [
+      5
+     ],
+     "items": [
+      {
+       "title": "H description",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--001-h-description.mp4",
+       "duration": 208
+      },
+      {
+       "title": "Silent H words",
+       "track": 2,
+       "audio": "media/drills/14-h/002-silent-h-words.mp3",
+       "pdf": "media/drills/14-h/002-silent-h-words.pdf",
+       "duration": 118,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--002-silent-h-words.mp4"
+      },
+      {
+       "title": "H initial words",
+       "track": 3,
+       "audio": "media/drills/14-h/003-h-initial-words.mp3",
+       "pdf": "media/drills/14-h/003-h-initial-words.pdf",
+       "duration": 282,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--003-h-initial-words.mp4"
+      },
+      {
+       "title": "H middle words",
+       "track": 4,
+       "audio": "media/drills/14-h/004-h-middle-words.mp3",
+       "pdf": "media/drills/14-h/004-h-middle-words.pdf",
+       "duration": 174,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--004-h-middle-words.mp4"
+      },
+      {
+       "title": "H initial phrases",
+       "track": 5,
+       "audio": "media/drills/14-h/005-h-initial-phrases.mp3",
+       "pdf": "media/drills/14-h/005-h-initial-phrases.pdf",
+       "duration": 300,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--005-h-initial-phrases.mp4"
+      },
+      {
+       "title": "H middle phrases",
+       "track": 6,
+       "audio": "media/drills/14-h/006-h-middle-phrases.mp3",
+       "pdf": "media/drills/14-h/006-h-middle-phrases.pdf",
+       "duration": 251,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--006-h-middle-phrases.mp4"
+      },
+      {
+       "title": "H initial sentences",
+       "track": 7,
+       "audio": "media/drills/14-h/007-h-initial-sentences.mp3",
+       "pdf": "media/drills/14-h/007-h-initial-sentences.pdf",
+       "duration": 104,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--007-h-initial-sentences.mp4"
+      },
+      {
+       "title": "H middle sentences",
+       "track": 8,
+       "audio": "media/drills/14-h/008-h-middle-sentences.mp3",
+       "pdf": "media/drills/14-h/008-h-middle-sentences.pdf",
+       "duration": 100,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--008-h-middle-sentences.mp4"
+      },
+      {
+       "title": "H reading and conversation",
+       "track": 9,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--009-h-reading-and-conversation.mp4",
+       "duration": 125
+      }
+     ]
+    },
+    {
+     "module": "15",
+     "driveName": "15 - Important Consonants in English W",
+     "label": "W",
+     "lessons": [
+      6
+     ],
+     "items": [
+      {
+       "title": "W introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--001-w-introduction.mp4",
+       "duration": 220
+      },
+      {
+       "title": "W VS V minimal pairs",
+       "track": 2,
+       "audio": "media/drills/15-w/002-w-vs-v-minimal-pairs.mp3",
+       "pdf": "media/drills/15-w/002-w-vs-v-minimal-pairs.pdf",
+       "duration": 146,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--002-w-vs-v-minimal-pairs.mp4"
+      },
+      {
+       "title": "W initial words",
+       "track": 3,
+       "audio": "media/drills/15-w/003-w-initial-words.mp3",
+       "pdf": "media/drills/15-w/003-w-initial-words.pdf",
+       "duration": 121,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--003-w-initial-words.mp4"
+      },
+      {
+       "title": "W middle words",
+       "track": 4,
+       "audio": "media/drills/15-w/004-w-middle-words.mp3",
+       "pdf": "media/drills/15-w/004-w-middle-words.pdf",
+       "duration": 83,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--004-w-middle-words.mp4"
+      },
+      {
+       "title": "W in qu and cho words",
+       "track": 5,
+       "audio": "media/drills/15-w/005-w-in-qu-and-cho-words.mp3",
+       "pdf": "media/drills/15-w/005-w-in-qu-and-cho-words.pdf",
+       "duration": 48,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--005-w-in-qu-and-cho-words.mp4"
+      },
+      {
+       "title": "W initial phrases",
+       "track": 6,
+       "audio": "media/drills/15-w/006-w-initial-phrases.mp3",
+       "pdf": "media/drills/15-w/006-w-initial-phrases.pdf",
+       "duration": 73,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--006-w-initial-phrases.mp4"
+      },
+      {
+       "title": "W middle phrases",
+       "track": 7,
+       "audio": "media/drills/15-w/007-w-middle-phrases.mp3",
+       "pdf": "media/drills/15-w/007-w-middle-phrases.pdf",
+       "duration": 53,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--007-w-middle-phrases.mp4"
+      },
+      {
+       "title": "W VS V sentences",
+       "track": 8,
+       "audio": "media/drills/15-w/008-w-vs-v-sentences.mp3",
+       "pdf": "media/drills/15-w/008-w-vs-v-sentences.pdf",
+       "duration": 287,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--008-w-vs-v-sentences.mp4"
+      },
+      {
+       "title": "W initial sentences",
+       "track": 9,
+       "audio": "media/drills/15-w/009-w-initial-sentences.mp3",
+       "pdf": "media/drills/15-w/009-w-initial-sentences.pdf",
+       "duration": 262,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--009-w-initial-sentences.mp4"
+      },
+      {
+       "title": "W middle sentences",
+       "track": 10,
+       "audio": "media/drills/15-w/010-w-middle-sentences.mp3",
+       "pdf": "media/drills/15-w/010-w-middle-sentences.pdf",
+       "duration": 105,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--010-w-middle-sentences.mp4"
+      },
+      {
+       "title": "W reading and conversation",
+       "track": 11,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/15-w--011-w-reading-and-conversation.mp4",
+       "duration": 102
+      }
+     ]
+    },
+    {
+     "module": "16",
+     "driveName": "16 - Y Glide",
+     "label": "Y glide",
+     "lessons": [
+      6
+     ],
+     "items": [
+      {
+       "title": "Y consonant",
+       "track": 1,
+       "audio": "media/drills/16-y/001-y-consonant.mp3",
+       "duration": 521,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/16-y--001-y-glide-initial-word-position-lecture.mp4"
+      }
+     ]
+    },
+    {
+     "module": "17",
+     "driveName": "17 - Important Consonants in English Z",
+     "label": "Z",
+     "lessons": [
+      5
+     ],
+     "items": [
+      {
+       "title": "Z introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--001-z-introduction.mp4",
+       "duration": 359
+      },
+      {
+       "title": "Z VS s minimal pairs",
+       "track": 2,
+       "audio": "media/drills/17-z/002-z-vs-s-minimal-pairs.mp3",
+       "pdf": "media/drills/17-z/002-z-vs-s-minimal-pairs.pdf",
+       "duration": 226,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--002-z-vs-s-minimal-pairs.mp4"
+      },
+      {
+       "title": "Z initial words",
+       "track": 3,
+       "audio": "media/drills/17-z/003-z-initial-words.mp3",
+       "pdf": "media/drills/17-z/003-z-initial-words.pdf",
+       "duration": 135,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--003-z-initial-words.mp4"
+      },
+      {
+       "title": "Z middle words",
+       "track": 4,
+       "audio": "media/drills/17-z/004-z-middle-words.mp3",
+       "pdf": "media/drills/17-z/004-z-middle-words.pdf",
+       "duration": 326,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--004-z-middle-words.mp4"
+      },
+      {
+       "title": "Z end words",
+       "track": 5,
+       "audio": "media/drills/17-z/005-z-end-words.mp3",
+       "pdf": "media/drills/17-z/005-z-end-words.pdf",
+       "duration": 347,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--005-z-end-words.mp4"
+      },
+      {
+       "title": "Z initial phrases",
+       "track": 6,
+       "audio": "media/drills/17-z/006-z-initial-phrases.mp3",
+       "pdf": "media/drills/17-z/006-z-initial-phrases.pdf",
+       "duration": 205,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--006-z-initial-phrases.mp4"
+      },
+      {
+       "title": "Z middle phrases",
+       "track": 7,
+       "audio": "media/drills/17-z/007-z-middle-phrases.mp3",
+       "pdf": "media/drills/17-z/007-z-middle-phrases.pdf",
+       "duration": 410,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--007-z-middle-phrases.mp4"
+      },
+      {
+       "title": "Z end phrases",
+       "track": 8,
+       "audio": "media/drills/17-z/008-z-end-phrases.mp3",
+       "pdf": "media/drills/17-z/008-z-end-phrases.pdf",
+       "duration": 430,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--008-z-end-phrases.mp4"
+      },
+      {
+       "title": "Z plurals",
+       "track": 9,
+       "audio": "media/drills/17-z/009-z-plurals.mp3",
+       "pdf": "media/drills/17-z/009-z-plurals.pdf",
+       "duration": 367,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--009-z-plurals.mp4"
+      },
+      {
+       "title": "Z initial sentences",
+       "track": 10,
+       "audio": "media/drills/17-z/010-z-initial-sentences.mp3",
+       "pdf": "media/drills/17-z/010-z-initial-sentences.pdf",
+       "duration": 38,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--010-z-initial-sentences.mp4"
+      },
+      {
+       "title": "Z middle sentences",
+       "track": 11,
+       "audio": "media/drills/17-z/011-z-middle-sentences.mp3",
+       "pdf": "media/drills/17-z/011-z-middle-sentences.pdf",
+       "duration": 52,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--011-z-middle-sentences.mp4"
+      },
+      {
+       "title": "Z end phrases and sentences",
+       "track": 12,
+       "audio": "media/drills/17-z/012-z-end-phrases-and-sentences.mp3",
+       "pdf": "media/drills/17-z/012-z-end-phrases-and-sentences.pdf",
+       "duration": 422,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--012-z-end-phrases-and-sentences.mp4"
+      },
+      {
+       "title": "Z reading and conversation",
+       "track": 13,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--013-z-reading-and-conversation.mp4",
+       "duration": 158
+      }
+     ]
+    },
+    {
+     "module": "18",
+     "driveName": "18 - Voicing",
+     "label": "Voicing",
+     "lessons": [
+      5
+     ],
+     "items": [
+      {
+       "title": "Voicing introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--001-voicing-introduction.mp4",
+       "duration": 285
+      },
+      {
+       "title": "Voicing minimal pair syllables",
+       "track": 2,
+       "audio": "media/drills/18-voicing/002-voicing-minimal-pair-syllables.mp3",
+       "pdf": "media/drills/18-voicing/002-voicing-minimal-pair-syllables.pdf",
+       "duration": 214,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--002-voicing-minimal-pair-syllables.mp4"
+      },
+      {
+       "title": "Voicing minimal pair words",
+       "track": 3,
+       "audio": "media/drills/18-voicing/003-voicing-minimal-pair-words.mp3",
+       "pdf": "media/drills/18-voicing/003-voicing-minimal-pair-words.pdf",
+       "duration": 370,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--003-voicing-minimal-pair-words.mp4"
+      },
+      {
+       "title": "Voicing consonants sentences",
+       "track": 4,
+       "audio": "media/drills/18-voicing/004-voicing-consonants-sentences.mp3",
+       "pdf": "media/drills/18-voicing/004-voicing-consonants-sentences.pdf",
+       "duration": 596,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--004-voicing-consonants-sentences.mp4"
+      },
+      {
+       "title": "Voicing consonants reading and conversation",
+       "track": 5,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--005-voicing-consonants-reading-and-conversation.mp4",
+       "duration": 178
+      }
+     ]
+    },
+    {
+     "module": "19",
+     "driveName": "19 - Final Consonant Sounds",
+     "label": "Final consonants",
+     "lessons": [
+      11
+     ],
+     "items": [
+      {
+       "title": "Final consonants introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--001-final-consonants-introduction.mp4",
+       "duration": 92
+      },
+      {
+       "title": "Final consonants words and minimal pairs",
+       "track": 2,
+       "audio": "media/drills/19-final-consonants/002-final-consonants-words-and-minimal-pairs.mp3",
+       "pdf": "media/drills/19-final-consonants/002-final-consonants-words-and-minimal-pairs.pdf",
+       "duration": 326,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--002-final-consonants-words-and-minimal-pairs.mp4"
+      },
+      {
+       "title": "Final consonants phrases",
+       "track": 3,
+       "audio": "media/drills/19-final-consonants/003-final-consonants-phrases.mp3",
+       "pdf": "media/drills/19-final-consonants/003-final-consonants-phrases.pdf",
+       "duration": 48,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--003-final-consonants-phrases.mp4"
+      },
+      {
+       "title": "Final consonant sentences",
+       "track": 4,
+       "audio": "media/drills/19-final-consonants/004-final-consonant-sentences.mp3",
+       "pdf": "media/drills/19-final-consonants/004-final-consonant-sentences.pdf",
+       "duration": 127,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--004-final-consonant-sentences.mp4"
+      },
+      {
+       "title": "Final consonant reading and conversation",
+       "track": 5,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--005-final-consonant-reading-and-conversation.mp4",
+       "duration": 190
+      }
+     ]
+    },
+    {
+     "module": "20",
+     "driveName": "20 - Consonant Clusters in English",
+     "label": "Consonant clusters",
+     "lessons": [
+      11
+     ],
+     "items": [
+      {
+       "title": "Consonant blends introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--001-consonant-blends-introduction.mp4",
+       "duration": 160
+      },
+      {
+       "title": "R blends words and sentences review",
+       "track": 2,
+       "audio": "media/drills/20-clusters/002-r-blends-words-and-sentences-review.mp3",
+       "pdf": "media/drills/20-clusters/002-r-blends-words-and-sentences-review.pdf",
+       "duration": 873,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--002-r-blends-words-and-sentences-review.mp4"
+      },
+      {
+       "title": "L blends words and sentences review",
+       "track": 3,
+       "audio": "media/drills/20-clusters/003-l-blends-words-and-sentences-review.mp3",
+       "pdf": "media/drills/20-clusters/003-l-blends-words-and-sentences-review.pdf",
+       "duration": 622,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--003-l-blends-words-and-sentences-review.mp4"
+      },
+      {
+       "title": "S blends words and sentences review",
+       "track": 4,
+       "audio": "media/drills/20-clusters/004-s-blends-words-and-sentences-review.mp3",
+       "pdf": "media/drills/20-clusters/004-s-blends-words-and-sentences-review.pdf",
+       "duration": 480,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--004-s-blends-words-and-sentences-review.mp4"
+      },
+      {
+       "title": "3 consonant blend words and sentences",
+       "track": 5,
+       "audio": "media/drills/20-clusters/005-3-consonant-blend-words-and-sentences.mp3",
+       "pdf": "media/drills/20-clusters/005-3-consonant-blend-words-and-sentences.pdf",
+       "duration": 399,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--005-consonant-blend-words-and-sentences.mp4"
+      },
+      {
+       "title": "Final consonant blend words",
+       "track": 6,
+       "audio": "media/drills/20-clusters/006-final-consonant-blend-words.mp3",
+       "pdf": "media/drills/20-clusters/006-final-consonant-blend-words.pdf",
+       "duration": 819,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--006-final-consonant-blend-words.mp4"
+      },
+      {
+       "title": "3 and 4 final consonant blends",
+       "track": 7,
+       "audio": "media/drills/20-clusters/007-3-and-4-final-consonant-blends.mp3",
+       "pdf": "media/drills/20-clusters/007-3-and-4-final-consonant-blends.pdf",
+       "duration": 153,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--007-3-and-4-final-consonant-blends.mp4"
+      },
+      {
+       "title": "3 and 4 final consonant blends dropped sounds",
+       "track": 8,
+       "audio": "media/drills/20-clusters/008-3-and-4-final-consonant-blends-dropped-sounds.mp3",
+       "pdf": "media/drills/20-clusters/008-3-and-4-final-consonant-blends-dropped-sounds.pdf",
+       "duration": 420,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--008-3-and-4-final-consonant-blends-dropped-sounds-continued.mp4"
+      },
+      {
+       "title": "D TH phrases and sentences",
+       "track": 9,
+       "audio": "media/drills/20-clusters/009-d-th-phrases-and-sentences.mp3",
+       "pdf": "media/drills/20-clusters/009-d-th-phrases-and-sentences.pdf",
+       "duration": 377,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--009-d-th-phrases-and-sentences.mp4"
+      },
+      {
+       "title": "Voiced TH D words and sentences",
+       "track": 10,
+       "audio": "media/drills/20-clusters/010-voiced-th-d-words-and-sentences.mp3",
+       "pdf": "media/drills/20-clusters/010-voiced-th-d-words-and-sentences.pdf",
+       "duration": 243,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--010-voiced-th-d-words-and-sentences.mp4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part 3 · Vowels",
+   "modules": [
+    {
+     "module": "21",
+     "driveName": "21 - PART THREE All About English Vowels",
+     "label": "Vowel section intro",
+     "lessons": [
+      2
+     ],
+     "items": [
+      {
+       "title": "Vowels introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/21-vowels-intro--001-vowels-introduction.mp4",
+       "duration": 341
+      }
+     ]
+    },
+    {
+     "module": "22",
+     "driveName": "22 - Important Vowels in English IH I",
+     "label": "IH /ɪ/",
+     "lessons": [
+      2
+     ],
+     "items": [
+      {
+       "title": "IH i introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--001-ih-i-introduction.mp4",
+       "duration": 323
+      },
+      {
+       "title": "IH spelling",
+       "track": 2,
+       "audio": "media/drills/22-ih/002-ih-spelling.mp3",
+       "pdf": "media/drills/22-ih/002-ih-spelling.pdf",
+       "duration": 201,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--002-ih-i-spelling.mp4"
+      },
+      {
+       "title": "IH VS EE minimal pairs",
+       "track": 3,
+       "audio": "media/drills/22-ih/003-ih-vs-ee-minimal-pairs.mp3",
+       "pdf": "media/drills/22-ih/003-ih-vs-ee-minimal-pairs.pdf",
+       "duration": 409,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--003-ih-vs-ee-minimal-pairs.mp4"
+      },
+      {
+       "title": "IH VS EE minimal pairs phrases",
+       "track": 4,
+       "audio": "media/drills/22-ih/004-ih-vs-ee-minimal-pairs-phrases.mp3",
+       "pdf": "media/drills/22-ih/004-ih-vs-ee-minimal-pairs-phrases.pdf",
+       "duration": 84,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--004-ih-i-vs-ee-i-minimal-pairs-phrases.mp4"
+      },
+      {
+       "title": "IH words",
+       "track": 5,
+       "audio": "media/drills/22-ih/005-ih-words.mp3",
+       "pdf": "media/drills/22-ih/005-ih-words.pdf",
+       "duration": 108,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--005-ih-words.mp4"
+      },
+      {
+       "title": "IH phrases",
+       "track": 6,
+       "audio": "media/drills/22-ih/006-ih-phrases.mp3",
+       "pdf": "media/drills/22-ih/006-ih-phrases.pdf",
+       "duration": 354,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--006-ih-i-phrases.mp4"
+      },
+      {
+       "title": "IH sentences",
+       "track": 7,
+       "audio": "media/drills/22-ih/007-ih-sentences.mp3",
+       "pdf": "media/drills/22-ih/007-ih-sentences.pdf",
+       "duration": 382,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--007-ih-i-sentences.mp4"
+      },
+      {
+       "title": "In words",
+       "track": 8,
+       "audio": "media/drills/22-ih/008-in-words.mp3",
+       "pdf": "media/drills/22-ih/008-in-words.pdf",
+       "duration": 336,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--008-n-words.mp4"
+      },
+      {
+       "title": "In sentences",
+       "track": 9,
+       "audio": "media/drills/22-ih/009-in-sentences.mp3",
+       "pdf": "media/drills/22-ih/009-in-sentences.pdf",
+       "duration": 211,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--009-in-sentences.mp4"
+      },
+      {
+       "title": "IH i reading and conversation",
+       "track": 10,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/22-ih--010-ih-i-reading-and-conversation.mp4",
+       "duration": 161
+      }
+     ]
+    },
+    {
+     "module": "23",
+     "driveName": "23 - Important Vowels in English AA æ",
+     "label": "AA /æ/",
+     "lessons": [
+      2
+     ],
+     "items": [
+      {
+       "title": "AA æ introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/23-aa--001-aa-introduction.mp4",
+       "duration": 333
+      },
+      {
+       "title": "AA spelling",
+       "track": 2,
+       "audio": "media/drills/23-aa/002-aa-spelling.mp3",
+       "pdf": "media/drills/23-aa/002-aa-spelling.pdf",
+       "duration": 169,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/23-aa--002-aa-spelling.mp4"
+      },
+      {
+       "title": "AA VS AH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/23-aa/003-aa-vs-ah-minimal-pairs.mp3",
+       "pdf": "media/drills/23-aa/003-aa-vs-ah-minimal-pairs.pdf",
+       "duration": 72,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/23-aa--003-aa-vs-ah-a-minimal-pairs.mp4"
+      },
+      {
+       "title": "AA VS EH minimal pairs",
+       "track": 4,
+       "audio": "media/drills/23-aa/004-aa-vs-eh-minimal-pairs.mp3",
+       "pdf": "media/drills/23-aa/004-aa-vs-eh-minimal-pairs.pdf",
+       "duration": 291,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/23-aa--004-aa-vs-eh-minimal-pairs.mp4"
+      },
+      {
+       "title": "AA words",
+       "track": 5,
+       "audio": "media/drills/23-aa/005-aa-words.mp3",
+       "pdf": "media/drills/23-aa/005-aa-words.pdf",
+       "duration": 262,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/23-aa--005-aa-words.mp4"
+      },
+      {
+       "title": "AA phrases",
+       "track": 6,
+       "audio": "media/drills/23-aa/006-aa-phrases.mp3",
+       "pdf": "media/drills/23-aa/006-aa-phrases.pdf",
+       "duration": 323,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/23-aa--006-aa-phrases.mp4"
+      },
+      {
+       "title": "AA sentences",
+       "track": 7,
+       "audio": "media/drills/23-aa/007-aa-sentences.mp3",
+       "pdf": "media/drills/23-aa/007-aa-sentences.pdf",
+       "duration": 201,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/23-aa--007-aa-sentences.mp4"
+      },
+      {
+       "title": "AA æ reading and conversation",
+       "track": 8,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/23-aa--008-aa-reading-and-conversation.mp4",
+       "duration": 130
+      }
+     ]
+    },
+    {
+     "module": "24",
+     "driveName": "24 - Important Vowels in English AH a",
+     "label": "AH /ɑ/",
+     "lessons": [
+      3
+     ],
+     "items": [
+      {
+       "title": "AH a introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--001-ah-a-introduction.mp4",
+       "duration": 331
+      },
+      {
+       "title": "AH spelling",
+       "track": 2,
+       "audio": "media/drills/24-ah/002-ah-spelling.mp3",
+       "pdf": "media/drills/24-ah/002-ah-spelling.pdf",
+       "duration": 200,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--002-ah-a-spelling.mp4"
+      },
+      {
+       "title": "AH VS OH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/24-ah/003-ah-vs-oh-minimal-pairs.mp3",
+       "pdf": "media/drills/24-ah/003-ah-vs-oh-minimal-pairs.pdf",
+       "duration": 130,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--003-ah-a-vs-oh-o-minimal-pairs.mp4"
+      },
+      {
+       "title": "AH words",
+       "track": 4,
+       "audio": "media/drills/24-ah/004-ah-words.mp3",
+       "pdf": "media/drills/24-ah/004-ah-words.pdf",
+       "duration": 279,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--004-ah-a-words.mp4"
+      },
+      {
+       "title": "AH phrases",
+       "track": 5,
+       "audio": "media/drills/24-ah/005-ah-phrases.mp3",
+       "pdf": "media/drills/24-ah/005-ah-phrases.pdf",
+       "duration": 424,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--005-ah-a-phrases.mp4"
+      },
+      {
+       "title": "AH sentences",
+       "track": 6,
+       "audio": "media/drills/24-ah/006-ah-sentences.mp3",
+       "pdf": "media/drills/24-ah/006-ah-sentences.pdf",
+       "duration": 250,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--006-ah-a-sentences.mp4"
+      },
+      {
+       "title": "AH a reading and conversation",
+       "track": 7,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--007-ah-a-reading-and-conversation.mp4",
+       "duration": 117
+      }
+     ]
+    },
+    {
+     "module": "25",
+     "driveName": "25 - Important Vowels in English The Schwa  UH",
+     "label": "Schwa /ə/",
+     "lessons": [
+      3
+     ],
+     "items": [
+      {
+       "title": "Schwa introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--001-schwa-introduction.mp4",
+       "duration": 431
+      },
+      {
+       "title": "Schwa spelling",
+       "track": 2,
+       "audio": "media/drills/25-schwa/002-schwa-spelling.mp3",
+       "pdf": "media/drills/25-schwa/002-schwa-spelling.pdf",
+       "duration": 96,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--002-schwa-spelling.mp4"
+      },
+      {
+       "title": "Schwa in the",
+       "track": 3,
+       "audio": "media/drills/25-schwa/003-schwa-in-the.mp3",
+       "pdf": "media/drills/25-schwa/003-schwa-in-the.pdf",
+       "duration": 487,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--003-schwa-in-the.mp4"
+      },
+      {
+       "title": "Schwa in a",
+       "track": 4,
+       "audio": "media/drills/25-schwa/004-schwa-in-a.mp3",
+       "pdf": "media/drills/25-schwa/004-schwa-in-a.pdf",
+       "duration": 225,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--004-schwa-in-a.mp4"
+      },
+      {
+       "title": "Schwa in to",
+       "track": 5,
+       "audio": "media/drills/25-schwa/005-schwa-in-to.mp3",
+       "pdf": "media/drills/25-schwa/005-schwa-in-to.pdf",
+       "duration": 568,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--005-schwa-in-to.mp4"
+      },
+      {
+       "title": "Schwa in prefix a",
+       "track": 6,
+       "audio": "media/drills/25-schwa/006-schwa-in-prefix-a.mp3",
+       "pdf": "media/drills/25-schwa/006-schwa-in-prefix-a.pdf",
+       "duration": 93,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--006-schwa-in-prefix-a.mp4"
+      },
+      {
+       "title": "Schwa in prefix be",
+       "track": 7,
+       "audio": "media/drills/25-schwa/007-schwa-in-prefix-be.mp3",
+       "pdf": "media/drills/25-schwa/007-schwa-in-prefix-be.pdf",
+       "duration": 101,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--007-schwa-in-prefix-be.mp4"
+      },
+      {
+       "title": "Schwa in prefix re",
+       "track": 8,
+       "audio": "media/drills/25-schwa/008-schwa-in-prefix-re.mp3",
+       "pdf": "media/drills/25-schwa/008-schwa-in-prefix-re.pdf",
+       "duration": 91,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--008-schwa-in-prefix-re.mp4"
+      },
+      {
+       "title": "Schwa in prefix de",
+       "track": 9,
+       "audio": "media/drills/25-schwa/009-schwa-in-prefix-de.mp3",
+       "pdf": "media/drills/25-schwa/009-schwa-in-prefix-de.pdf",
+       "duration": 101,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--009-schwa-in-prefix-de.mp4"
+      },
+      {
+       "title": "Schwa in prefix to",
+       "track": 10,
+       "audio": "media/drills/25-schwa/010-schwa-in-prefix-to.mp3",
+       "pdf": "media/drills/25-schwa/010-schwa-in-prefix-to.pdf",
+       "duration": 65,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--010-schwa-in-prefix-to.mp4"
+      },
+      {
+       "title": "Schwa in prefix con",
+       "track": 11,
+       "audio": "media/drills/25-schwa/011-schwa-in-prefix-con.mp3",
+       "pdf": "media/drills/25-schwa/011-schwa-in-prefix-con.pdf",
+       "duration": 153,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--011-schwa-in-prefix-con.mp4"
+      },
+      {
+       "title": "Schwa in prefix su",
+       "track": 12,
+       "audio": "media/drills/25-schwa/012-schwa-in-prefix-su.mp3",
+       "pdf": "media/drills/25-schwa/012-schwa-in-prefix-su.pdf",
+       "duration": 303,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--012-schwa-in-prefix-su.mp4"
+      },
+      {
+       "title": "Schwa in different vowels",
+       "track": 13,
+       "audio": "media/drills/25-schwa/013-schwa-in-different-vowels.mp3",
+       "pdf": "media/drills/25-schwa/013-schwa-in-different-vowels.pdf",
+       "duration": 703,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--013-schwa-in-different-vowels.mp4"
+      },
+      {
+       "title": "Schwa in vowel i",
+       "track": 14,
+       "audio": "media/drills/25-schwa/014-schwa-in-vowel-i.mp3",
+       "pdf": "media/drills/25-schwa/014-schwa-in-vowel-i.pdf",
+       "duration": 419,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--014-schwa-in-vowel-i.mp4"
+      },
+      {
+       "title": "Schwa in ity",
+       "track": 15,
+       "audio": "media/drills/25-schwa/015-schwa-in-ity.mp3",
+       "pdf": "media/drills/25-schwa/015-schwa-in-ity.pdf",
+       "duration": 141,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--015-schwa-in-ity.mp4"
+      },
+      {
+       "title": "Schwa in ical",
+       "track": 16,
+       "audio": "media/drills/25-schwa/016-schwa-in-ical.mp3",
+       "pdf": "media/drills/25-schwa/016-schwa-in-ical.pdf",
+       "duration": 111,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--016-schwa-in-ical.mp4"
+      },
+      {
+       "title": "Schwa in final unstressed a",
+       "track": 17,
+       "audio": "media/drills/25-schwa/017-schwa-in-final-unstressed-a.mp3",
+       "pdf": "media/drills/25-schwa/017-schwa-in-final-unstressed-a.pdf",
+       "duration": 232,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--017-schwa-in-final-unstressed-a.mp4"
+      },
+      {
+       "title": "Schwa in mixed vowels practice",
+       "track": 18,
+       "audio": "media/drills/25-schwa/018-schwa-in-mixed-vowels-practice.mp3",
+       "pdf": "media/drills/25-schwa/018-schwa-in-mixed-vowels-practice.pdf",
+       "duration": 173,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--018-schwa-in-mixed-vowels-practice.mp4"
+      },
+      {
+       "title": "Schwa in words and phrases",
+       "track": 19,
+       "audio": "media/drills/25-schwa/019-schwa-in-words-and-phrases.mp3",
+       "pdf": "media/drills/25-schwa/019-schwa-in-words-and-phrases.pdf",
+       "duration": 432,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--019-schwa-in-words-and-phrases.mp4"
+      },
+      {
+       "title": "Schwa in sentences",
+       "track": 20,
+       "audio": "media/drills/25-schwa/020-schwa-in-sentences.mp3",
+       "pdf": "media/drills/25-schwa/020-schwa-in-sentences.pdf",
+       "duration": 232,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--020-schwa-in-sentences.mp4"
+      }
+     ]
+    },
+    {
+     "module": "26",
+     "driveName": "26 - Important Vowels in English The UH ^ Vowel",
+     "label": "UH /ʌ/",
+     "lessons": [
+      3
+     ],
+     "items": [
+      {
+       "title": "UH ^ introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--001-uh-introduction.mp4",
+       "duration": 206
+      },
+      {
+       "title": "UH spelling",
+       "track": 2,
+       "audio": "media/drills/26-uh/002-uh-spelling.mp3",
+       "pdf": "media/drills/26-uh/002-uh-spelling.pdf",
+       "duration": 125,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--002-uh-spelling.mp4"
+      },
+      {
+       "title": "UH VS AH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/26-uh/003-uh-vs-ah-minimal-pairs.mp3",
+       "pdf": "media/drills/26-uh/003-uh-vs-ah-minimal-pairs.pdf",
+       "duration": 402,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--003-uh-vs-ah-a-minimal-pairs.mp4"
+      },
+      {
+       "title": "UH words",
+       "track": 4,
+       "audio": "media/drills/26-uh/004-uh-words.mp3",
+       "pdf": "media/drills/26-uh/004-uh-words.pdf",
+       "duration": 121,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--004-uh-words.mp4"
+      },
+      {
+       "title": "UH phrases",
+       "track": 5,
+       "audio": "media/drills/26-uh/005-uh-phrases.mp3",
+       "pdf": "media/drills/26-uh/005-uh-phrases.pdf",
+       "duration": 369,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--005-uh-phrases.mp4"
+      },
+      {
+       "title": "UH sentences",
+       "track": 6,
+       "audio": "media/drills/26-uh/006-uh-sentences.mp3",
+       "pdf": "media/drills/26-uh/006-uh-sentences.pdf",
+       "duration": 425,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--006-uh-sentences.mp4"
+      },
+      {
+       "title": "UH ^ reading and conversation",
+       "track": 7,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--007-uh-reading-and-conversation.mp4",
+       "duration": 91
+      }
+     ]
+    },
+    {
+     "module": "27",
+     "driveName": "27 - Important Vowels in English The Upsilon EUH",
+     "label": "Upsilon /ʊ/",
+     "lessons": [
+      3
+     ],
+     "items": [
+      {
+       "title": "Upsilon introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--001-upsilon-introduction.mp4",
+       "duration": 317
+      },
+      {
+       "title": "Upsilon spelling",
+       "track": 2,
+       "audio": "media/drills/27-upsilon/002-upsilon-spelling.mp3",
+       "pdf": "media/drills/27-upsilon/002-upsilon-spelling.pdf",
+       "duration": 257,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--002-upsilon-spelling.mp4"
+      },
+      {
+       "title": "Upsilon VS OO minimal pairs",
+       "track": 3,
+       "audio": "media/drills/27-upsilon/003-upsilon-vs-oo-minimal-pairs.mp3",
+       "pdf": "media/drills/27-upsilon/003-upsilon-vs-oo-minimal-pairs.pdf",
+       "duration": 119,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--003-upsilon-vs-oo-minimal-pairs.mp4"
+      },
+      {
+       "title": "Upsilon words",
+       "track": 4,
+       "audio": "media/drills/27-upsilon/004-upsilon-words.mp3",
+       "pdf": "media/drills/27-upsilon/004-upsilon-words.pdf",
+       "duration": 118,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--004-upsilon-words.mp4"
+      },
+      {
+       "title": "Upsilon phrases",
+       "track": 5,
+       "audio": "media/drills/27-upsilon/005-upsilon-phrases.mp3",
+       "pdf": "media/drills/27-upsilon/005-upsilon-phrases.pdf",
+       "duration": 174,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--005-upsilon-phrases.mp4"
+      },
+      {
+       "title": "Upsilon sentences",
+       "track": 6,
+       "audio": "media/drills/27-upsilon/006-upsilon-sentences.mp3",
+       "pdf": "media/drills/27-upsilon/006-upsilon-sentences.pdf",
+       "duration": 268,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--006-upsilon-sentences.mp4"
+      },
+      {
+       "title": "Upsilon reading and conversation",
+       "track": 7,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--007-upsilon-reading-and-conversation.mp4",
+       "duration": 107
+      }
+     ]
+    },
+    {
+     "module": "28",
+     "driveName": "28 - Important Vowels in English EE i",
+     "label": "EE /i/",
+     "lessons": [
+      2
+     ],
+     "items": [
+      {
+       "title": "EE i introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--001-ee-i-introduction.mp4",
+       "duration": 239
+      },
+      {
+       "title": "EE spelling",
+       "track": 2,
+       "audio": "media/drills/28-ee/002-ee-spelling.mp3",
+       "pdf": "media/drills/28-ee/002-ee-spelling.pdf",
+       "duration": 218,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--002-ee-spelling.mp4"
+      },
+      {
+       "title": "EE VS EH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/28-ee/003-ee-vs-eh-minimal-pairs.mp3",
+       "pdf": "media/drills/28-ee/003-ee-vs-eh-minimal-pairs.pdf",
+       "duration": 129,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--003-ee-i-vs-eh-minimal-pairs.mp4"
+      },
+      {
+       "title": "EE words",
+       "track": 4,
+       "audio": "media/drills/28-ee/004-ee-words.mp3",
+       "pdf": "media/drills/28-ee/004-ee-words.pdf",
+       "duration": 205,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--004-ee-i-words.mp4"
+      },
+      {
+       "title": "EE phrases",
+       "track": 5,
+       "audio": "media/drills/28-ee/005-ee-phrases.mp3",
+       "pdf": "media/drills/28-ee/005-ee-phrases.pdf",
+       "duration": 276,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--005-ee-i-phrases.mp4"
+      },
+      {
+       "title": "EE sentences",
+       "track": 6,
+       "audio": "media/drills/28-ee/006-ee-sentences.mp3",
+       "pdf": "media/drills/28-ee/006-ee-sentences.pdf",
+       "duration": 195,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--006-ee-i-sentences.mp4"
+      },
+      {
+       "title": "EE in final Y words",
+       "track": 7,
+       "audio": "media/drills/28-ee/007-ee-in-final-y-words.mp3",
+       "pdf": "media/drills/28-ee/007-ee-in-final-y-words.pdf",
+       "duration": 322,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--007-ee-in-final-y-words.mp4"
+      },
+      {
+       "title": "EE in final Y sentences",
+       "track": 8,
+       "audio": "media/drills/28-ee/008-ee-in-final-y-sentences.mp3",
+       "pdf": "media/drills/28-ee/008-ee-in-final-y-sentences.pdf",
+       "duration": 127,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--008-ee-in-final-y-sentences.mp4"
+      },
+      {
+       "title": "EE i reading and conversation",
+       "track": 9,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/28-ee--009-ee-i-reading-and-conversation.mp4",
+       "duration": 169
+      },
+      {
+       "title": "Ear VS year",
+       "track": 10,
+       "audio": "media/drills/28-ee/010-ear-vs-year.mp3",
+       "duration": 173
+      }
+     ]
+    },
+    {
+     "module": "29",
+     "driveName": "29 - Important Vowels in English EH ε",
+     "label": "EH /ɛ/",
+     "lessons": [
+      2
+     ],
+     "items": [
+      {
+       "title": "EH ε introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/29-eh--001-eh-introduction.mp4",
+       "duration": 217
+      },
+      {
+       "title": "EH spelling",
+       "track": 2,
+       "audio": "media/drills/29-eh/002-eh-spelling.mp3",
+       "pdf": "media/drills/29-eh/002-eh-spelling.pdf",
+       "duration": 69,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/29-eh--002-eh-spelling.mp4"
+      },
+      {
+       "title": "EH VS AA minimal pairs",
+       "track": 3,
+       "audio": "media/drills/29-eh/003-eh-vs-aa-minimal-pairs.mp3",
+       "pdf": "media/drills/29-eh/003-eh-vs-aa-minimal-pairs.pdf",
+       "duration": 364,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/29-eh--003-eh-vs-aa-minimal-pairs.mp4"
+      },
+      {
+       "title": "EH words",
+       "track": 4,
+       "audio": "media/drills/29-eh/004-eh-words.mp3",
+       "pdf": "media/drills/29-eh/004-eh-words.pdf",
+       "duration": 254,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/29-eh--004-eh-words.mp4"
+      },
+      {
+       "title": "EH phrases",
+       "track": 5,
+       "audio": "media/drills/29-eh/005-eh-phrases.mp3",
+       "pdf": "media/drills/29-eh/005-eh-phrases.pdf",
+       "duration": 476,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/29-eh--005-eh-phrases.mp4"
+      },
+      {
+       "title": "EH sentences",
+       "track": 6,
+       "audio": "media/drills/29-eh/006-eh-sentences.mp3",
+       "pdf": "media/drills/29-eh/006-eh-sentences.pdf",
+       "duration": 320,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/29-eh--006-eh-sentences.mp4"
+      },
+      {
+       "title": "EH ε reading and conversation",
+       "track": 7,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/29-eh--007-eh-reading-and-conversation.mp4",
+       "duration": 107
+      }
+     ]
+    },
+    {
+     "module": "30",
+     "driveName": "30 - Important Vowels in English OO u",
+     "label": "OO /u/",
+     "lessons": [
+      3
+     ],
+     "items": [
+      {
+       "title": "OO u introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--001-oo-u-introduction.mp4",
+       "duration": 163
+      },
+      {
+       "title": "OO spelling",
+       "track": 2,
+       "audio": "media/drills/30-oo/002-oo-spelling.mp3",
+       "pdf": "media/drills/30-oo/002-oo-spelling.pdf",
+       "duration": 151,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--002-oo-u-spelling.mp4"
+      },
+      {
+       "title": "OO VS you words",
+       "track": 3,
+       "audio": "media/drills/30-oo/003-oo-vs-you-words.mp3",
+       "pdf": "media/drills/30-oo/003-oo-vs-you-words.pdf",
+       "duration": 229,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--003-oo-u-vs-you-words.mp4"
+      },
+      {
+       "title": "OO in ew spelled words",
+       "track": 4,
+       "audio": "media/drills/30-oo/004-oo-in-ew-spelled-words.mp3",
+       "pdf": "media/drills/30-oo/004-oo-in-ew-spelled-words.pdf",
+       "duration": 131,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--004-oo-u-in-ew-spelled-words.mp4"
+      },
+      {
+       "title": "OO words",
+       "track": 5,
+       "audio": "media/drills/30-oo/005-oo-words.mp3",
+       "pdf": "media/drills/30-oo/005-oo-words.pdf",
+       "duration": 229,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--005-oo-u-words.mp4"
+      },
+      {
+       "title": "OO phrases",
+       "track": 6,
+       "audio": "media/drills/30-oo/006-oo-phrases.mp3",
+       "pdf": "media/drills/30-oo/006-oo-phrases.pdf",
+       "duration": 333,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--006-oo-u-phrases.mp4"
+      },
+      {
+       "title": "OO sentences",
+       "track": 7,
+       "audio": "media/drills/30-oo/007-oo-sentences.mp3",
+       "pdf": "media/drills/30-oo/007-oo-sentences.pdf",
+       "duration": 274,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--007-oo-u-sentences.mp4"
+      },
+      {
+       "title": "OO u reading and conversation",
+       "track": 8,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--008-oo-u-reading-and-conversation.mp4",
+       "duration": 93
+      }
+     ]
+    },
+    {
+     "module": "31",
+     "driveName": "31 - Important Vowels in English AH EE ai",
+     "label": "AI /aɪ/",
+     "lessons": [
+      4
+     ],
+     "items": [
+      {
+       "title": "AI AI diphthong introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/31-ai--001-ai-ai-diphthong-introduction.mp4",
+       "duration": 252
+      },
+      {
+       "title": "AI diphthong spelling",
+       "track": 2,
+       "audio": "media/drills/31-ai/002-ai-diphthong-spelling.mp3",
+       "pdf": "media/drills/31-ai/002-ai-diphthong-spelling.pdf",
+       "duration": 105,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/31-ai--002-ai-ai-diphthong-spelling.mp4"
+      },
+      {
+       "title": "AI diphthong words",
+       "track": 3,
+       "audio": "media/drills/31-ai/003-ai-diphthong-words.mp3",
+       "pdf": "media/drills/31-ai/003-ai-diphthong-words.pdf",
+       "duration": 497,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/31-ai--003-ai-ai-diphthong-words-2.mp4"
+      },
+      {
+       "title": "AI diphthong phrases",
+       "track": 4,
+       "audio": "media/drills/31-ai/004-ai-diphthong-phrases.mp3",
+       "pdf": "media/drills/31-ai/004-ai-diphthong-phrases.pdf",
+       "duration": 565,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/31-ai--004-ai-ai-diphthong-phrases.mp4"
+      },
+      {
+       "title": "AI diphthong sentences",
+       "track": 5,
+       "audio": "media/drills/31-ai/005-ai-diphthong-sentences.mp3",
+       "pdf": "media/drills/31-ai/005-ai-diphthong-sentences.pdf",
+       "duration": 493,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/31-ai--005-ai-ai-diphthong-sentences.mp4"
+      },
+      {
+       "title": "AI diphthong homophones",
+       "track": 6,
+       "audio": "media/drills/31-ai/006-ai-diphthong-homophones.mp3",
+       "pdf": "media/drills/31-ai/006-ai-diphthong-homophones.pdf",
+       "duration": 196,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/31-ai--006-ai-ai-diphthong-homophones.mp4"
+      }
+     ]
+    },
+    {
+     "module": "32",
+     "driveName": "32 - Important Vowels in English EH EE ei",
+     "label": "EI /eɪ/",
+     "lessons": [
+      4
+     ],
+     "items": [
+      {
+       "title": "EI EI diphthong introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/32-ei--001-ei-ei-diphthong-introduction.mp4",
+       "duration": 182
+      },
+      {
+       "title": "EI diphthong spelling",
+       "track": 2,
+       "audio": "media/drills/32-ei/002-ei-diphthong-spelling.mp3",
+       "pdf": "media/drills/32-ei/002-ei-diphthong-spelling.pdf",
+       "duration": 97,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/32-ei--002-ei-ei-diphthong-spelling.mp4"
+      },
+      {
+       "title": "EI diphthong VS EH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/32-ei/003-ei-diphthong-vs-eh-minimal-pairs.mp3",
+       "pdf": "media/drills/32-ei/003-ei-diphthong-vs-eh-minimal-pairs.pdf",
+       "duration": 162,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/32-ei--003-ei-ei-diphthong-vs-eh-minimal-pairs.mp4"
+      },
+      {
+       "title": "EI diphthong words",
+       "track": 4,
+       "audio": "media/drills/32-ei/004-ei-diphthong-words.mp3",
+       "pdf": "media/drills/32-ei/004-ei-diphthong-words.pdf",
+       "duration": 313,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/32-ei--004-ei-ei-diphthong-words.mp4"
+      },
+      {
+       "title": "EI diphthong phrases",
+       "track": 5,
+       "audio": "media/drills/32-ei/005-ei-diphthong-phrases.mp3",
+       "pdf": "media/drills/32-ei/005-ei-diphthong-phrases.pdf",
+       "duration": 615,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/32-ei--005-ei-ei-diphthong-phrases.mp4"
+      },
+      {
+       "title": "EI diphthong sentences",
+       "track": 6,
+       "audio": "media/drills/32-ei/006-ei-diphthong-sentences.mp3",
+       "pdf": "media/drills/32-ei/006-ei-diphthong-sentences.pdf",
+       "duration": 165,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/32-ei--006-ei-ei-diphthong-sentences.mp4"
+      },
+      {
+       "title": "EI diphthong homophones and french words",
+       "track": 7,
+       "audio": "media/drills/32-ei/007-ei-diphthong-homophones-and-french-words.mp3",
+       "pdf": "media/drills/32-ei/007-ei-diphthong-homophones-and-french-words.pdf",
+       "duration": 293,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/32-ei--007-ei-ei-diphthong-homophones-and-french-words.mp4"
+      },
+      {
+       "title": "EI EI diphthong reading and conversation",
+       "track": 8,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/32-ei--008-ei-ei-diphthong-reading-and-conversation.mp4",
+       "duration": 107
+      }
+     ]
+    },
+    {
+     "module": "33",
+     "driveName": "33 - Important Vowels in English OH o",
+     "label": "OH /oʊ/",
+     "lessons": [
+      4
+     ],
+     "items": [
+      {
+       "title": "OH o introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/33-oh--001-oh-o-introduction.mp4",
+       "duration": 168
+      },
+      {
+       "title": "OH spelling",
+       "track": 2,
+       "audio": "media/drills/33-oh/002-oh-spelling.mp3",
+       "pdf": "media/drills/33-oh/002-oh-spelling.pdf",
+       "duration": 92,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/33-oh--002-oh-o-spelling.mp4"
+      },
+      {
+       "title": "OH VS UH and OH VS AH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/33-oh/003-oh-vs-uh-and-oh-vs-ah-minimal-pairs.mp3",
+       "pdf": "media/drills/33-oh/003-oh-vs-uh-and-oh-vs-ah-minimal-pairs.pdf",
+       "duration": 653,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/33-oh--003-oh-o-vs-uh-and-oh-o-vs-ah-a-minimal-pairs.mp4"
+      },
+      {
+       "title": "OH words",
+       "track": 4,
+       "audio": "media/drills/33-oh/004-oh-words.mp3",
+       "pdf": "media/drills/33-oh/004-oh-words.pdf",
+       "duration": 832,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/33-oh--004-oh-o-words.mp4"
+      },
+      {
+       "title": "OH phrases",
+       "track": 5,
+       "audio": "media/drills/33-oh/005-oh-phrases.mp3",
+       "pdf": "media/drills/33-oh/005-oh-phrases.pdf",
+       "duration": 530,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/33-oh--005-oh-o-phrases.mp4"
+      },
+      {
+       "title": "OH mixed phrases and sentences",
+       "track": 6,
+       "audio": "media/drills/33-oh/006-oh-mixed-phrases-and-sentences.mp3",
+       "pdf": "media/drills/33-oh/006-oh-mixed-phrases-and-sentences.pdf",
+       "duration": 304,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/33-oh--006-oh-o-mixed-phrases-and-sentences.mp4"
+      }
+     ]
+    },
+    {
+     "module": "34",
+     "driveName": "34 - Important Vowels in English AA OO au",
+     "label": "AU /aʊ/",
+     "lessons": [
+      4
+     ],
+     "items": [
+      {
+       "title": "Aw AU introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/34-au--001-aw-au-introduction.mp4",
+       "duration": 186
+      },
+      {
+       "title": "Aw spelling",
+       "track": 2,
+       "audio": "media/drills/34-au/002-aw-spelling.mp3",
+       "pdf": "media/drills/34-au/002-aw-spelling.pdf",
+       "duration": 100,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/34-au--002-aw-au-spelling.mp4"
+      },
+      {
+       "title": "Aw VS AH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/34-au/003-aw-vs-ah-minimal-pairs.mp3",
+       "pdf": "media/drills/34-au/003-aw-vs-ah-minimal-pairs.pdf",
+       "duration": 223,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/34-au--003-aw-au-vs-ah-a-minimal-pairs.mp4"
+      },
+      {
+       "title": "Aw words",
+       "track": 4,
+       "audio": "media/drills/34-au/004-aw-words.mp3",
+       "pdf": "media/drills/34-au/004-aw-words.pdf",
+       "duration": 269,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/34-au--004-aw-au-words.mp4"
+      },
+      {
+       "title": "Aw phrases",
+       "track": 5,
+       "audio": "media/drills/34-au/005-aw-phrases.mp3",
+       "pdf": "media/drills/34-au/005-aw-phrases.pdf",
+       "duration": 437,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/34-au--005-aw-au-phrases.mp4"
+      },
+      {
+       "title": "Aw sentences",
+       "track": 6,
+       "audio": "media/drills/34-au/006-aw-sentences.mp3",
+       "pdf": "media/drills/34-au/006-aw-sentences.pdf",
+       "duration": 273,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/34-au--006-aw-au-sentences.mp4"
+      }
+     ]
+    },
+    {
+     "module": "35",
+     "driveName": "35 - Important Vowels in English OH EE oi",
+     "label": "OI /ɔɪ/",
+     "lessons": [
+      4
+     ],
+     "items": [
+      {
+       "title": "OI introduction",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/35-oi--001-oi-introduction.mp4",
+       "duration": 159
+      },
+      {
+       "title": "OI spelling",
+       "track": 2,
+       "audio": "media/drills/35-oi/002-oi-spelling.mp3",
+       "pdf": "media/drills/35-oi/002-oi-spelling.pdf",
+       "duration": 28,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/35-oi--002-oi-spelling.mp4"
+      },
+      {
+       "title": "OI VS OH and OI VS AH minimal pairs",
+       "track": 3,
+       "audio": "media/drills/35-oi/003-oi-vs-oh-and-oi-vs-ah-minimal-pairs.mp3",
+       "pdf": "media/drills/35-oi/003-oi-vs-oh-and-oi-vs-ah-minimal-pairs.pdf",
+       "duration": 172,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/35-oi--003-oi-vs-oh-and-oi-vs-ah-minimal-pairs.mp4"
+      },
+      {
+       "title": "OI words",
+       "track": 4,
+       "audio": "media/drills/35-oi/004-oi-words.mp3",
+       "pdf": "media/drills/35-oi/004-oi-words.pdf",
+       "duration": 137,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/35-oi--004-oi-words.mp4"
+      },
+      {
+       "title": "OI phrases",
+       "track": 5,
+       "audio": "media/drills/35-oi/005-oi-phrases.mp3",
+       "pdf": "media/drills/35-oi/005-oi-phrases.pdf",
+       "duration": 194,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/35-oi--005-oi-phrases.mp4"
+      },
+      {
+       "title": "OI sentences",
+       "track": 6,
+       "audio": "media/drills/35-oi/006-oi-sentences.mp3",
+       "pdf": "media/drills/35-oi/006-oi-sentences.pdf",
+       "duration": 141,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/35-oi--006-oi-sentences.mp4"
+      },
+      {
+       "title": "OH aw OI diphthong reading and conversation",
+       "track": 7,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/35-oi--007-oh-aw-oi-diphthong-reading-and-conversation.mp4",
+       "duration": 164
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part 4 · Exceptions",
+   "modules": [
+    {
+     "module": "36",
+     "driveName": "36 - PART FOUR English Exceptions",
+     "label": "English exceptions",
+     "lessons": [
+      12
+     ],
+     "items": [
+      {
+       "title": "Common word exceptions",
+       "track": 1,
+       "audio": "media/drills/36-exceptions/001-common-word-exceptions.mp3",
+       "pdf": "media/drills/36-exceptions/001-common-word-exceptions.pdf",
+       "duration": 80,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--001-common-word-exceptions.mp4"
+      },
+      {
+       "title": "Homonym words",
+       "track": 2,
+       "audio": "media/drills/36-exceptions/002-homonym-words.mp3",
+       "pdf": "media/drills/36-exceptions/002-homonym-words.pdf",
+       "duration": 548,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--002-homonym-words.mp4"
+      },
+      {
+       "title": "Silent letters",
+       "track": 3,
+       "audio": "media/drills/36-exceptions/003-silent-letters.mp3",
+       "pdf": "media/drills/36-exceptions/003-silent-letters.pdf",
+       "duration": 1474,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--003-silent-letters.mp4"
+      },
+      {
+       "title": "Two accepted pronunciations",
+       "track": 4,
+       "audio": "media/drills/36-exceptions/004-two-accepted-pronunciations.mp3",
+       "pdf": "media/drills/36-exceptions/004-two-accepted-pronunciations.pdf",
+       "duration": 127,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--004-two-accepted-pronunciations.mp4"
+      },
+      {
+       "title": "When CH is pronounced K",
+       "track": 5,
+       "audio": "media/drills/36-exceptions/005-when-ch-is-pronounced-k.mp3",
+       "pdf": "media/drills/36-exceptions/005-when-ch-is-pronounced-k.pdf",
+       "duration": 77,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--005-when-ch-is-pronounced-k.mp4"
+      },
+      {
+       "title": "When TH is pronounced T",
+       "track": 6,
+       "audio": "media/drills/36-exceptions/006-when-th-is-pronounced-t.mp3",
+       "pdf": "media/drills/36-exceptions/006-when-th-is-pronounced-t.pdf",
+       "duration": 54,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--006-when-th-is-pronounced-t.mp4"
+      },
+      {
+       "title": "Ough pronunciation",
+       "track": 7,
+       "audio": "media/drills/36-exceptions/007-ough-pronunciation.mp3",
+       "pdf": "media/drills/36-exceptions/007-ough-pronunciation.pdf",
+       "duration": 171,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--007-ough-pronunciation.mp4"
+      },
+      {
+       "title": "Dropped vowels and syllables",
+       "track": 8,
+       "audio": "media/drills/36-exceptions/008-dropped-vowels-and-syllables.mp3",
+       "pdf": "media/drills/36-exceptions/008-dropped-vowels-and-syllables.pdf",
+       "duration": 798,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--008-dropped-vowels-and-syllables.mp4"
+      },
+      {
+       "title": "Or and ol dropped words and sentences",
+       "track": 9,
+       "audio": "media/drills/36-exceptions/009-or-and-ol-dropped-words-and-sentences.mp3",
+       "pdf": "media/drills/36-exceptions/009-or-and-ol-dropped-words-and-sentences.pdf",
+       "duration": 147,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--009-or-and-ol-dropped-words-and-sentences.mp4"
+      },
+      {
+       "title": "Er dropped words and sentences",
+       "track": 10,
+       "audio": "media/drills/36-exceptions/010-er-dropped-words-and-sentences.mp3",
+       "pdf": "media/drills/36-exceptions/010-er-dropped-words-and-sentences.pdf",
+       "duration": 302,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--010-er-dropped-words-and-sentences.mp4"
+      },
+      {
+       "title": "Ally dropped a words and sentences",
+       "track": 11,
+       "audio": "media/drills/36-exceptions/011-ally-dropped-a-words-and-sentences.mp3",
+       "pdf": "media/drills/36-exceptions/011-ally-dropped-a-words-and-sentences.pdf",
+       "duration": 467,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--011-ally-dropped-a-words-and-sentences.mp4"
+      },
+      {
+       "title": "Syllabic L and al words and sentences",
+       "track": 12,
+       "audio": "media/drills/36-exceptions/012-syllabic-l-and-al-words-and-sentences.mp3",
+       "pdf": "media/drills/36-exceptions/012-syllabic-l-and-al-words-and-sentences.pdf",
+       "duration": 524,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--012-syllabic-l-and-al-words-and-sentences.mp4"
+      },
+      {
+       "title": "Syllabic N words",
+       "track": 13,
+       "audio": "media/drills/36-exceptions/013-syllabic-n-words.mp3",
+       "pdf": "media/drills/36-exceptions/013-syllabic-n-words.pdf",
+       "duration": 117,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--013-syllabic-n-words.mp4"
+      },
+      {
+       "title": "Exceptions reading and conversation",
+       "track": 14,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/36-exceptions--014-exceptions-reading-and-conversation.mp4",
+       "duration": 169
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part 5 · Stress and fluency",
+   "modules": [
+    {
+     "module": "37",
+     "driveName": "37 - PART FIVE Stress Patterns in English",
+     "label": "Stress patterns",
+     "lessons": [
+      8,
+      14
+     ],
+     "items": [
+      {
+       "title": "Stress handout",
+       "track": 1,
+       "pdf": "media/drills/37-stress/001-stress-handout.pdf",
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--001-stress-introduction.mp4",
+       "duration": 412
+      },
+      {
+       "title": "De stressed words and sentences",
+       "track": 2,
+       "audio": "media/drills/37-stress/002-de-stressed-words-and-sentences.mp3",
+       "pdf": "media/drills/37-stress/002-de-stressed-words-and-sentences.pdf",
+       "duration": 580,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--002-de-stressed-words-and-sentences.mp4"
+      },
+      {
+       "title": "De stressed a in phrases",
+       "track": 3,
+       "audio": "media/drills/37-stress/003-de-stressed-a-in-phrases.mp3",
+       "pdf": "media/drills/37-stress/003-de-stressed-a-in-phrases.pdf",
+       "duration": 257,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--003-de-stressed-a-in-phrases.mp4"
+      },
+      {
+       "title": "De stressed to in phrases",
+       "track": 4,
+       "audio": "media/drills/37-stress/004-de-stressed-to-in-phrases.mp3",
+       "pdf": "media/drills/37-stress/004-de-stressed-to-in-phrases.pdf",
+       "duration": 641,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--004-de-stressed-to-in-phrases.mp4"
+      },
+      {
+       "title": "De stressed the in phrases",
+       "track": 5,
+       "audio": "media/drills/37-stress/005-de-stressed-the-in-phrases.mp3",
+       "pdf": "media/drills/37-stress/005-de-stressed-the-in-phrases.pdf",
+       "duration": 390,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--005-de-stressed-the-in-phrases.mp4"
+      },
+      {
+       "title": "De stressed our in phrases",
+       "track": 6,
+       "audio": "media/drills/37-stress/006-de-stressed-our-in-phrases.mp3",
+       "pdf": "media/drills/37-stress/006-de-stressed-our-in-phrases.pdf",
+       "duration": 208,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--006-de-stressed-our-in-phrases.mp4"
+      },
+      {
+       "title": "Content VS function words and sentences",
+       "track": 7,
+       "audio": "media/drills/37-stress/007-content-vs-function-words-and-sentences.mp3",
+       "pdf": "media/drills/37-stress/007-content-vs-function-words-and-sentences.pdf",
+       "duration": 509,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--007-content-vs-function-words-and-sentences.mp4"
+      },
+      {
+       "title": "Stress practice sentences",
+       "track": 8,
+       "audio": "media/drills/37-stress/008-stress-practice-sentences.mp3",
+       "pdf": "media/drills/37-stress/008-stress-practice-sentences.pdf",
+       "duration": 263,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--008-stress-practice-sentences.mp4"
+      },
+      {
+       "title": "New information stress",
+       "track": 9,
+       "audio": "media/drills/37-stress/009-new-information-stress.mp3",
+       "pdf": "media/drills/37-stress/009-new-information-stress.pdf",
+       "duration": 56,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--009-new-information-stress.mp4"
+      }
+     ]
+    },
+    {
+     "module": "38",
+     "driveName": "38 - Syllabic Stress in English",
+     "label": "Syllabic stress",
+     "lessons": [
+      7
+     ],
+     "items": [
+      {
+       "title": "Syllables introduction",
+       "track": 1,
+       "audio": "media/drills/38-syllabic-stress/001-syllables-introduction.mp3",
+       "pdf": "media/drills/38-syllabic-stress/001-syllables-introduction.pdf",
+       "duration": 317,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--001-syllables-introduction.mp4"
+      },
+      {
+       "title": "Syllables rule 1 2 and 3",
+       "track": 2,
+       "audio": "media/drills/38-syllabic-stress/002-syllables-rule-1-2-and-3.mp3",
+       "pdf": "media/drills/38-syllabic-stress/002-syllables-rule-1-2-and-3.pdf",
+       "duration": 446,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--002-syllables-rule-1-2-and-3.mp4"
+      },
+      {
+       "title": "Syllables rule 4",
+       "track": 3,
+       "audio": "media/drills/38-syllabic-stress/003-syllables-rule-4.mp3",
+       "pdf": "media/drills/38-syllabic-stress/003-syllables-rule-4.pdf",
+       "duration": 632,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--003-syllables-rule-4.mp4"
+      },
+      {
+       "title": "Syllables rule 5",
+       "track": 4,
+       "audio": "media/drills/38-syllabic-stress/004-syllables-rule-5.mp3",
+       "pdf": "media/drills/38-syllabic-stress/004-syllables-rule-5.pdf",
+       "duration": 305,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--004-syllables-rule-5.mp4"
+      },
+      {
+       "title": "Syllables rule 6",
+       "track": 5,
+       "audio": "media/drills/38-syllabic-stress/005-syllables-rule-6.mp3",
+       "pdf": "media/drills/38-syllabic-stress/005-syllables-rule-6.pdf",
+       "duration": 119,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--005-syllables-rule-6.mp4"
+      },
+      {
+       "title": "Syllables rule 7",
+       "track": 6,
+       "audio": "media/drills/38-syllabic-stress/006-syllables-rule-7.mp3",
+       "pdf": "media/drills/38-syllabic-stress/006-syllables-rule-7.pdf",
+       "duration": 96,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--006-syllables-rule-7.mp4"
+      },
+      {
+       "title": "Syllables rule 8",
+       "track": 7,
+       "audio": "media/drills/38-syllabic-stress/007-syllables-rule-8.mp3",
+       "pdf": "media/drills/38-syllabic-stress/007-syllables-rule-8.pdf",
+       "duration": 51,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--007-syllables-rule-8.mp4"
+      },
+      {
+       "title": "Syllables rule 9",
+       "track": 8,
+       "audio": "media/drills/38-syllabic-stress/008-syllables-rule-9.mp3",
+       "pdf": "media/drills/38-syllabic-stress/008-syllables-rule-9.pdf",
+       "duration": 62,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--008-syllables-rule-9.mp4"
+      },
+      {
+       "title": "Syllables rule 10",
+       "track": 9,
+       "audio": "media/drills/38-syllabic-stress/009-syllables-rule-10.mp3",
+       "pdf": "media/drills/38-syllabic-stress/009-syllables-rule-10.pdf",
+       "duration": 39,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--009-syllables-rule-10.mp4"
+      },
+      {
+       "title": "Syllables rule 11",
+       "track": 10,
+       "audio": "media/drills/38-syllabic-stress/010-syllables-rule-11.mp3",
+       "pdf": "media/drills/38-syllabic-stress/010-syllables-rule-11.pdf",
+       "duration": 54,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--010-syllables-rule-11.mp4"
+      },
+      {
+       "title": "Syllables rule 12",
+       "track": 11,
+       "audio": "media/drills/38-syllabic-stress/011-syllables-rule-12.mp3",
+       "pdf": "media/drills/38-syllabic-stress/011-syllables-rule-12.pdf",
+       "duration": 28,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--011-syllables-rule-12.mp4"
+      },
+      {
+       "title": "Syllable stress practice",
+       "track": 12,
+       "audio": "media/drills/38-syllabic-stress/012-syllable-stress-practice.mp3",
+       "pdf": "media/drills/38-syllabic-stress/012-syllable-stress-practice.pdf",
+       "duration": 267,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--012-syllable-stress-practice.mp4"
+      }
+     ]
+    },
+    {
+     "module": "39",
+     "driveName": "39 - Intonation in English",
+     "label": "Intonation",
+     "lessons": [
+      15
+     ],
+     "items": [
+      {
+       "title": "Intonation falling and rising practice",
+       "track": 1,
+       "audio": "media/drills/39-intonation/001-intonation-falling-and-rising-practice.mp3",
+       "pdf": "media/drills/39-intonation/001-intonation-falling-and-rising-practice.pdf",
+       "duration": 603,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--001-intonation-falling-and-rising-practice.mp4"
+      },
+      {
+       "title": "Intonation in lists",
+       "track": 2,
+       "audio": "media/drills/39-intonation/002-intonation-in-lists.mp3",
+       "pdf": "media/drills/39-intonation/002-intonation-in-lists.pdf",
+       "duration": 106,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--002-intonation-in-lists.mp4"
+      },
+      {
+       "title": "Intonation with choices",
+       "track": 3,
+       "audio": "media/drills/39-intonation/003-intonation-with-choices.mp3",
+       "pdf": "media/drills/39-intonation/003-intonation-with-choices.pdf",
+       "duration": 57,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--003-intonation-with-choices.mp4"
+      },
+      {
+       "title": "Unsure intonation",
+       "track": 4,
+       "audio": "media/drills/39-intonation/004-unsure-intonation.mp3",
+       "pdf": "media/drills/39-intonation/004-unsure-intonation.pdf",
+       "duration": 43,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--004-unsure-intonation.mp4"
+      },
+      {
+       "title": "Intonation in tag questions",
+       "track": 5,
+       "audio": "media/drills/39-intonation/005-intonation-in-tag-questions.mp3",
+       "pdf": "media/drills/39-intonation/005-intonation-in-tag-questions.pdf",
+       "duration": 107,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--005-intonation-in-tag-questions.mp4"
+      },
+      {
+       "title": "Intonation sentence practice",
+       "track": 6,
+       "audio": "media/drills/39-intonation/006-intonation-sentence-practice.mp3",
+       "pdf": "media/drills/39-intonation/006-intonation-sentence-practice.pdf",
+       "duration": 293,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--006-intonation-sentence-practice.mp4"
+      },
+      {
+       "title": "Intonation in reading and conversation",
+       "track": 7,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--007-intonation-in-reading-and-conversation.mp4",
+       "duration": 255
+      }
+     ]
+    },
+    {
+     "module": "40",
+     "driveName": "40 - Fluency in American English",
+     "label": "Fluency and linking",
+     "lessons": [
+      10,
+      13
+     ],
+     "items": [
+      {
+       "title": "Phrasing introduction",
+       "track": 1,
+       "audio": "media/drills/40-fluency/001-phrasing-introduction.mp3",
+       "pdf": "media/drills/40-fluency/001-phrasing-introduction.pdf",
+       "duration": 173,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--001-phrasing-introduction.mp4"
+      },
+      {
+       "title": "Phrasing in reading",
+       "track": 2,
+       "audio": "media/drills/40-fluency/002-phrasing-in-reading.mp3",
+       "pdf": "media/drills/40-fluency/002-phrasing-in-reading.pdf",
+       "duration": 95,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--002-phrasing-in-reading.mp4"
+      },
+      {
+       "title": "Linking introduction",
+       "track": 3,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--003-linking-introduction.mp4",
+       "duration": 284
+      },
+      {
+       "title": "Linking consonants to vowels",
+       "track": 4,
+       "audio": "media/drills/40-fluency/004-linking-consonants-to-vowels.mp3",
+       "pdf": "media/drills/40-fluency/004-linking-consonants-to-vowels.pdf",
+       "duration": 932,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--004-linking-consonants-to-vowels.mp4"
+      },
+      {
+       "title": "Linking identical consonants",
+       "track": 5,
+       "audio": "media/drills/40-fluency/005-linking-identical-consonants.mp3",
+       "pdf": "media/drills/40-fluency/005-linking-identical-consonants.pdf",
+       "duration": 503,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--005-linking-identical-consonants.mp4"
+      },
+      {
+       "title": "Linking similar consonants",
+       "track": 6,
+       "audio": "media/drills/40-fluency/006-linking-similar-consonants.mp3",
+       "pdf": "media/drills/40-fluency/006-linking-similar-consonants.pdf",
+       "duration": 155,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--006-linking-similar-consonants.mp4"
+      },
+      {
+       "title": "Linking with Y and W shadows",
+       "track": 7,
+       "audio": "media/drills/40-fluency/007-linking-with-y-and-w-shadows.mp3",
+       "pdf": "media/drills/40-fluency/007-linking-with-y-and-w-shadows.pdf",
+       "duration": 688,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--007-linking-with-y-and-w-shadows.mp4"
+      },
+      {
+       "title": "Xt st and nd reductions words and sentences",
+       "track": 8,
+       "audio": "media/drills/40-fluency/008-xt-st-and-nd-reductions-words-and-sentences.mp3",
+       "pdf": "media/drills/40-fluency/008-xt-st-and-nd-reductions-words-and-sentences.pdf",
+       "duration": 549,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--008-xt-st-and-nd-reductions-words-and-sentences.mp4"
+      },
+      {
+       "title": "Phrasing and linking in reading and conversation",
+       "track": 9,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--009-phrasing-and-linking-in-reading-and-conversation.mp4",
+       "duration": 255
+      }
+     ]
+    },
+    {
+     "module": "41",
+     "driveName": "41 - Reductions and Contractions Speaking Fluency in English",
+     "label": "Reductions and contractions",
+     "lessons": [
+      9
+     ],
+     "items": [
+      {
+       "title": "Contractions phrases and sentences",
+       "track": 1,
+       "audio": "media/drills/41-reductions/001-contractions-phrases-and-sentences.mp3",
+       "pdf": "media/drills/41-reductions/001-contractions-phrases-and-sentences.pdf",
+       "duration": 538,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/41-reductions--001-contractions-phrases-and-sentences.mp4"
+      },
+      {
+       "title": "Reductions words and sentences",
+       "track": 2,
+       "audio": "media/drills/41-reductions/002-reductions-words-and-sentences.mp3",
+       "pdf": "media/drills/41-reductions/002-reductions-words-and-sentences.pdf",
+       "duration": 257,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/41-reductions--002-reductions-words-and-sentences.mp4"
+      },
+      {
+       "title": "Contractions and reductions practice sentences",
+       "track": 3,
+       "audio": "media/drills/41-reductions/003-contractions-and-reductions-practice-sentences.mp3",
+       "pdf": "media/drills/41-reductions/003-contractions-and-reductions-practice-sentences.pdf",
+       "duration": 486,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/41-reductions--003-contractions-and-reductions-practice-sentences.mp4"
+      },
+      {
+       "title": "Contractions and reductions reading and conversation",
+       "track": 4,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/41-reductions--004-contractions-and-reductions-reading-and-conversation.mp4",
+       "duration": 174
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Going forward",
+   "modules": [
+    {
+     "module": "42",
+     "driveName": "42 - What to Work on First",
+     "label": "What to work on first",
+     "lessons": [
+      16
+     ],
+     "items": [
+      {
+       "title": "What to work on first",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/42-what-to-work-on-first--001-what-to-work-on-first.mp4",
+       "duration": 672
+      }
+     ]
+    },
+    {
+     "module": "43",
+     "driveName": "43 - GOING FORWARD",
+     "label": "Going forward",
+     "lessons": [
+      16
+     ],
+     "items": [
+      {
+       "title": "Client coveted interview phrases",
+       "track": 1,
+       "pdf": "media/drills/43-going-forward/001-client-coveted-interview-phrases.pdf"
+      },
+      {
+       "title": "Common presentation phrases",
+       "track": 1,
+       "pdf": "media/drills/43-going-forward/001-common-presentation-phrases.pdf"
+      },
+      {
+       "title": "Disclaimer video course",
+       "track": 1,
+       "pdf": "media/drills/43-going-forward/001-disclaimer-video-course.pdf"
+      },
+      {
+       "title": "English spelling secrets",
+       "track": 1,
+       "pdf": "media/drills/43-going-forward/001-english-spelling-secrets.pdf"
+      },
+      {
+       "title": "Flaunt your vocab tool",
+       "track": 1,
+       "pdf": "media/drills/43-going-forward/001-flaunt-your-vocab-tool.pdf"
+      },
+      {
+       "title": "Supercharge your goals1",
+       "track": 1,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/43-going-forward--001-supercharge-your-goals1.mp4",
+       "duration": 174
+      }
+     ]
+    },
+    {
+     "module": "44",
+     "driveName": "44 - BONUS",
+     "label": "Bonus",
+     "lessons": [
+      16
+     ],
+     "items": [
+      {
+       "title": "English pronunciation assessment",
+       "track": 2,
+       "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/44-bonus--002-english-pronunciation-assessment.mp4",
+       "duration": 83
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

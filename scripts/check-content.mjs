@@ -42,5 +42,23 @@ if(process.argv.includes('--online')){
 }
 if(failures.length){console.error(failures.join('\n'));process.exit(1)}
 if(videoItems!==videoMap.length)failures.push(`Expected ${videoMap.length} videos attached, got ${videoItems}`);
+const library=JSON.parse(fs.readFileSync('public/media/library.json'));
+const libModules=library.sections.flatMap(s=>s.modules);
+if(libModules.length!==44)failures.push(`Library must list 44 modules, got ${libModules.length}`);
+let libItems=0;
+for(const mod of libModules){
+ if(!mod.driveName?.startsWith(mod.module))failures.push(`Library ${mod.module}: drive name out of order`);
+ if(!mod.lessons?.length||mod.lessons.some(l=>l<1||l>16))failures.push(`Library ${mod.module}: bad lesson link`);
+ if(!mod.items?.length)failures.push(`Library ${mod.module}: no items`);
+ for(const item of mod.items??[]){
+  libItems++;
+  if(item.audio&&!fs.existsSync(`public/${item.audio}`))failures.push(`Library ${mod.module}: missing ${item.audio}`);
+  if(item.pdf&&!fs.existsSync(`public/${item.pdf}`))failures.push(`Library ${mod.module}: missing ${item.pdf}`);
+  if(item.video&&!videoUrls.has(item.video))failures.push(`Library ${mod.module}: unknown video`);
+ }
+}
+const expectedOrder=[...Array(44)].map((_,i)=>String(i+1).padStart(2,'0'));
+if(libModules.map(m=>m.module).join(',')!==expectedOrder.join(','))failures.push('Library modules are not in Drive order 01-44');
+if(libItems!==drills)failures.push(`Library items ${libItems} do not match lesson drills ${drills}`);
 if(failures.length){console.error(failures.join('\n'));process.exit(1)}
-console.log(`Content checks passed: ${index.length} lessons, ${ipa.length} IPA targets, ${videos.size} unique YouTube clips, ${drills} drill items (${audioFiles} audio, ${videoItems} course videos).`);
+console.log(`Content checks passed: ${index.length} lessons, ${ipa.length} IPA targets, ${videos.size} unique YouTube clips, ${drills} drill items (${audioFiles} audio, ${videoItems} course videos), ${libModules.length} library modules.`);
