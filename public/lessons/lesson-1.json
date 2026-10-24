@@ -50,23 +50,51 @@
   ],
   "drills": [
     {
-      "module": "Course handouts",
+      "module": "Course orientation",
       "items": [
         {
           "title": "English sound cheat sheet",
-          "pdf": "media/drills/01-handouts/001-english-sound-cheat-sheet.pdf"
+          "track": 1,
+          "pdf": "media/drills/01-orientation/001-english-sound-cheat-sheet.pdf",
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--001-introduction.mp4",
+          "duration": 260
         },
         {
           "title": "Self assessment tool",
-          "pdf": "media/drills/01-handouts/001-self-assessment-tool.pdf"
+          "track": 1,
+          "pdf": "media/drills/01-orientation/001-self-assessment-tool.pdf"
         },
         {
           "title": "Top most common English words",
-          "pdf": "media/drills/01-handouts/002-top-most-common-english-words.pdf"
+          "track": 2,
+          "pdf": "media/drills/01-orientation/002-top-most-common-english-words.pdf",
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--002-why-is-my-accent-so-difficult-to-change.mp4",
+          "duration": 395
+        },
+        {
+          "title": "What is an accent",
+          "track": 3,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--003-what-is-an-accent.mp4",
+          "duration": 412
+        },
+        {
+          "title": "Speech 101",
+          "track": 4,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--004-speech-101.mp4",
+          "duration": 643
+        },
+        {
+          "title": "IPA for vowels an overview part 1",
+          "track": 5,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--005-ipa-for-vowels-an-overview-part-1.mp4",
+          "duration": 1291
         },
         {
           "title": "IPA vowel handout",
-          "pdf": "media/drills/01-handouts/006-ipa-vowel-handout.pdf"
+          "track": 6,
+          "pdf": "media/drills/01-orientation/006-ipa-vowel-handout.pdf",
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/01-orientation--006-ipa-for-vowels-part-2-with-quiz.mp4",
+          "duration": 1256
         }
       ]
     }

@@ -95,3 +95,10 @@
 .drill-recording strong{font:normal 28px 'DM Serif Display',serif}
 .drill-recording .button{padding:10px 14px;min-height:40px;font-size:12px}
 @media(max-width:650px){.drill-recorder{display:block}.drill-recorder-controls{align-items:flex-start;margin-top:14px;min-width:0}.drill-recorder-controls audio{width:100%}}
+.drill-item{border-bottom:1px solid #eef0ea}
+.drill-item .drill-row{border-bottom:0}
+.drill-video{flex-shrink:0;padding:8px 12px;min-height:38px;font-size:12px;gap:6px}
+.drill-video.active{background:#e4ede2;border-color:#c9d8c9;color:#33503f}
+.drill-video-frame{padding:0 18px 16px;background:#fff}
+.drill-video-frame video{width:100%;max-height:420px;background:#1e2621;border-radius:4px;display:block}
+@media(max-width:650px){.drill-video{margin-left:auto}}

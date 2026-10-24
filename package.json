@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 0.0.0.0",
     "check:content": "node scripts/check-content.mjs",
-    "import:media": "node scripts/import-media.mjs"
+    "import:media": "node scripts/import-media.mjs && node scripts/import-videos.mjs",
+    "import:videos": "node scripts/import-videos.mjs",
+    "upload:videos": "node scripts/upload-videos.mjs --upload"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

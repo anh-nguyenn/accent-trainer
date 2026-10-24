@@ -54,15 +54,25 @@
       "items": [
         {
           "title": "Phrasing introduction",
+          "track": 1,
           "audio": "media/drills/40-fluency/001-phrasing-introduction.mp3",
           "pdf": "media/drills/40-fluency/001-phrasing-introduction.pdf",
-          "duration": 173
+          "duration": 173,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--001-phrasing-introduction.mp4"
         },
         {
           "title": "Phrasing in reading",
+          "track": 2,
           "audio": "media/drills/40-fluency/002-phrasing-in-reading.mp3",
           "pdf": "media/drills/40-fluency/002-phrasing-in-reading.pdf",
-          "duration": 95
+          "duration": 95,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--002-phrasing-in-reading.mp4"
+        },
+        {
+          "title": "Phrasing and linking in reading and conversation",
+          "track": 9,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--009-phrasing-and-linking-in-reading-and-conversation.mp4",
+          "duration": 255
         }
       ]
     }

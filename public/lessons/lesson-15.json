@@ -54,39 +54,57 @@
       "items": [
         {
           "title": "Intonation falling and rising practice",
+          "track": 1,
           "audio": "media/drills/39-intonation/001-intonation-falling-and-rising-practice.mp3",
           "pdf": "media/drills/39-intonation/001-intonation-falling-and-rising-practice.pdf",
-          "duration": 603
+          "duration": 603,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--001-intonation-falling-and-rising-practice.mp4"
         },
         {
           "title": "Intonation in lists",
+          "track": 2,
           "audio": "media/drills/39-intonation/002-intonation-in-lists.mp3",
           "pdf": "media/drills/39-intonation/002-intonation-in-lists.pdf",
-          "duration": 106
+          "duration": 106,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--002-intonation-in-lists.mp4"
         },
         {
           "title": "Intonation with choices",
+          "track": 3,
           "audio": "media/drills/39-intonation/003-intonation-with-choices.mp3",
           "pdf": "media/drills/39-intonation/003-intonation-with-choices.pdf",
-          "duration": 57
+          "duration": 57,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--003-intonation-with-choices.mp4"
         },
         {
           "title": "Unsure intonation",
+          "track": 4,
           "audio": "media/drills/39-intonation/004-unsure-intonation.mp3",
           "pdf": "media/drills/39-intonation/004-unsure-intonation.pdf",
-          "duration": 43
+          "duration": 43,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--004-unsure-intonation.mp4"
         },
         {
           "title": "Intonation in tag questions",
+          "track": 5,
           "audio": "media/drills/39-intonation/005-intonation-in-tag-questions.mp3",
           "pdf": "media/drills/39-intonation/005-intonation-in-tag-questions.pdf",
-          "duration": 107
+          "duration": 107,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--005-intonation-in-tag-questions.mp4"
         },
         {
           "title": "Intonation sentence practice",
+          "track": 6,
           "audio": "media/drills/39-intonation/006-intonation-sentence-practice.mp3",
           "pdf": "media/drills/39-intonation/006-intonation-sentence-practice.pdf",
-          "duration": 293
+          "duration": 293,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--006-intonation-sentence-practice.mp4"
+        },
+        {
+          "title": "Intonation in reading and conversation",
+          "track": 7,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/39-intonation--007-intonation-in-reading-and-conversation.mp4",
+          "duration": 255
         }
       ]
     }

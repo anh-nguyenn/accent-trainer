@@ -12,7 +12,7 @@ Natural speech clips feature Asian American creators, including [Wong Fu Product
 | --- | --- |
 | Follow a clear path | Four stages and 16 lessons: sounds, connected speech, rhythm and intonation, then real-life speaking. |
 | Practice each lesson | Watch, repeat, shadow a short loop, record, and self-compare with a focused checklist. |
-| Drill with course audio | 386 audio drills with printable PDF handouts, grouped by sound and mapped to the 16 lessons. Record your own take in the Drills step and delete it when you are done. |
+| Drill with course media | 458 drill items pairing 376 audio drills and 451 course videos with printable PDF handouts, grouped by sound and mapped to the 16 lessons. Record your own take in the Drills step and delete it when you are done. |
 | Explore sounds | Interactive IPA chart with 20 vowel targets and 24 consonants, examples, and mouth-position notes. |
 | Check your starting point | Read a short passage, listen back, and choose what to practice. |
 | Keep control of your take | Record audio or video in your browser, replay it, and discard it. |
@@ -61,6 +61,7 @@ public/lessons/      One JSON file per lesson, plus the lesson index
 public/ipa.json      Sound chart content
 public/stages.json   Four-stage navigation content
 public/media/drills/ Course MP3 drills and PDF handouts, grouped by sound
+public/media/videos.json Manifest of the 451 course videos hosted on GitHub Releases
 scripts/             Content validation and media import
 .github/             CI and contribution templates
 ```
@@ -71,6 +72,6 @@ Lesson text and IPA targets are maintained as data, so content edits do not requ
 
 The lesson order is inspired by the public outline of TE English's *American Accent Training* course. Practice words, sentences, and self-checks in this project are original; the project is independent of TE English. Videos remain on YouTube and are embedded with creator credit. Course audio drills and handouts are © Rebecca Bower / PROactive Pronunciation and are used with written permission. [PLAN.md](./PLAN.md) describes the product scope, [PRODUCT.md](./PRODUCT.md) records product decisions, and [DESIGN.md](./DESIGN.md) documents the interface.
 
-The deployed site includes about 700 MB of 64 kbps MP3 drills and 166 MB of PDF handouts. That fits under GitHub Pages' 1 GB published-site limit but leaves little headroom for new media.
+The deployed site includes about 700 MB of 64 kbps MP3 drills and 166 MB of PDF handouts. That fits under GitHub Pages' 1 GB published-site limit but leaves little headroom for new media. The 11.6 GB of MP4 course videos are hosted as assets on the `course-media-v1` GitHub Release; `public/media/videos.json` maps every video to its lesson and URL. Video playback depends on that release staying published.
 
 **Current status:** The static build, content checks, and online video checks pass. The site is deployed to GitHub Pages. Real-device video, microphone, and camera testing is still needed before calling the app launch-ready. Pronunciation content also needs an independent educator review.

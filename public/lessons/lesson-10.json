@@ -53,34 +53,50 @@
       "module": "Fluency and linking",
       "items": [
         {
+          "title": "Linking introduction",
+          "track": 3,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--003-linking-introduction.mp4",
+          "duration": 284
+        },
+        {
           "title": "Linking consonants to vowels",
+          "track": 4,
           "audio": "media/drills/40-fluency/004-linking-consonants-to-vowels.mp3",
           "pdf": "media/drills/40-fluency/004-linking-consonants-to-vowels.pdf",
-          "duration": 932
+          "duration": 932,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--004-linking-consonants-to-vowels.mp4"
         },
         {
           "title": "Linking identical consonants",
+          "track": 5,
           "audio": "media/drills/40-fluency/005-linking-identical-consonants.mp3",
           "pdf": "media/drills/40-fluency/005-linking-identical-consonants.pdf",
-          "duration": 503
+          "duration": 503,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--005-linking-identical-consonants.mp4"
         },
         {
           "title": "Linking similar consonants",
+          "track": 6,
           "audio": "media/drills/40-fluency/006-linking-similar-consonants.mp3",
           "pdf": "media/drills/40-fluency/006-linking-similar-consonants.pdf",
-          "duration": 155
+          "duration": 155,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--006-linking-similar-consonants.mp4"
         },
         {
           "title": "Linking with Y and W shadows",
+          "track": 7,
           "audio": "media/drills/40-fluency/007-linking-with-y-and-w-shadows.mp3",
           "pdf": "media/drills/40-fluency/007-linking-with-y-and-w-shadows.pdf",
-          "duration": 688
+          "duration": 688,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--007-linking-with-y-and-w-shadows.mp4"
         },
         {
           "title": "Xt st and nd reductions words and sentences",
+          "track": 8,
           "audio": "media/drills/40-fluency/008-xt-st-and-nd-reductions-words-and-sentences.mp3",
           "pdf": "media/drills/40-fluency/008-xt-st-and-nd-reductions-words-and-sentences.pdf",
-          "duration": 549
+          "duration": 549,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/40-fluency--008-xt-st-and-nd-reductions-words-and-sentences.mp4"
         }
       ]
     }

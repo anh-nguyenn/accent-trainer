@@ -54,49 +54,66 @@
       "items": [
         {
           "title": "Stress handout",
-          "pdf": "media/drills/37-stress/001-stress-handout.pdf"
+          "track": 1,
+          "pdf": "media/drills/37-stress/001-stress-handout.pdf",
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--001-stress-introduction.mp4",
+          "duration": 412
         },
         {
           "title": "De stressed words and sentences",
+          "track": 2,
           "audio": "media/drills/37-stress/002-de-stressed-words-and-sentences.mp3",
           "pdf": "media/drills/37-stress/002-de-stressed-words-and-sentences.pdf",
-          "duration": 580
+          "duration": 580,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--002-de-stressed-words-and-sentences.mp4"
         },
         {
           "title": "De stressed a in phrases",
+          "track": 3,
           "audio": "media/drills/37-stress/003-de-stressed-a-in-phrases.mp3",
           "pdf": "media/drills/37-stress/003-de-stressed-a-in-phrases.pdf",
-          "duration": 257
+          "duration": 257,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--003-de-stressed-a-in-phrases.mp4"
         },
         {
           "title": "De stressed to in phrases",
+          "track": 4,
           "audio": "media/drills/37-stress/004-de-stressed-to-in-phrases.mp3",
           "pdf": "media/drills/37-stress/004-de-stressed-to-in-phrases.pdf",
-          "duration": 641
+          "duration": 641,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--004-de-stressed-to-in-phrases.mp4"
         },
         {
           "title": "De stressed the in phrases",
+          "track": 5,
           "audio": "media/drills/37-stress/005-de-stressed-the-in-phrases.mp3",
           "pdf": "media/drills/37-stress/005-de-stressed-the-in-phrases.pdf",
-          "duration": 390
+          "duration": 390,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--005-de-stressed-the-in-phrases.mp4"
         },
         {
           "title": "De stressed our in phrases",
+          "track": 6,
           "audio": "media/drills/37-stress/006-de-stressed-our-in-phrases.mp3",
           "pdf": "media/drills/37-stress/006-de-stressed-our-in-phrases.pdf",
-          "duration": 208
+          "duration": 208,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--006-de-stressed-our-in-phrases.mp4"
         },
         {
           "title": "Content VS function words and sentences",
+          "track": 7,
           "audio": "media/drills/37-stress/007-content-vs-function-words-and-sentences.mp3",
           "pdf": "media/drills/37-stress/007-content-vs-function-words-and-sentences.pdf",
-          "duration": 509
+          "duration": 509,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--007-content-vs-function-words-and-sentences.mp4"
         },
         {
           "title": "Stress practice sentences",
+          "track": 8,
           "audio": "media/drills/37-stress/008-stress-practice-sentences.mp3",
           "pdf": "media/drills/37-stress/008-stress-practice-sentences.pdf",
-          "duration": 263
+          "duration": 263,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--008-stress-practice-sentences.mp4"
         }
       ]
     }

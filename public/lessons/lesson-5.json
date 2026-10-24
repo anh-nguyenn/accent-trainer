@@ -53,154 +53,216 @@
       "module": "TH",
       "items": [
         {
+          "title": "How to master one of the most common sounds in English the voiced th!",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--001-how-to-master-one-of-the-most-common-sounds-in-english-the-voiced-th.mp4",
+          "duration": 968
+        },
+        {
           "title": "Voiced TH VS D minimal pairs",
+          "track": 2,
           "audio": "media/drills/02-th/002-voiced-th-vs-d-minimal-pairs.mp3",
           "pdf": "media/drills/02-th/002-voiced-th-vs-d-minimal-pairs.pdf",
-          "duration": 129
+          "duration": 129,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--002-voiced-th-vs-d-minimal-pairs.mp4"
         },
         {
           "title": "Voiced TH initial words",
+          "track": 3,
           "audio": "media/drills/02-th/003-voiced-th-initial-words.mp3",
           "pdf": "media/drills/02-th/003-voiced-th-initial-words.pdf",
-          "duration": 80
+          "duration": 80,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--003-voiced-th-initial-words.mp4"
         },
         {
           "title": "Voiced TH middle words",
+          "track": 4,
           "audio": "media/drills/02-th/004-voiced-th-middle-words.mp3",
           "pdf": "media/drills/02-th/004-voiced-th-middle-words.pdf",
-          "duration": 87
+          "duration": 87,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--004-voiced-th-middle-words.mp4"
         },
         {
           "title": "Voiced TH end words",
+          "track": 5,
           "audio": "media/drills/02-th/005-voiced-th-end-words.mp3",
           "pdf": "media/drills/02-th/005-voiced-th-end-words.pdf",
-          "duration": 36
+          "duration": 36,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--005-voiced-th-end-words.mp4"
         },
         {
           "title": "Voiced TH initial phrases",
+          "track": 6,
           "audio": "media/drills/02-th/006-voiced-th-initial-phrases.mp3",
           "pdf": "media/drills/02-th/006-voiced-th-initial-phrases.pdf",
-          "duration": 74
+          "duration": 74,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--006-voiced-th-initial-phrases.mp4"
         },
         {
           "title": "Voiced TH middle phrases",
+          "track": 7,
           "audio": "media/drills/02-th/007-voiced-th-middle-phrases.mp3",
           "pdf": "media/drills/02-th/007-voiced-th-middle-phrases.pdf",
-          "duration": 95
+          "duration": 95,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--007-voiced-th-middle-phrases.mp4"
         },
         {
           "title": "Voiced TH end phrases",
+          "track": 8,
           "audio": "media/drills/02-th/008-voiced-th-end-phrases.mp3",
           "pdf": "media/drills/02-th/008-voiced-th-end-phrases.pdf",
-          "duration": 38
+          "duration": 38,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--008-voiced-th-end-phrases.mp4"
         },
         {
           "title": "Voiced TH initial sentences",
+          "track": 9,
           "audio": "media/drills/02-th/009-voiced-th-initial-sentences.mp3",
           "pdf": "media/drills/02-th/009-voiced-th-initial-sentences.pdf",
-          "duration": 170
+          "duration": 170,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--009-voiced-th-initial-sentences.mp4"
         },
         {
           "title": "Voiced TH middle sentences",
+          "track": 10,
           "audio": "media/drills/02-th/010-voiced-th-middle-sentences.mp3",
           "pdf": "media/drills/02-th/010-voiced-th-middle-sentences.pdf",
-          "duration": 211
+          "duration": 211,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--010-voiced-th-middle-sentences.mp4"
         },
         {
           "title": "Voiced TH end sentences",
+          "track": 11,
           "audio": "media/drills/02-th/011-voiced-th-end-sentences.mp3",
           "pdf": "media/drills/02-th/011-voiced-th-end-sentences.pdf",
-          "duration": 77
+          "duration": 77,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--011-voiced-th-end-sentences.mp4"
         },
         {
           "title": "TH exception words",
+          "track": 12,
           "audio": "media/drills/02-th/012-th-exception-words.mp3",
           "pdf": "media/drills/02-th/012-th-exception-words.pdf",
-          "duration": 41
+          "duration": 41,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--012-th-exception-words.mp4"
         },
         {
           "title": "Voiced TH to D words",
+          "track": 13,
           "audio": "media/drills/02-th/013-voiced-th-to-d-words.mp3",
           "pdf": "media/drills/02-th/013-voiced-th-to-d-words.pdf",
-          "duration": 77
+          "duration": 77,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--013-voiced-th-to-d-words.mp4"
         },
         {
           "title": "Voiced TH to D sentences",
+          "track": 14,
           "audio": "media/drills/02-th/014-voiced-th-to-d-sentences.mp3",
           "pdf": "media/drills/02-th/014-voiced-th-to-d-sentences.pdf",
-          "duration": 102
+          "duration": 102,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--014-voiced-th-to-d-sentences.mp4"
         },
         {
           "title": "Voiceless TH VS T minimal pairs",
+          "track": 15,
           "audio": "media/drills/02-th/015-voiceless-th-vs-t-minimal-pairs.mp3",
           "pdf": "media/drills/02-th/015-voiceless-th-vs-t-minimal-pairs.pdf",
-          "duration": 112
+          "duration": 112,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--015-voiceless-th-vs-t-minimal-pairs.mp4"
         },
         {
           "title": "Voiceless TH initial words",
+          "track": 16,
           "audio": "media/drills/02-th/016-voiceless-th-initial-words.mp3",
           "pdf": "media/drills/02-th/016-voiceless-th-initial-words.pdf",
-          "duration": 215
+          "duration": 215,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--016-voiceless-th-initial-words.mp4"
         },
         {
           "title": "Voiceless TH middle words",
+          "track": 17,
           "audio": "media/drills/02-th/017-voiceless-th-middle-words.mp3",
           "pdf": "media/drills/02-th/017-voiceless-th-middle-words.pdf",
-          "duration": 167
+          "duration": 167,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--017-voiceless-th-middle-words.mp4"
         },
         {
           "title": "Voiceless TH end words",
+          "track": 18,
           "audio": "media/drills/02-th/018-voiceless-th-end-words.mp3",
           "pdf": "media/drills/02-th/018-voiceless-th-end-words.pdf",
-          "duration": 242
+          "duration": 242,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--018-voiceless-th-end-words.mp4"
         },
         {
           "title": "Voiceless TH initial phrases",
+          "track": 19,
           "audio": "media/drills/02-th/019-voiceless-th-initial-phrases.mp3",
           "pdf": "media/drills/02-th/019-voiceless-th-initial-phrases.pdf",
-          "duration": 246
+          "duration": 246,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--019-voiceless-th-initial-phrases.mp4"
         },
         {
           "title": "Voiceless TH middle phrases",
+          "track": 20,
           "audio": "media/drills/02-th/020-voiceless-th-middle-phrases.mp3",
           "pdf": "media/drills/02-th/020-voiceless-th-middle-phrases.pdf",
-          "duration": 216
+          "duration": 216,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--020-voiceless-th-middle-phrases.mp4"
         },
         {
           "title": "Voiceless TH end phrases",
+          "track": 21,
           "audio": "media/drills/02-th/021-voiceless-th-end-phrases.mp3",
           "pdf": "media/drills/02-th/021-voiceless-th-end-phrases.pdf",
-          "duration": 254
+          "duration": 254,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--021-voiceless-th-end-phrases.mp4"
         },
         {
           "title": "Voiceless TH initial sentences",
+          "track": 22,
           "audio": "media/drills/02-th/022-voiceless-th-initial-sentences.mp3",
           "pdf": "media/drills/02-th/022-voiceless-th-initial-sentences.pdf",
-          "duration": 240
+          "duration": 240,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--022-voiceless-th-initial-sentences.mp4"
         },
         {
           "title": "Voiceless TH middle sentences",
+          "track": 23,
           "audio": "media/drills/02-th/023-voiceless-th-middle-sentences.mp3",
           "pdf": "media/drills/02-th/023-voiceless-th-middle-sentences.pdf",
-          "duration": 219
+          "duration": 219,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--023-voiceless-th-middle-sentences.mp4"
         },
         {
           "title": "Voiceless TH end sentences",
+          "track": 24,
           "audio": "media/drills/02-th/024-voiceless-th-end-sentences.mp3",
           "pdf": "media/drills/02-th/024-voiceless-th-end-sentences.pdf",
-          "duration": 247
+          "duration": 247,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--024-voiceless-th-end-sentences.mp4"
         },
         {
           "title": "D to voiceless TH word transition",
+          "track": 25,
           "audio": "media/drills/02-th/025-d-to-voiceless-th-word-transition.mp3",
           "pdf": "media/drills/02-th/025-d-to-voiceless-th-word-transition.pdf",
-          "duration": 80
+          "duration": 80,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--025-d-to-voiceless-th-word-transition.mp4"
         },
         {
           "title": "D to voiceless TH sentence transition",
+          "track": 26,
           "audio": "media/drills/02-th/026-d-to-voiceless-th-sentence-transition.mp3",
           "pdf": "media/drills/02-th/026-d-to-voiceless-th-sentence-transition.pdf",
-          "duration": 115
+          "duration": 115,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--026-d-to-voiceless-th-sentence-transition.mp4"
+        },
+        {
+          "title": "TH reading and conversation",
+          "track": 27,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/02-th--027-th-reading-and-conversation.mp4",
+          "duration": 260
         }
       ]
     },
@@ -208,82 +270,120 @@
       "module": "V",
       "items": [
         {
+          "title": "V introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--001-v-introduction.mp4",
+          "duration": 440
+        },
+        {
           "title": "V VS W minimal pair words",
+          "track": 2,
           "audio": "media/drills/03-v/002-v-vs-w-minimal-pair-words.mp3",
           "pdf": "media/drills/03-v/002-v-vs-w-minimal-pair-words.pdf",
-          "duration": 83
+          "duration": 83,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--002-v-vs-w-minimal-pair-words.mp4"
         },
         {
           "title": "V VS W minimal pair sentences",
+          "track": 3,
           "audio": "media/drills/03-v/003-v-vs-w-minimal-pair-sentences.mp3",
           "pdf": "media/drills/03-v/003-v-vs-w-minimal-pair-sentences.pdf",
-          "duration": 261
+          "duration": 261,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--003-v-vs-w-minimal-pair-sentences.mp4"
         },
         {
           "title": "V VS f minimal pairs",
+          "track": 4,
           "audio": "media/drills/03-v/004-v-vs-f-minimal-pairs.mp3",
           "pdf": "media/drills/03-v/004-v-vs-f-minimal-pairs.pdf",
-          "duration": 152
+          "duration": 152,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--004-v-vs-f-minimal-pairs.mp4"
         },
         {
           "title": "V VS B minimal pairs",
+          "track": 5,
           "audio": "media/drills/03-v/005-v-vs-b-minimal-pairs.mp3",
           "pdf": "media/drills/03-v/005-v-vs-b-minimal-pairs.pdf",
-          "duration": 123
+          "duration": 123,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--005-v-vs-b-minimal-pairs.mp4"
         },
         {
           "title": "V initial words",
+          "track": 6,
           "audio": "media/drills/03-v/006-v-initial-words.mp3",
           "pdf": "media/drills/03-v/006-v-initial-words.pdf",
-          "duration": 87
+          "duration": 87,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--006-v-initial-words.mp4"
         },
         {
           "title": "V middle words",
+          "track": 7,
           "audio": "media/drills/03-v/007-v-middle-words.mp3",
           "pdf": "media/drills/03-v/007-v-middle-words.pdf",
-          "duration": 86
+          "duration": 86,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--007-v-middle-words.mp4"
         },
         {
           "title": "V end words",
+          "track": 8,
           "audio": "media/drills/03-v/008-v-end-words.mp3",
           "pdf": "media/drills/03-v/008-v-end-words.pdf",
-          "duration": 92
+          "duration": 92,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--008-v-end-words.mp4"
         },
         {
           "title": "V initial phrases",
+          "track": 9,
           "audio": "media/drills/03-v/009-v-initial-phrases.mp3",
           "pdf": "media/drills/03-v/009-v-initial-phrases.pdf",
-          "duration": 38
+          "duration": 38,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--009-v-initial-phrases.mp4"
         },
         {
           "title": "V middle phrases",
+          "track": 10,
           "audio": "media/drills/03-v/010-v-middle-phrases.mp3",
           "pdf": "media/drills/03-v/010-v-middle-phrases.pdf",
-          "duration": 35
+          "duration": 35,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--010-v-middle-phrases.mp4"
         },
         {
           "title": "V end phrases",
+          "track": 11,
           "audio": "media/drills/03-v/011-v-end-phrases.mp3",
           "pdf": "media/drills/03-v/011-v-end-phrases.pdf",
-          "duration": 35
+          "duration": 35,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--011-v-end-phrases.mp4"
         },
         {
           "title": "V initial sentences",
+          "track": 12,
           "audio": "media/drills/03-v/012-v-initial-sentences.mp3",
           "pdf": "media/drills/03-v/012-v-initial-sentences.pdf",
-          "duration": 70
+          "duration": 70,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--012-v-initial-sentences.mp4"
         },
         {
           "title": "V middle sentences",
+          "track": 13,
           "audio": "media/drills/03-v/013-v-middle-sentences.mp3",
           "pdf": "media/drills/03-v/013-v-middle-sentences.pdf",
-          "duration": 74
+          "duration": 74,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--013-v-middle-sentences.mp4"
         },
         {
           "title": "V end sentences",
+          "track": 14,
           "audio": "media/drills/03-v/014-v-end-sentences.mp3",
           "pdf": "media/drills/03-v/014-v-end-sentences.pdf",
-          "duration": 85
+          "duration": 85,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--014-v-end-sentences.mp4"
+        },
+        {
+          "title": "V reading and conversation",
+          "track": 15,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/03-v--015-v-reading-and-conversation.mp4",
+          "duration": 223
         }
       ]
     },
@@ -291,136 +391,192 @@
       "module": "P, T and K airflow",
       "items": [
         {
+          "title": "P T K introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--001-p-t-k-introduction.mp4",
+          "duration": 551
+        },
+        {
           "title": "P initial words",
+          "track": 2,
           "audio": "media/drills/04-p-t-k/002-p-initial-words.mp3",
           "pdf": "media/drills/04-p-t-k/002-p-initial-words.pdf",
-          "duration": 56
+          "duration": 56,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--002-p-initial-words.mp4"
         },
         {
           "title": "P end words",
+          "track": 3,
           "audio": "media/drills/04-p-t-k/003-p-end-words.mp3",
           "pdf": "media/drills/04-p-t-k/003-p-end-words.pdf",
-          "duration": 63
+          "duration": 63,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--003-p-end-words.mp4"
         },
         {
           "title": "P initial phrases",
+          "track": 4,
           "audio": "media/drills/04-p-t-k/004-p-initial-phrases.mp3",
           "pdf": "media/drills/04-p-t-k/004-p-initial-phrases.pdf",
-          "duration": 58
+          "duration": 58,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--004-p-initial-phrases.mp4"
         },
         {
           "title": "P end phrases",
+          "track": 5,
           "audio": "media/drills/04-p-t-k/005-p-end-phrases.mp3",
           "pdf": "media/drills/04-p-t-k/005-p-end-phrases.pdf",
-          "duration": 73
+          "duration": 73,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--005-p-end-phrases.mp4"
         },
         {
           "title": "P initial sentences",
+          "track": 6,
           "audio": "media/drills/04-p-t-k/006-p-initial-sentences.mp3",
           "pdf": "media/drills/04-p-t-k/006-p-initial-sentences.pdf",
-          "duration": 89
+          "duration": 89,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--006-p-initial-sentences.mp4"
         },
         {
           "title": "P end sentences",
+          "track": 7,
           "audio": "media/drills/04-p-t-k/007-p-end-sentences.mp3",
           "pdf": "media/drills/04-p-t-k/007-p-end-sentences.pdf",
-          "duration": 103
+          "duration": 103,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--007-p-end-sentences.mp4"
         },
         {
           "title": "T initial words",
+          "track": 8,
           "audio": "media/drills/04-p-t-k/008-t-initial-words.mp3",
           "pdf": "media/drills/04-p-t-k/008-t-initial-words.pdf",
-          "duration": 91
+          "duration": 91,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--008-t-initial-words.mp4"
         },
         {
           "title": "T end words",
+          "track": 9,
           "audio": "media/drills/04-p-t-k/009-t-end-words.mp3",
           "pdf": "media/drills/04-p-t-k/009-t-end-words.pdf",
-          "duration": 85
+          "duration": 85,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--009-t-end-words.mp4"
         },
         {
           "title": "T initial phrases",
+          "track": 10,
           "audio": "media/drills/04-p-t-k/010-t-initial-phrases.mp3",
           "pdf": "media/drills/04-p-t-k/010-t-initial-phrases.pdf",
-          "duration": 62
+          "duration": 62,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--010-t-initial-phrases.mp4"
         },
         {
           "title": "T end phrases",
+          "track": 11,
           "audio": "media/drills/04-p-t-k/011-t-end-phrases.mp3",
           "pdf": "media/drills/04-p-t-k/011-t-end-phrases.pdf",
-          "duration": 54
+          "duration": 54,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--011-t-end-phrases.mp4"
         },
         {
           "title": "T initial sentences",
+          "track": 12,
           "audio": "media/drills/04-p-t-k/012-t-initial-sentences.mp3",
           "pdf": "media/drills/04-p-t-k/012-t-initial-sentences.pdf",
-          "duration": 145
+          "duration": 145,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--012-t-initial-sentences.mp4"
         },
         {
           "title": "T end sentences",
+          "track": 13,
           "audio": "media/drills/04-p-t-k/013-t-end-sentences.mp3",
           "pdf": "media/drills/04-p-t-k/013-t-end-sentences.pdf",
-          "duration": 143
+          "duration": 143,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--013-t-end-sentences.mp4"
         },
         {
           "title": "T middle stressed words",
+          "track": 14,
           "audio": "media/drills/04-p-t-k/014-t-middle-stressed-words.mp3",
           "pdf": "media/drills/04-p-t-k/014-t-middle-stressed-words.pdf",
-          "duration": 56
+          "duration": 56,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--014-t-middle-stressed-words.mp4"
         },
         {
           "title": "T middle stressed sentences",
+          "track": 15,
           "audio": "media/drills/04-p-t-k/015-t-middle-stressed-sentences.mp3",
           "pdf": "media/drills/04-p-t-k/015-t-middle-stressed-sentences.pdf",
-          "duration": 130
+          "duration": 130,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--015-t-middle-stressed-sentences.mp4"
         },
         {
           "title": "K initial words",
+          "track": 16,
           "audio": "media/drills/04-p-t-k/016-k-initial-words.mp3",
           "pdf": "media/drills/04-p-t-k/016-k-initial-words.pdf",
-          "duration": 87
+          "duration": 87,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--016-k-initial-words.mp4"
         },
         {
           "title": "K end words",
+          "track": 17,
           "audio": "media/drills/04-p-t-k/017-k-end-words.mp3",
           "pdf": "media/drills/04-p-t-k/017-k-end-words.pdf",
-          "duration": 85
+          "duration": 85,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--017-k-end-words.mp4"
         },
         {
           "title": "K initial phrases",
+          "track": 18,
           "audio": "media/drills/04-p-t-k/018-k-initial-phrases.mp3",
           "pdf": "media/drills/04-p-t-k/018-k-initial-phrases.pdf",
-          "duration": 74
+          "duration": 74,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--018-k-initial-phrases.mp4"
         },
         {
           "title": "K end phrases",
+          "track": 19,
           "audio": "media/drills/04-p-t-k/019-k-end-phrases.mp3",
           "pdf": "media/drills/04-p-t-k/019-k-end-phrases.pdf",
-          "duration": 49
+          "duration": 49,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--019-k-end-phrases.mp4"
         },
         {
           "title": "K initial sentences",
+          "track": 20,
           "audio": "media/drills/04-p-t-k/020-k-initial-sentences.mp3",
           "pdf": "media/drills/04-p-t-k/020-k-initial-sentences.pdf",
-          "duration": 133
+          "duration": 133,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--020-k-initial-sentences.mp4"
         },
         {
           "title": "K end sentences",
+          "track": 21,
           "audio": "media/drills/04-p-t-k/021-k-end-sentences.mp3",
           "pdf": "media/drills/04-p-t-k/021-k-end-sentences.pdf",
-          "duration": 110
+          "duration": 110,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--021-k-end-sentences.mp4"
         },
         {
           "title": "K middle stressed words",
+          "track": 22,
           "audio": "media/drills/04-p-t-k/022-k-middle-stressed-words.mp3",
           "pdf": "media/drills/04-p-t-k/022-k-middle-stressed-words.pdf",
-          "duration": 61
+          "duration": 61,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--022-k-middle-stressed-words.mp4"
         },
         {
           "title": "K middle stressed sentences",
+          "track": 23,
           "audio": "media/drills/04-p-t-k/023-k-middle-stressed-sentences.mp3",
           "pdf": "media/drills/04-p-t-k/023-k-middle-stressed-sentences.pdf",
-          "duration": 109
+          "duration": 109,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--023-k-middle-stressed-sentences.mp4"
+        },
+        {
+          "title": "Ptk reading and conversation",
+          "track": 24,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/04-p-t-k--024-ptk-reading-and-conversation.mp4",
+          "duration": 226
         }
       ]
     },
@@ -428,46 +584,72 @@
       "module": "H",
       "items": [
         {
+          "title": "H description",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--001-h-description.mp4",
+          "duration": 208
+        },
+        {
           "title": "Silent H words",
+          "track": 2,
           "audio": "media/drills/14-h/002-silent-h-words.mp3",
           "pdf": "media/drills/14-h/002-silent-h-words.pdf",
-          "duration": 118
+          "duration": 118,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--002-silent-h-words.mp4"
         },
         {
           "title": "H initial words",
+          "track": 3,
           "audio": "media/drills/14-h/003-h-initial-words.mp3",
           "pdf": "media/drills/14-h/003-h-initial-words.pdf",
-          "duration": 282
+          "duration": 282,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--003-h-initial-words.mp4"
         },
         {
           "title": "H middle words",
+          "track": 4,
           "audio": "media/drills/14-h/004-h-middle-words.mp3",
           "pdf": "media/drills/14-h/004-h-middle-words.pdf",
-          "duration": 174
+          "duration": 174,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--004-h-middle-words.mp4"
         },
         {
           "title": "H initial phrases",
+          "track": 5,
           "audio": "media/drills/14-h/005-h-initial-phrases.mp3",
           "pdf": "media/drills/14-h/005-h-initial-phrases.pdf",
-          "duration": 300
+          "duration": 300,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--005-h-initial-phrases.mp4"
         },
         {
           "title": "H middle phrases",
+          "track": 6,
           "audio": "media/drills/14-h/006-h-middle-phrases.mp3",
           "pdf": "media/drills/14-h/006-h-middle-phrases.pdf",
-          "duration": 251
+          "duration": 251,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--006-h-middle-phrases.mp4"
         },
         {
           "title": "H initial sentences",
+          "track": 7,
           "audio": "media/drills/14-h/007-h-initial-sentences.mp3",
           "pdf": "media/drills/14-h/007-h-initial-sentences.pdf",
-          "duration": 104
+          "duration": 104,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--007-h-initial-sentences.mp4"
         },
         {
           "title": "H middle sentences",
+          "track": 8,
           "audio": "media/drills/14-h/008-h-middle-sentences.mp3",
           "pdf": "media/drills/14-h/008-h-middle-sentences.pdf",
-          "duration": 100
+          "duration": 100,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--008-h-middle-sentences.mp4"
+        },
+        {
+          "title": "H reading and conversation",
+          "track": 9,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/14-h--009-h-reading-and-conversation.mp4",
+          "duration": 125
         }
       ]
     },
@@ -475,70 +657,104 @@
       "module": "Z",
       "items": [
         {
+          "title": "Z introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--001-z-introduction.mp4",
+          "duration": 359
+        },
+        {
           "title": "Z VS s minimal pairs",
+          "track": 2,
           "audio": "media/drills/17-z/002-z-vs-s-minimal-pairs.mp3",
           "pdf": "media/drills/17-z/002-z-vs-s-minimal-pairs.pdf",
-          "duration": 226
+          "duration": 226,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--002-z-vs-s-minimal-pairs.mp4"
         },
         {
           "title": "Z initial words",
+          "track": 3,
           "audio": "media/drills/17-z/003-z-initial-words.mp3",
           "pdf": "media/drills/17-z/003-z-initial-words.pdf",
-          "duration": 135
+          "duration": 135,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--003-z-initial-words.mp4"
         },
         {
           "title": "Z middle words",
+          "track": 4,
           "audio": "media/drills/17-z/004-z-middle-words.mp3",
           "pdf": "media/drills/17-z/004-z-middle-words.pdf",
-          "duration": 326
+          "duration": 326,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--004-z-middle-words.mp4"
         },
         {
           "title": "Z end words",
+          "track": 5,
           "audio": "media/drills/17-z/005-z-end-words.mp3",
           "pdf": "media/drills/17-z/005-z-end-words.pdf",
-          "duration": 347
+          "duration": 347,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--005-z-end-words.mp4"
         },
         {
           "title": "Z initial phrases",
+          "track": 6,
           "audio": "media/drills/17-z/006-z-initial-phrases.mp3",
           "pdf": "media/drills/17-z/006-z-initial-phrases.pdf",
-          "duration": 205
+          "duration": 205,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--006-z-initial-phrases.mp4"
         },
         {
           "title": "Z middle phrases",
+          "track": 7,
           "audio": "media/drills/17-z/007-z-middle-phrases.mp3",
           "pdf": "media/drills/17-z/007-z-middle-phrases.pdf",
-          "duration": 410
+          "duration": 410,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--007-z-middle-phrases.mp4"
         },
         {
           "title": "Z end phrases",
+          "track": 8,
           "audio": "media/drills/17-z/008-z-end-phrases.mp3",
           "pdf": "media/drills/17-z/008-z-end-phrases.pdf",
-          "duration": 430
+          "duration": 430,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--008-z-end-phrases.mp4"
         },
         {
           "title": "Z plurals",
+          "track": 9,
           "audio": "media/drills/17-z/009-z-plurals.mp3",
           "pdf": "media/drills/17-z/009-z-plurals.pdf",
-          "duration": 367
+          "duration": 367,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--009-z-plurals.mp4"
         },
         {
           "title": "Z initial sentences",
+          "track": 10,
           "audio": "media/drills/17-z/010-z-initial-sentences.mp3",
           "pdf": "media/drills/17-z/010-z-initial-sentences.pdf",
-          "duration": 38
+          "duration": 38,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--010-z-initial-sentences.mp4"
         },
         {
           "title": "Z middle sentences",
+          "track": 11,
           "audio": "media/drills/17-z/011-z-middle-sentences.mp3",
           "pdf": "media/drills/17-z/011-z-middle-sentences.pdf",
-          "duration": 52
+          "duration": 52,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--011-z-middle-sentences.mp4"
         },
         {
           "title": "Z end phrases and sentences",
+          "track": 12,
           "audio": "media/drills/17-z/012-z-end-phrases-and-sentences.mp3",
           "pdf": "media/drills/17-z/012-z-end-phrases-and-sentences.pdf",
-          "duration": 422
+          "duration": 422,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--012-z-end-phrases-and-sentences.mp4"
+        },
+        {
+          "title": "Z reading and conversation",
+          "track": 13,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/17-z--013-z-reading-and-conversation.mp4",
+          "duration": 158
         }
       ]
     },
@@ -546,22 +762,40 @@
       "module": "Voicing",
       "items": [
         {
+          "title": "Voicing introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--001-voicing-introduction.mp4",
+          "duration": 285
+        },
+        {
           "title": "Voicing minimal pair syllables",
+          "track": 2,
           "audio": "media/drills/18-voicing/002-voicing-minimal-pair-syllables.mp3",
           "pdf": "media/drills/18-voicing/002-voicing-minimal-pair-syllables.pdf",
-          "duration": 214
+          "duration": 214,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--002-voicing-minimal-pair-syllables.mp4"
         },
         {
           "title": "Voicing minimal pair words",
+          "track": 3,
           "audio": "media/drills/18-voicing/003-voicing-minimal-pair-words.mp3",
           "pdf": "media/drills/18-voicing/003-voicing-minimal-pair-words.pdf",
-          "duration": 370
+          "duration": 370,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--003-voicing-minimal-pair-words.mp4"
         },
         {
           "title": "Voicing consonants sentences",
+          "track": 4,
           "audio": "media/drills/18-voicing/004-voicing-consonants-sentences.mp3",
           "pdf": "media/drills/18-voicing/004-voicing-consonants-sentences.pdf",
-          "duration": 596
+          "duration": 596,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--004-voicing-consonants-sentences.mp4"
+        },
+        {
+          "title": "Voicing consonants reading and conversation",
+          "track": 5,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/18-voicing--005-voicing-consonants-reading-and-conversation.mp4",
+          "duration": 178
         }
       ]
     }

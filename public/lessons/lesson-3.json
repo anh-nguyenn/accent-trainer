@@ -53,34 +53,56 @@
       "module": "AH /ɑ/",
       "items": [
         {
+          "title": "AH a introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--001-ah-a-introduction.mp4",
+          "duration": 331
+        },
+        {
           "title": "AH spelling",
+          "track": 2,
           "audio": "media/drills/24-ah/002-ah-spelling.mp3",
           "pdf": "media/drills/24-ah/002-ah-spelling.pdf",
-          "duration": 200
+          "duration": 200,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--002-ah-a-spelling.mp4"
         },
         {
           "title": "AH VS OH minimal pairs",
+          "track": 3,
           "audio": "media/drills/24-ah/003-ah-vs-oh-minimal-pairs.mp3",
           "pdf": "media/drills/24-ah/003-ah-vs-oh-minimal-pairs.pdf",
-          "duration": 130
+          "duration": 130,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--003-ah-a-vs-oh-o-minimal-pairs.mp4"
         },
         {
           "title": "AH words",
+          "track": 4,
           "audio": "media/drills/24-ah/004-ah-words.mp3",
           "pdf": "media/drills/24-ah/004-ah-words.pdf",
-          "duration": 279
+          "duration": 279,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--004-ah-a-words.mp4"
         },
         {
           "title": "AH phrases",
+          "track": 5,
           "audio": "media/drills/24-ah/005-ah-phrases.mp3",
           "pdf": "media/drills/24-ah/005-ah-phrases.pdf",
-          "duration": 424
+          "duration": 424,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--005-ah-a-phrases.mp4"
         },
         {
           "title": "AH sentences",
+          "track": 6,
           "audio": "media/drills/24-ah/006-ah-sentences.mp3",
           "pdf": "media/drills/24-ah/006-ah-sentences.pdf",
-          "duration": 250
+          "duration": 250,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--006-ah-a-sentences.mp4"
+        },
+        {
+          "title": "AH a reading and conversation",
+          "track": 7,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/24-ah--007-ah-a-reading-and-conversation.mp4",
+          "duration": 117
         }
       ]
     },
@@ -88,118 +110,162 @@
       "module": "Schwa /ə/",
       "items": [
         {
+          "title": "Schwa introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--001-schwa-introduction.mp4",
+          "duration": 431
+        },
+        {
           "title": "Schwa spelling",
+          "track": 2,
           "audio": "media/drills/25-schwa/002-schwa-spelling.mp3",
           "pdf": "media/drills/25-schwa/002-schwa-spelling.pdf",
-          "duration": 96
+          "duration": 96,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--002-schwa-spelling.mp4"
         },
         {
           "title": "Schwa in the",
+          "track": 3,
           "audio": "media/drills/25-schwa/003-schwa-in-the.mp3",
           "pdf": "media/drills/25-schwa/003-schwa-in-the.pdf",
-          "duration": 487
+          "duration": 487,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--003-schwa-in-the.mp4"
         },
         {
           "title": "Schwa in a",
+          "track": 4,
           "audio": "media/drills/25-schwa/004-schwa-in-a.mp3",
           "pdf": "media/drills/25-schwa/004-schwa-in-a.pdf",
-          "duration": 225
+          "duration": 225,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--004-schwa-in-a.mp4"
         },
         {
           "title": "Schwa in to",
+          "track": 5,
           "audio": "media/drills/25-schwa/005-schwa-in-to.mp3",
           "pdf": "media/drills/25-schwa/005-schwa-in-to.pdf",
-          "duration": 568
+          "duration": 568,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--005-schwa-in-to.mp4"
         },
         {
           "title": "Schwa in prefix a",
+          "track": 6,
           "audio": "media/drills/25-schwa/006-schwa-in-prefix-a.mp3",
           "pdf": "media/drills/25-schwa/006-schwa-in-prefix-a.pdf",
-          "duration": 93
+          "duration": 93,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--006-schwa-in-prefix-a.mp4"
         },
         {
           "title": "Schwa in prefix be",
+          "track": 7,
           "audio": "media/drills/25-schwa/007-schwa-in-prefix-be.mp3",
           "pdf": "media/drills/25-schwa/007-schwa-in-prefix-be.pdf",
-          "duration": 101
+          "duration": 101,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--007-schwa-in-prefix-be.mp4"
         },
         {
           "title": "Schwa in prefix re",
+          "track": 8,
           "audio": "media/drills/25-schwa/008-schwa-in-prefix-re.mp3",
           "pdf": "media/drills/25-schwa/008-schwa-in-prefix-re.pdf",
-          "duration": 91
+          "duration": 91,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--008-schwa-in-prefix-re.mp4"
         },
         {
           "title": "Schwa in prefix de",
+          "track": 9,
           "audio": "media/drills/25-schwa/009-schwa-in-prefix-de.mp3",
           "pdf": "media/drills/25-schwa/009-schwa-in-prefix-de.pdf",
-          "duration": 101
+          "duration": 101,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--009-schwa-in-prefix-de.mp4"
         },
         {
           "title": "Schwa in prefix to",
+          "track": 10,
           "audio": "media/drills/25-schwa/010-schwa-in-prefix-to.mp3",
           "pdf": "media/drills/25-schwa/010-schwa-in-prefix-to.pdf",
-          "duration": 65
+          "duration": 65,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--010-schwa-in-prefix-to.mp4"
         },
         {
           "title": "Schwa in prefix con",
+          "track": 11,
           "audio": "media/drills/25-schwa/011-schwa-in-prefix-con.mp3",
           "pdf": "media/drills/25-schwa/011-schwa-in-prefix-con.pdf",
-          "duration": 153
+          "duration": 153,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--011-schwa-in-prefix-con.mp4"
         },
         {
           "title": "Schwa in prefix su",
+          "track": 12,
           "audio": "media/drills/25-schwa/012-schwa-in-prefix-su.mp3",
           "pdf": "media/drills/25-schwa/012-schwa-in-prefix-su.pdf",
-          "duration": 303
+          "duration": 303,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--012-schwa-in-prefix-su.mp4"
         },
         {
           "title": "Schwa in different vowels",
+          "track": 13,
           "audio": "media/drills/25-schwa/013-schwa-in-different-vowels.mp3",
           "pdf": "media/drills/25-schwa/013-schwa-in-different-vowels.pdf",
-          "duration": 703
+          "duration": 703,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--013-schwa-in-different-vowels.mp4"
         },
         {
           "title": "Schwa in vowel i",
+          "track": 14,
           "audio": "media/drills/25-schwa/014-schwa-in-vowel-i.mp3",
           "pdf": "media/drills/25-schwa/014-schwa-in-vowel-i.pdf",
-          "duration": 419
+          "duration": 419,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--014-schwa-in-vowel-i.mp4"
         },
         {
           "title": "Schwa in ity",
+          "track": 15,
           "audio": "media/drills/25-schwa/015-schwa-in-ity.mp3",
           "pdf": "media/drills/25-schwa/015-schwa-in-ity.pdf",
-          "duration": 141
+          "duration": 141,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--015-schwa-in-ity.mp4"
         },
         {
           "title": "Schwa in ical",
+          "track": 16,
           "audio": "media/drills/25-schwa/016-schwa-in-ical.mp3",
           "pdf": "media/drills/25-schwa/016-schwa-in-ical.pdf",
-          "duration": 111
+          "duration": 111,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--016-schwa-in-ical.mp4"
         },
         {
           "title": "Schwa in final unstressed a",
+          "track": 17,
           "audio": "media/drills/25-schwa/017-schwa-in-final-unstressed-a.mp3",
           "pdf": "media/drills/25-schwa/017-schwa-in-final-unstressed-a.pdf",
-          "duration": 232
+          "duration": 232,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--017-schwa-in-final-unstressed-a.mp4"
         },
         {
           "title": "Schwa in mixed vowels practice",
+          "track": 18,
           "audio": "media/drills/25-schwa/018-schwa-in-mixed-vowels-practice.mp3",
           "pdf": "media/drills/25-schwa/018-schwa-in-mixed-vowels-practice.pdf",
-          "duration": 173
+          "duration": 173,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--018-schwa-in-mixed-vowels-practice.mp4"
         },
         {
           "title": "Schwa in words and phrases",
+          "track": 19,
           "audio": "media/drills/25-schwa/019-schwa-in-words-and-phrases.mp3",
           "pdf": "media/drills/25-schwa/019-schwa-in-words-and-phrases.pdf",
-          "duration": 432
+          "duration": 432,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--019-schwa-in-words-and-phrases.mp4"
         },
         {
           "title": "Schwa in sentences",
+          "track": 20,
           "audio": "media/drills/25-schwa/020-schwa-in-sentences.mp3",
           "pdf": "media/drills/25-schwa/020-schwa-in-sentences.pdf",
-          "duration": 232
+          "duration": 232,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/25-schwa--020-schwa-in-sentences.mp4"
         }
       ]
     },
@@ -207,34 +273,56 @@
       "module": "UH /ʌ/",
       "items": [
         {
+          "title": "UH ^ introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--001-uh-introduction.mp4",
+          "duration": 206
+        },
+        {
           "title": "UH spelling",
+          "track": 2,
           "audio": "media/drills/26-uh/002-uh-spelling.mp3",
           "pdf": "media/drills/26-uh/002-uh-spelling.pdf",
-          "duration": 125
+          "duration": 125,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--002-uh-spelling.mp4"
         },
         {
           "title": "UH VS AH minimal pairs",
+          "track": 3,
           "audio": "media/drills/26-uh/003-uh-vs-ah-minimal-pairs.mp3",
           "pdf": "media/drills/26-uh/003-uh-vs-ah-minimal-pairs.pdf",
-          "duration": 402
+          "duration": 402,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--003-uh-vs-ah-a-minimal-pairs.mp4"
         },
         {
           "title": "UH words",
+          "track": 4,
           "audio": "media/drills/26-uh/004-uh-words.mp3",
           "pdf": "media/drills/26-uh/004-uh-words.pdf",
-          "duration": 121
+          "duration": 121,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--004-uh-words.mp4"
         },
         {
           "title": "UH phrases",
+          "track": 5,
           "audio": "media/drills/26-uh/005-uh-phrases.mp3",
           "pdf": "media/drills/26-uh/005-uh-phrases.pdf",
-          "duration": 369
+          "duration": 369,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--005-uh-phrases.mp4"
         },
         {
           "title": "UH sentences",
+          "track": 6,
           "audio": "media/drills/26-uh/006-uh-sentences.mp3",
           "pdf": "media/drills/26-uh/006-uh-sentences.pdf",
-          "duration": 425
+          "duration": 425,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--006-uh-sentences.mp4"
+        },
+        {
+          "title": "UH ^ reading and conversation",
+          "track": 7,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/26-uh--007-uh-reading-and-conversation.mp4",
+          "duration": 91
         }
       ]
     },
@@ -242,34 +330,56 @@
       "module": "Upsilon /ʊ/",
       "items": [
         {
+          "title": "Upsilon introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--001-upsilon-introduction.mp4",
+          "duration": 317
+        },
+        {
           "title": "Upsilon spelling",
+          "track": 2,
           "audio": "media/drills/27-upsilon/002-upsilon-spelling.mp3",
           "pdf": "media/drills/27-upsilon/002-upsilon-spelling.pdf",
-          "duration": 257
+          "duration": 257,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--002-upsilon-spelling.mp4"
         },
         {
           "title": "Upsilon VS OO minimal pairs",
+          "track": 3,
           "audio": "media/drills/27-upsilon/003-upsilon-vs-oo-minimal-pairs.mp3",
           "pdf": "media/drills/27-upsilon/003-upsilon-vs-oo-minimal-pairs.pdf",
-          "duration": 119
+          "duration": 119,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--003-upsilon-vs-oo-minimal-pairs.mp4"
         },
         {
           "title": "Upsilon words",
+          "track": 4,
           "audio": "media/drills/27-upsilon/004-upsilon-words.mp3",
           "pdf": "media/drills/27-upsilon/004-upsilon-words.pdf",
-          "duration": 118
+          "duration": 118,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--004-upsilon-words.mp4"
         },
         {
           "title": "Upsilon phrases",
+          "track": 5,
           "audio": "media/drills/27-upsilon/005-upsilon-phrases.mp3",
           "pdf": "media/drills/27-upsilon/005-upsilon-phrases.pdf",
-          "duration": 174
+          "duration": 174,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--005-upsilon-phrases.mp4"
         },
         {
           "title": "Upsilon sentences",
+          "track": 6,
           "audio": "media/drills/27-upsilon/006-upsilon-sentences.mp3",
           "pdf": "media/drills/27-upsilon/006-upsilon-sentences.pdf",
-          "duration": 268
+          "duration": 268,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--006-upsilon-sentences.mp4"
+        },
+        {
+          "title": "Upsilon reading and conversation",
+          "track": 7,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/27-upsilon--007-upsilon-reading-and-conversation.mp4",
+          "duration": 107
         }
       ]
     },
@@ -277,40 +387,64 @@
       "module": "OO /u/",
       "items": [
         {
+          "title": "OO u introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--001-oo-u-introduction.mp4",
+          "duration": 163
+        },
+        {
           "title": "OO spelling",
+          "track": 2,
           "audio": "media/drills/30-oo/002-oo-spelling.mp3",
           "pdf": "media/drills/30-oo/002-oo-spelling.pdf",
-          "duration": 151
+          "duration": 151,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--002-oo-u-spelling.mp4"
         },
         {
           "title": "OO VS you words",
+          "track": 3,
           "audio": "media/drills/30-oo/003-oo-vs-you-words.mp3",
           "pdf": "media/drills/30-oo/003-oo-vs-you-words.pdf",
-          "duration": 229
+          "duration": 229,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--003-oo-u-vs-you-words.mp4"
         },
         {
           "title": "OO in ew spelled words",
+          "track": 4,
           "audio": "media/drills/30-oo/004-oo-in-ew-spelled-words.mp3",
           "pdf": "media/drills/30-oo/004-oo-in-ew-spelled-words.pdf",
-          "duration": 131
+          "duration": 131,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--004-oo-u-in-ew-spelled-words.mp4"
         },
         {
           "title": "OO words",
+          "track": 5,
           "audio": "media/drills/30-oo/005-oo-words.mp3",
           "pdf": "media/drills/30-oo/005-oo-words.pdf",
-          "duration": 229
+          "duration": 229,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--005-oo-u-words.mp4"
         },
         {
           "title": "OO phrases",
+          "track": 6,
           "audio": "media/drills/30-oo/006-oo-phrases.mp3",
           "pdf": "media/drills/30-oo/006-oo-phrases.pdf",
-          "duration": 333
+          "duration": 333,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--006-oo-u-phrases.mp4"
         },
         {
           "title": "OO sentences",
+          "track": 7,
           "audio": "media/drills/30-oo/007-oo-sentences.mp3",
           "pdf": "media/drills/30-oo/007-oo-sentences.pdf",
-          "duration": 274
+          "duration": 274,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--007-oo-u-sentences.mp4"
+        },
+        {
+          "title": "OO u reading and conversation",
+          "track": 8,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/30-oo--008-oo-u-reading-and-conversation.mp4",
+          "duration": 93
         }
       ]
     }

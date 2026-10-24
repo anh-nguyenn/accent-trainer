@@ -54,9 +54,11 @@
       "items": [
         {
           "title": "New information stress",
+          "track": 9,
           "audio": "media/drills/37-stress/009-new-information-stress.mp3",
           "pdf": "media/drills/37-stress/009-new-information-stress.pdf",
-          "duration": 56
+          "duration": 56,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/37-stress--009-new-information-stress.mp4"
         }
       ]
     }

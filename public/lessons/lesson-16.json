@@ -53,27 +53,56 @@
   ],
   "drills": [
     {
+      "module": "What to work on first",
+      "items": [
+        {
+          "title": "What to work on first",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/42-what-to-work-on-first--001-what-to-work-on-first.mp4",
+          "duration": 672
+        }
+      ]
+    },
+    {
       "module": "Going forward",
       "items": [
         {
           "title": "Client coveted interview phrases",
-          "pdf": "media/drills/43-going-forward/001-client-coveted-interview-phrases.pdf"
+          "track": 1,
+          "pdf": "media/drills/43-going-forward/001-client-coveted-interview-phrases.pdf",
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/43-going-forward--001-supercharge-your-goals1.mp4",
+          "duration": 174
         },
         {
           "title": "Common presentation phrases",
+          "track": 1,
           "pdf": "media/drills/43-going-forward/001-common-presentation-phrases.pdf"
         },
         {
           "title": "Disclaimer video course",
+          "track": 1,
           "pdf": "media/drills/43-going-forward/001-disclaimer-video-course.pdf"
         },
         {
           "title": "English spelling secrets",
+          "track": 1,
           "pdf": "media/drills/43-going-forward/001-english-spelling-secrets.pdf"
         },
         {
           "title": "Flaunt your vocab tool",
+          "track": 1,
           "pdf": "media/drills/43-going-forward/001-flaunt-your-vocab-tool.pdf"
+        }
+      ]
+    },
+    {
+      "module": "Bonus",
+      "items": [
+        {
+          "title": "English pronunciation assessment",
+          "track": 2,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/44-bonus--002-english-pronunciation-assessment.mp4",
+          "duration": 83
         }
       ]
     }

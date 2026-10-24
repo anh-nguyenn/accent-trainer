@@ -54,21 +54,33 @@
       "items": [
         {
           "title": "Contractions phrases and sentences",
+          "track": 1,
           "audio": "media/drills/41-reductions/001-contractions-phrases-and-sentences.mp3",
           "pdf": "media/drills/41-reductions/001-contractions-phrases-and-sentences.pdf",
-          "duration": 538
+          "duration": 538,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/41-reductions--001-contractions-phrases-and-sentences.mp4"
         },
         {
           "title": "Reductions words and sentences",
+          "track": 2,
           "audio": "media/drills/41-reductions/002-reductions-words-and-sentences.mp3",
           "pdf": "media/drills/41-reductions/002-reductions-words-and-sentences.pdf",
-          "duration": 257
+          "duration": 257,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/41-reductions--002-reductions-words-and-sentences.mp4"
         },
         {
           "title": "Contractions and reductions practice sentences",
+          "track": 3,
           "audio": "media/drills/41-reductions/003-contractions-and-reductions-practice-sentences.mp3",
           "pdf": "media/drills/41-reductions/003-contractions-and-reductions-practice-sentences.pdf",
-          "duration": 486
+          "duration": 486,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/41-reductions--003-contractions-and-reductions-practice-sentences.mp4"
+        },
+        {
+          "title": "Contractions and reductions reading and conversation",
+          "track": 4,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/41-reductions--004-contractions-and-reductions-reading-and-conversation.mp4",
+          "duration": 174
         }
       ]
     }

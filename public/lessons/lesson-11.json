@@ -53,22 +53,40 @@
       "module": "Final consonants",
       "items": [
         {
+          "title": "Final consonants introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--001-final-consonants-introduction.mp4",
+          "duration": 92
+        },
+        {
           "title": "Final consonants words and minimal pairs",
+          "track": 2,
           "audio": "media/drills/19-final-consonants/002-final-consonants-words-and-minimal-pairs.mp3",
           "pdf": "media/drills/19-final-consonants/002-final-consonants-words-and-minimal-pairs.pdf",
-          "duration": 326
+          "duration": 326,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--002-final-consonants-words-and-minimal-pairs.mp4"
         },
         {
           "title": "Final consonants phrases",
+          "track": 3,
           "audio": "media/drills/19-final-consonants/003-final-consonants-phrases.mp3",
           "pdf": "media/drills/19-final-consonants/003-final-consonants-phrases.pdf",
-          "duration": 48
+          "duration": 48,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--003-final-consonants-phrases.mp4"
         },
         {
           "title": "Final consonant sentences",
+          "track": 4,
           "audio": "media/drills/19-final-consonants/004-final-consonant-sentences.mp3",
           "pdf": "media/drills/19-final-consonants/004-final-consonant-sentences.pdf",
-          "duration": 127
+          "duration": 127,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--004-final-consonant-sentences.mp4"
+        },
+        {
+          "title": "Final consonant reading and conversation",
+          "track": 5,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/19-final-consonants--005-final-consonant-reading-and-conversation.mp4",
+          "duration": 190
         }
       ]
     },
@@ -76,58 +94,82 @@
       "module": "Consonant clusters",
       "items": [
         {
+          "title": "Consonant blends introduction",
+          "track": 1,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--001-consonant-blends-introduction.mp4",
+          "duration": 160
+        },
+        {
           "title": "R blends words and sentences review",
+          "track": 2,
           "audio": "media/drills/20-clusters/002-r-blends-words-and-sentences-review.mp3",
           "pdf": "media/drills/20-clusters/002-r-blends-words-and-sentences-review.pdf",
-          "duration": 873
+          "duration": 873,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--002-r-blends-words-and-sentences-review.mp4"
         },
         {
           "title": "L blends words and sentences review",
+          "track": 3,
           "audio": "media/drills/20-clusters/003-l-blends-words-and-sentences-review.mp3",
           "pdf": "media/drills/20-clusters/003-l-blends-words-and-sentences-review.pdf",
-          "duration": 622
+          "duration": 622,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--003-l-blends-words-and-sentences-review.mp4"
         },
         {
           "title": "S blends words and sentences review",
+          "track": 4,
           "audio": "media/drills/20-clusters/004-s-blends-words-and-sentences-review.mp3",
           "pdf": "media/drills/20-clusters/004-s-blends-words-and-sentences-review.pdf",
-          "duration": 480
+          "duration": 480,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--004-s-blends-words-and-sentences-review.mp4"
         },
         {
           "title": "3 consonant blend words and sentences",
+          "track": 5,
           "audio": "media/drills/20-clusters/005-3-consonant-blend-words-and-sentences.mp3",
           "pdf": "media/drills/20-clusters/005-3-consonant-blend-words-and-sentences.pdf",
-          "duration": 399
+          "duration": 399,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--005-consonant-blend-words-and-sentences.mp4"
         },
         {
           "title": "Final consonant blend words",
+          "track": 6,
           "audio": "media/drills/20-clusters/006-final-consonant-blend-words.mp3",
           "pdf": "media/drills/20-clusters/006-final-consonant-blend-words.pdf",
-          "duration": 819
+          "duration": 819,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--006-final-consonant-blend-words.mp4"
         },
         {
           "title": "3 and 4 final consonant blends",
+          "track": 7,
           "audio": "media/drills/20-clusters/007-3-and-4-final-consonant-blends.mp3",
           "pdf": "media/drills/20-clusters/007-3-and-4-final-consonant-blends.pdf",
-          "duration": 153
+          "duration": 153,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--007-3-and-4-final-consonant-blends.mp4"
         },
         {
           "title": "3 and 4 final consonant blends dropped sounds",
+          "track": 8,
           "audio": "media/drills/20-clusters/008-3-and-4-final-consonant-blends-dropped-sounds.mp3",
           "pdf": "media/drills/20-clusters/008-3-and-4-final-consonant-blends-dropped-sounds.pdf",
-          "duration": 420
+          "duration": 420,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--008-3-and-4-final-consonant-blends-dropped-sounds-continued.mp4"
         },
         {
           "title": "D TH phrases and sentences",
+          "track": 9,
           "audio": "media/drills/20-clusters/009-d-th-phrases-and-sentences.mp3",
           "pdf": "media/drills/20-clusters/009-d-th-phrases-and-sentences.pdf",
-          "duration": 377
+          "duration": 377,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--009-d-th-phrases-and-sentences.mp4"
         },
         {
           "title": "Voiced TH D words and sentences",
+          "track": 10,
           "audio": "media/drills/20-clusters/010-voiced-th-d-words-and-sentences.mp3",
           "pdf": "media/drills/20-clusters/010-voiced-th-d-words-and-sentences.pdf",
-          "duration": 243
+          "duration": 243,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/20-clusters--010-voiced-th-d-words-and-sentences.mp4"
         }
       ]
     }

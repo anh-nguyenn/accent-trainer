@@ -54,75 +54,99 @@
       "items": [
         {
           "title": "Syllables introduction",
+          "track": 1,
           "audio": "media/drills/38-syllabic-stress/001-syllables-introduction.mp3",
           "pdf": "media/drills/38-syllabic-stress/001-syllables-introduction.pdf",
-          "duration": 317
+          "duration": 317,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--001-syllables-introduction.mp4"
         },
         {
           "title": "Syllables rule 1 2 and 3",
+          "track": 2,
           "audio": "media/drills/38-syllabic-stress/002-syllables-rule-1-2-and-3.mp3",
           "pdf": "media/drills/38-syllabic-stress/002-syllables-rule-1-2-and-3.pdf",
-          "duration": 446
+          "duration": 446,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--002-syllables-rule-1-2-and-3.mp4"
         },
         {
           "title": "Syllables rule 4",
+          "track": 3,
           "audio": "media/drills/38-syllabic-stress/003-syllables-rule-4.mp3",
           "pdf": "media/drills/38-syllabic-stress/003-syllables-rule-4.pdf",
-          "duration": 632
+          "duration": 632,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--003-syllables-rule-4.mp4"
         },
         {
           "title": "Syllables rule 5",
+          "track": 4,
           "audio": "media/drills/38-syllabic-stress/004-syllables-rule-5.mp3",
           "pdf": "media/drills/38-syllabic-stress/004-syllables-rule-5.pdf",
-          "duration": 305
+          "duration": 305,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--004-syllables-rule-5.mp4"
         },
         {
           "title": "Syllables rule 6",
+          "track": 5,
           "audio": "media/drills/38-syllabic-stress/005-syllables-rule-6.mp3",
           "pdf": "media/drills/38-syllabic-stress/005-syllables-rule-6.pdf",
-          "duration": 119
+          "duration": 119,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--005-syllables-rule-6.mp4"
         },
         {
           "title": "Syllables rule 7",
+          "track": 6,
           "audio": "media/drills/38-syllabic-stress/006-syllables-rule-7.mp3",
           "pdf": "media/drills/38-syllabic-stress/006-syllables-rule-7.pdf",
-          "duration": 96
+          "duration": 96,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--006-syllables-rule-7.mp4"
         },
         {
           "title": "Syllables rule 8",
+          "track": 7,
           "audio": "media/drills/38-syllabic-stress/007-syllables-rule-8.mp3",
           "pdf": "media/drills/38-syllabic-stress/007-syllables-rule-8.pdf",
-          "duration": 51
+          "duration": 51,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--007-syllables-rule-8.mp4"
         },
         {
           "title": "Syllables rule 9",
+          "track": 8,
           "audio": "media/drills/38-syllabic-stress/008-syllables-rule-9.mp3",
           "pdf": "media/drills/38-syllabic-stress/008-syllables-rule-9.pdf",
-          "duration": 62
+          "duration": 62,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--008-syllables-rule-9.mp4"
         },
         {
           "title": "Syllables rule 10",
+          "track": 9,
           "audio": "media/drills/38-syllabic-stress/009-syllables-rule-10.mp3",
           "pdf": "media/drills/38-syllabic-stress/009-syllables-rule-10.pdf",
-          "duration": 39
+          "duration": 39,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--009-syllables-rule-10.mp4"
         },
         {
           "title": "Syllables rule 11",
+          "track": 10,
           "audio": "media/drills/38-syllabic-stress/010-syllables-rule-11.mp3",
           "pdf": "media/drills/38-syllabic-stress/010-syllables-rule-11.pdf",
-          "duration": 54
+          "duration": 54,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--010-syllables-rule-11.mp4"
         },
         {
           "title": "Syllables rule 12",
+          "track": 11,
           "audio": "media/drills/38-syllabic-stress/011-syllables-rule-12.mp3",
           "pdf": "media/drills/38-syllabic-stress/011-syllables-rule-12.pdf",
-          "duration": 28
+          "duration": 28,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--011-syllables-rule-12.mp4"
         },
         {
           "title": "Syllable stress practice",
+          "track": 12,
           "audio": "media/drills/38-syllabic-stress/012-syllable-stress-practice.mp3",
           "pdf": "media/drills/38-syllabic-stress/012-syllable-stress-practice.pdf",
-          "duration": 267
+          "duration": 267,
+          "video": "https://github.com/anh-nguyenn/accent-trainer/releases/download/course-media-v1/38-syllabic-stress--012-syllable-stress-practice.mp4"
         }
       ]
     }

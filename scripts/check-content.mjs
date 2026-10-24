@@ -2,10 +2,12 @@ import fs from 'node:fs';
 const index=JSON.parse(fs.readFileSync('public/lessons/index.json'));
 const ipa=JSON.parse(fs.readFileSync('public/ipa.json'));
 const failures=[];
+const videoMap=JSON.parse(fs.readFileSync('public/media/videos.json'));
+const videoUrls=new Set(videoMap.map(v=>v.url));
 if(index.length!==16)failures.push(`Expected 16 lessons, got ${index.length}`);
 if(ipa.filter(x=>x.type==='vowel').length!==20||ipa.filter(x=>x.type==='consonant').length!==24)failures.push('IPA inventory must be 20 vowels and 24 consonants');
 const videos=new Map();
-let drills=0, audioFiles=0;
+let drills=0, audioFiles=0, videoItems=0;
 for(const summary of index){
  const path=`public/lessons/lesson-${summary.id}.json`;
  const l=JSON.parse(fs.readFileSync(path));
@@ -21,6 +23,7 @@ for(const summary of index){
   if(!group.module||!Array.isArray(group.items)||group.items.length===0)failures.push(`${path}: empty drill group`);
   for(const item of group.items??[]){
    drills++;
+   if(item.video){videoItems++;if(!videoUrls.has(item.video))failures.push(`${path}: unknown video ${item.video}`);}
    if(!item.title)failures.push(`${path}: drill missing title`);
    for(const key of ['audio','pdf']){
     if(!item[key])continue;
@@ -38,4 +41,6 @@ if(process.argv.includes('--online')){
  }
 }
 if(failures.length){console.error(failures.join('\n'));process.exit(1)}
-console.log(`Content checks passed: ${index.length} lessons, ${ipa.length} IPA targets, ${videos.size} unique videos, ${drills} drills (${audioFiles} audio).`);
+if(videoItems!==videoMap.length)failures.push(`Expected ${videoMap.length} videos attached, got ${videoItems}`);
+if(failures.length){console.error(failures.join('\n'));process.exit(1)}
+console.log(`Content checks passed: ${index.length} lessons, ${ipa.length} IPA targets, ${videos.size} unique YouTube clips, ${drills} drill items (${audioFiles} audio, ${videoItems} course videos).`);

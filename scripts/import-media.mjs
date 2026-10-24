@@ -10,7 +10,7 @@ const PLAN = path.join(ROOT, 'source-media/media-plan.json');
 const PLAN_ONLY = process.argv.includes('--plan');
 
 const modules = {
-  '01': { label: 'Course handouts', slug: '01-handouts' },
+  '01': { label: 'Course orientation', slug: '01-orientation' },
   '02': { label: 'TH', slug: '02-th' },
   '03': { label: 'V', slug: '03-v' },
   '04': { label: 'P, T and K airflow', slug: '04-p-t-k' },
@@ -234,8 +234,9 @@ for (const [lesson, groups] of lessonDrills) {
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
   data.drills = [...groups.entries()].map(([label, items]) => ({
     module: label,
-    items: items.map(({ title, audio, pdf, duration }) => ({
+    items: items.map(({ title, track, audio, pdf, duration }) => ({
       title,
+      track,
       ...(audio ? { audio } : {}),
       ...(pdf ? { pdf } : {}),
       ...(duration ? { duration } : {}),
