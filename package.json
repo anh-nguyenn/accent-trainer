@@ -8,14 +8,16 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 0.0.0.0",
     "check:content": "node scripts/check-content.mjs",
-    "import:media": "node scripts/import-media.mjs && node scripts/import-videos.mjs",
+    "import:media": "node scripts/import-media.mjs && node scripts/import-videos.mjs && node scripts/build-peaks.mjs",
     "import:videos": "node scripts/import-videos.mjs",
-    "upload:videos": "node scripts/upload-videos.mjs --upload"
+    "upload:videos": "node scripts/upload-videos.mjs --upload",
+    "build:peaks": "node scripts/build-peaks.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "wavesurfer.js": "^7.12.12"
   },
   "devDependencies": {
     "@types/react": "^18.3.12",
