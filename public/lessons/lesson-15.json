@@ -1,0 +1,51 @@
+{
+  "id": 15,
+  "stage": 3,
+  "title": "Intonation patterns",
+  "summary": "Let your voice rise or fall with your purpose.",
+  "watch": {
+    "videoId": "p8DJFNjZiIM",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "really?",
+      "where?",
+      "yes",
+      "no",
+      "maybe",
+      "coffee",
+      "tea",
+      "water"
+    ],
+    "sentences": [
+      "Are you ready?",
+      "Where are you going?",
+      "I am ready.",
+      "We need apples, tea, and bread.",
+      "You finished already?"
+    ]
+  },
+  "shadow": {
+    "videoId": "FZv19zS3UV4",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "The Asian American Foundation × Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@TAAForg"
+  },
+  "selfCheck": [
+    "My yes/no question rose at the end.",
+    "My statement and wh-question fell.",
+    "My list signaled that more items were coming."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 16,
+  "stage": 4,
+  "title": "Real-life speaking",
+  "summary": "Bring sounds, stress, linking and melody together.",
+  "watch": {
+    "videoId": "TUuAFS-k1FE",
+    "creator": "The Asian American Foundation × Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@TAAForg",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "introduction",
+      "work",
+      "hobby",
+      "phone call",
+      "message",
+      "presentation",
+      "question",
+      "thank you"
+    ],
+    "sentences": [
+      "Hi, I’m Alex, and I live near the river.",
+      "I work with a small team on new ideas.",
+      "Could you call me back this afternoon?",
+      "Today I would like to share three points.",
+      "Thanks for listening. Do you have any questions?"
+    ]
+  },
+  "shadow": {
+    "videoId": "TUuAFS-k1FE",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "The Asian American Foundation × Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@TAAForg"
+  },
+  "selfCheck": [
+    "Sound accuracy: my target vowels and consonants were clear.",
+    "Mouth shape and final sounds: I shaped each sound and finished important word endings.",
+    "Stress: I emphasized the right syllables and meaning words.",
+    "Connected speech: I linked words and reduced small words naturally.",
+    "Rhythm and chunking: I grouped ideas and placed pauses between them.",
+    "Intonation: my pitch matched statements, questions and emphasis."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

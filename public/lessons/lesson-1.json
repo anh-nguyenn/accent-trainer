@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "stage": 1,
+  "title": "Your speaking toolkit",
+  "summary": "Meet the lips, tongue, jaw and voice that shape every sound.",
+  "watch": {
+    "videoId": "TxmUG7vUb9o",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "lips",
+      "tongue",
+      "jaw",
+      "voice",
+      "air",
+      "beat",
+      "bit",
+      "thin"
+    ],
+    "sentences": [
+      "Touch your throat and say z, then s.",
+      "My lips close for the sound p.",
+      "My tongue touches behind my top teeth.",
+      "I can feel my voice vibrate.",
+      "A small mouth change makes a new sound."
+    ]
+  },
+  "shadow": {
+    "videoId": "TxmUG7vUb9o",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish"
+  },
+  "selfCheck": [
+    "I noticed which part of my mouth moved.",
+    "I felt vibration for a voiced sound.",
+    "I could find a symbol in the IPA chart."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

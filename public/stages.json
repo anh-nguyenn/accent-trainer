@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "The sound lab",
+    "title": "IPA & individual sounds",
+    "description": "Build the mouth shapes and listening skills behind clear speech.",
+    "count": 6
+  },
+  {
+    "id": 2,
+    "name": "The connection studio",
+    "title": "Connected speech",
+    "description": "Learn how sounds change and flow between words.",
+    "count": 6
+  },
+  {
+    "id": 3,
+    "name": "The melody room",
+    "title": "Rhythm & intonation",
+    "description": "Shape the beat and pitch that carry meaning.",
+    "count": 3
+  },
+  {
+    "id": 4,
+    "name": "The real world",
+    "title": "Final integration",
+    "description": "Bring it all into everyday speaking.",
+    "count": 1
+  }
+]

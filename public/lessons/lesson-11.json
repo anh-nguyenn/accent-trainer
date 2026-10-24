@@ -1,0 +1,51 @@
+{
+  "id": 11,
+  "stage": 2,
+  "title": "Final sounds and clusters",
+  "summary": "Finish words clearly, even when several consonants meet.",
+  "watch": {
+    "videoId": "xreA0vkHMBY",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "walked",
+      "played",
+      "wanted",
+      "books",
+      "bags",
+      "boxes",
+      "asked",
+      "months"
+    ],
+    "sentences": [
+      "She asked for six books.",
+      "We walked past the shops.",
+      "He played games for months.",
+      "The boxes are stacked near the desk.",
+      "I wanted to send three texts."
+    ]
+  },
+  "shadow": {
+    "videoId": "xreA0vkHMBY",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish"
+  },
+  "selfCheck": [
+    "I kept the final consonant audible.",
+    "I used the right -ed or -s ending.",
+    "I slowed down for a difficult cluster."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

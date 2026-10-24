@@ -1,0 +1,51 @@
+{
+  "id": 3,
+  "stage": 1,
+  "title": "Back and central vowels",
+  "summary": "Move from relaxed schwa to rounded back vowels.",
+  "watch": {
+    "videoId": "2BmkUa4Mv60",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "pot",
+      "thought",
+      "cup",
+      "about",
+      "book",
+      "boot",
+      "pull",
+      "pool"
+    ],
+    "sentences": [
+      "The book is on the blue stool.",
+      "I thought about the small shop.",
+      "Put the cup above the box.",
+      "The cook took the soup.",
+      "A soft schwa begins about."
+    ]
+  },
+  "shadow": {
+    "videoId": "2BmkUa4Mv60",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish"
+  },
+  "selfCheck": [
+    "I relaxed my mouth for the schwa in about.",
+    "I rounded my lips for boot.",
+    "I heard book and boot as different vowels."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

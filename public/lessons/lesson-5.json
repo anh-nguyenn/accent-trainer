@@ -1,0 +1,51 @@
+{
+  "id": 5,
+  "stage": 1,
+  "title": "Stops and fricatives",
+  "summary": "Practice clear stops, breathy TH and the sounds around them.",
+  "watch": {
+    "videoId": "xreA0vkHMBY",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "think",
+      "sink",
+      "this",
+      "these",
+      "fan",
+      "van",
+      "sip",
+      "ship"
+    ],
+    "sentences": [
+      "I think this is the third thing.",
+      "The fan is in the van.",
+      "She sells a shiny shell.",
+      "Please put the big cup back.",
+      "Those three paths go north."
+    ]
+  },
+  "shadow": {
+    "videoId": "xreA0vkHMBY",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish"
+  },
+  "selfCheck": [
+    "My tongue tip touched my teeth for think and this.",
+    "I heard the difference between think and sink.",
+    "I finished each word without dropping its last sound."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

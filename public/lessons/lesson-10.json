@@ -1,0 +1,51 @@
+{
+  "id": 10,
+  "stage": 2,
+  "title": "Linking words",
+  "summary": "Carry the last sound into the next word.",
+  "watch": {
+    "videoId": "EvhZPWJSub4",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "pick it up",
+      "turn it on",
+      "go out",
+      "I am",
+      "see it",
+      "one night",
+      "big game",
+      "take it"
+    ],
+    "sentences": [
+      "Pick it up and put it away.",
+      "Go out and see it.",
+      "I am already on my way.",
+      "Turn it on in an hour.",
+      "Take a look at the old book."
+    ]
+  },
+  "shadow": {
+    "videoId": "TUuAFS-k1FE",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "The Asian American Foundation × Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@TAAForg"
+  },
+  "selfCheck": [
+    "I joined a final consonant to the next vowel.",
+    "I avoided extra pauses inside a thought group.",
+    "I heard a smooth glide between vowels."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

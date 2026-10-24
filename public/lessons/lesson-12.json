@@ -1,0 +1,51 @@
+{
+  "id": 12,
+  "stage": 2,
+  "title": "American T and sound changes",
+  "summary": "Hear the quick flap, held T and common blends.",
+  "watch": {
+    "videoId": "UMps1maxtVo",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "water",
+      "city",
+      "butter",
+      "button",
+      "center",
+      "did you",
+      "want to",
+      "got to"
+    ],
+    "sentences": [
+      "The water is getting hotter.",
+      "Did you go to the city?",
+      "I want to get a better button.",
+      "She lives near the center.",
+      "Don’t you want to try it?"
+    ]
+  },
+  "shadow": {
+    "videoId": "UMps1maxtVo",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish"
+  },
+  "selfCheck": [
+    "My T in water was a quick tap.",
+    "I held the T in button without a strong release.",
+    "I could hear did you as a smooth blend."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

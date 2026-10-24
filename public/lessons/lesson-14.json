@@ -1,0 +1,51 @@
+{
+  "id": 14,
+  "stage": 3,
+  "title": "Key words and pitch",
+  "summary": "Move your pitch to highlight a change in meaning.",
+  "watch": {
+    "videoId": "O57QgP_o7QA",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "blue",
+      "green",
+      "today",
+      "tomorrow",
+      "I",
+      "you",
+      "really",
+      "only"
+    ],
+    "sentences": [
+      "I said BLUE, not green.",
+      "I said blue, not GREEN.",
+      "SHE called me yesterday.",
+      "She called me YESTERDAY.",
+      "I only wanted the SMALL cup."
+    ]
+  },
+  "shadow": {
+    "videoId": "TUuAFS-k1FE",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "The Asian American Foundation × Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@TAAForg"
+  },
+  "selfCheck": [
+    "My pitch peaked on the word I chose.",
+    "Moving the peak changed the meaning.",
+    "The less important words stayed lighter."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

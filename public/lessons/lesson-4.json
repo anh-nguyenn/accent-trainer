@@ -1,0 +1,51 @@
+{
+  "id": 4,
+  "stage": 1,
+  "title": "Diphthongs and R vowels",
+  "summary": "Let vowels glide, then hold an American R.",
+  "watch": {
+    "videoId": "LIZ78RwhSPc",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "day",
+      "die",
+      "boy",
+      "now",
+      "no",
+      "bird",
+      "butter",
+      "care"
+    ],
+    "sentences": [
+      "The boy drove home today.",
+      "I can hear the rain now.",
+      "Her bird flew over the chair.",
+      "My voice moves through the vowel in day.",
+      "Turn right at the next road."
+    ]
+  },
+  "shadow": {
+    "videoId": "LIZ78RwhSPc",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish"
+  },
+  "selfCheck": [
+    "My vowel moved in day and now.",
+    "I kept my tongue shaped for the R in bird.",
+    "I did not cut the vowel glide short."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 9,
+  "stage": 2,
+  "title": "Reduction and schwa",
+  "summary": "Let small words shrink without losing the message.",
+  "watch": {
+    "videoId": "2BmkUa4Mv60",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "to",
+      "of",
+      "and",
+      "for",
+      "can",
+      "the",
+      "a",
+      "about"
+    ],
+    "sentences": [
+      "I want to go to the store.",
+      "A cup of tea is on the table.",
+      "Bread and butter are ready.",
+      "I can do it, but I cannot stay.",
+      "This is for my friend."
+    ]
+  },
+  "shadow": {
+    "videoId": "9oMPsYwOvDg",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@wongfuproductions"
+  },
+  "selfCheck": [
+    "I used a relaxed schwa in an unstressed word.",
+    "I kept can and cannot distinct.",
+    "My reduced words still connected clearly."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

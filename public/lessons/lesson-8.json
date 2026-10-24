@@ -1,0 +1,51 @@
+{
+  "id": 8,
+  "stage": 2,
+  "title": "Sentence stress",
+  "summary": "Give meaning words more time and energy.",
+  "watch": {
+    "videoId": "QPbNhsCkj7k",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "coffee",
+      "morning",
+      "really",
+      "tomorrow",
+      "need",
+      "bought",
+      "blue",
+      "train"
+    ],
+    "sentences": [
+      "I bought a blue bag yesterday.",
+      "We need the train at nine.",
+      "She really likes that little café.",
+      "I called my brother this morning.",
+      "The red book is on the table."
+    ]
+  },
+  "shadow": {
+    "videoId": "TUuAFS-k1FE",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "The Asian American Foundation × Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@TAAForg"
+  },
+  "selfCheck": [
+    "My nouns and main verbs stood out.",
+    "Small grammar words stayed shorter.",
+    "A listener could hear the key message."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

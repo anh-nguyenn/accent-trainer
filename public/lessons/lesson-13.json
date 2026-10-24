@@ -1,0 +1,51 @@
+{
+  "id": 13,
+  "stage": 3,
+  "title": "Rhythm and thought groups",
+  "summary": "Speak in small meaning groups with a steady beat.",
+  "watch": {
+    "videoId": "PrAe07KluZY",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "morning",
+      "after lunch",
+      "on Friday",
+      "when I arrive",
+      "first",
+      "next",
+      "finally",
+      "thank you"
+    ],
+    "sentences": [
+      "When I arrive, I will call you.",
+      "After lunch, we can walk outside.",
+      "First, choose a seat; then, take a breath.",
+      "On Friday, I am meeting my friend.",
+      "I bought a ticket, and then I went home."
+    ]
+  },
+  "shadow": {
+    "videoId": "9oMPsYwOvDg",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@wongfuproductions"
+  },
+  "selfCheck": [
+    "I paused at meaning boundaries.",
+    "My important words carried the beat.",
+    "I did not pause between every word."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

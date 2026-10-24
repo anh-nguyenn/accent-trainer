@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "stage": 1,
+    "title": "Your speaking toolkit",
+    "summary": "Meet the lips, tongue, jaw and voice that shape every sound."
+  },
+  {
+    "id": 2,
+    "stage": 1,
+    "title": "Front vowels",
+    "summary": "Hear and shape /i/, /ɪ/, /ɛ/ and /æ/."
+  },
+  {
+    "id": 3,
+    "stage": 1,
+    "title": "Back and central vowels",
+    "summary": "Move from relaxed schwa to rounded back vowels."
+  },
+  {
+    "id": 4,
+    "stage": 1,
+    "title": "Diphthongs and R vowels",
+    "summary": "Let vowels glide, then hold an American R."
+  },
+  {
+    "id": 5,
+    "stage": 1,
+    "title": "Stops and fricatives",
+    "summary": "Practice clear stops, breathy TH and the sounds around them."
+  },
+  {
+    "id": 6,
+    "stage": 1,
+    "title": "Consonant pairs and IPA",
+    "summary": "Finish the chart with CH, J, nasals, L, R, W and Y."
+  },
+  {
+    "id": 7,
+    "stage": 2,
+    "title": "Word stress",
+    "summary": "Put one syllable in the spotlight."
+  },
+  {
+    "id": 8,
+    "stage": 2,
+    "title": "Sentence stress",
+    "summary": "Give meaning words more time and energy."
+  },
+  {
+    "id": 9,
+    "stage": 2,
+    "title": "Reduction and schwa",
+    "summary": "Let small words shrink without losing the message."
+  },
+  {
+    "id": 10,
+    "stage": 2,
+    "title": "Linking words",
+    "summary": "Carry the last sound into the next word."
+  },
+  {
+    "id": 11,
+    "stage": 2,
+    "title": "Final sounds and clusters",
+    "summary": "Finish words clearly, even when several consonants meet."
+  },
+  {
+    "id": 12,
+    "stage": 2,
+    "title": "American T and sound changes",
+    "summary": "Hear the quick flap, held T and common blends."
+  },
+  {
+    "id": 13,
+    "stage": 3,
+    "title": "Rhythm and thought groups",
+    "summary": "Speak in small meaning groups with a steady beat."
+  },
+  {
+    "id": 14,
+    "stage": 3,
+    "title": "Key words and pitch",
+    "summary": "Move your pitch to highlight a change in meaning."
+  },
+  {
+    "id": 15,
+    "stage": 3,
+    "title": "Intonation patterns",
+    "summary": "Let your voice rise or fall with your purpose."
+  },
+  {
+    "id": 16,
+    "stage": 4,
+    "title": "Real-life speaking",
+    "summary": "Bring sounds, stress, linking and melody together."
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": 2,
+  "stage": 1,
+  "title": "Front vowels",
+  "summary": "Hear and shape /i/, /ɪ/, /ɛ/ and /æ/.",
+  "watch": {
+    "videoId": "g3oViL-3G-Y",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "sheep",
+      "ship",
+      "beat",
+      "bit",
+      "bed",
+      "bad",
+      "pen",
+      "pan"
+    ],
+    "sentences": [
+      "The sheep is near the ship.",
+      "Please sit in this seat.",
+      "The red pen is on the bed.",
+      "That black bag is back.",
+      "I said bed, not bad."
+    ]
+  },
+  "shadow": {
+    "videoId": "g3oViL-3G-Y",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish"
+  },
+  "selfCheck": [
+    "I kept sheep longer and tenser than ship.",
+    "I opened my jaw more for bad than bed.",
+    "I heard the difference in both pairs."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

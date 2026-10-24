@@ -1,0 +1,51 @@
+{
+  "id": 7,
+  "stage": 2,
+  "title": "Word stress",
+  "summary": "Put one syllable in the spotlight.",
+  "watch": {
+    "videoId": "O57QgP_o7QA",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "REcord",
+      "reCORD",
+      "PREsent",
+      "preSENT",
+      "PHOtograph",
+      "phoTOGraphic",
+      "TAble",
+      "aBOUT"
+    ],
+    "sentences": [
+      "I will record a new record.",
+      "She will present the present.",
+      "The photograph looks fantastic.",
+      "We need a better solution.",
+      "I can hear the strongest syllable."
+    ]
+  },
+  "shadow": {
+    "videoId": "9oMPsYwOvDg",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Wong Fu Productions",
+    "creatorUrl": "https://www.youtube.com/@wongfuproductions"
+  },
+  "selfCheck": [
+    "I made one syllable longer and clearer.",
+    "I changed the stress in record as a noun and verb.",
+    "The other syllables became lighter."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}

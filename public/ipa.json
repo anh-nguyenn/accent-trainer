@@ -1,0 +1,530 @@
+[
+  {
+    "symbol": "/i/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "sheep",
+      "see",
+      "beat"
+    ],
+    "note": "Tongue high and forward; lips spread.",
+    "lesson": 2
+  },
+  {
+    "symbol": "/ɪ/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "ship",
+      "sit",
+      "bit"
+    ],
+    "note": "Tongue a little lower and looser than /i/.",
+    "lesson": 2
+  },
+  {
+    "symbol": "/ɛ/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "bed",
+      "pen",
+      "said"
+    ],
+    "note": "Mid front tongue; jaw opens slightly.",
+    "lesson": 2
+  },
+  {
+    "symbol": "/æ/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "bad",
+      "cat",
+      "pan"
+    ],
+    "note": "Open the jaw wider; tongue stays forward.",
+    "lesson": 2
+  },
+  {
+    "symbol": "/ɑ/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "father",
+      "pot",
+      "hot"
+    ],
+    "note": "Open jaw; tongue low and back.",
+    "lesson": 3
+  },
+  {
+    "symbol": "/ɔ/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "thought",
+      "law",
+      "talk"
+    ],
+    "note": "Tongue back; lips gently rounded. Some speakers merge this with /ɑ/.",
+    "lesson": 3
+  },
+  {
+    "symbol": "/ʊ/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "book",
+      "good",
+      "pull"
+    ],
+    "note": "Back tongue high but relaxed; light rounding.",
+    "lesson": 3
+  },
+  {
+    "symbol": "/u/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "boot",
+      "food",
+      "blue"
+    ],
+    "note": "Back tongue high; lips round more firmly.",
+    "lesson": 3
+  },
+  {
+    "symbol": "/ʌ/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "cup",
+      "but",
+      "love"
+    ],
+    "note": "Relaxed central tongue with a modest jaw drop.",
+    "lesson": 3
+  },
+  {
+    "symbol": "/ə/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "about",
+      "sofa",
+      "again"
+    ],
+    "note": "The quick, relaxed vowel of an unstressed syllable.",
+    "lesson": 3
+  },
+  {
+    "symbol": "/ɝ/",
+    "type": "vowel",
+    "group": "Simple vowels",
+    "examples": [
+      "bird",
+      "word",
+      "learn"
+    ],
+    "note": "Tongue curls or bunches for a stressed R vowel.",
+    "lesson": 3
+  },
+  {
+    "symbol": "/eɪ/",
+    "type": "vowel",
+    "group": "Diphthongs",
+    "examples": [
+      "day",
+      "say",
+      "rain"
+    ],
+    "note": "Glide from a mid vowel toward /ɪ/.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/aɪ/",
+    "type": "vowel",
+    "group": "Diphthongs",
+    "examples": [
+      "my",
+      "time",
+      "light"
+    ],
+    "note": "Start open and glide toward /ɪ/.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/ɔɪ/",
+    "type": "vowel",
+    "group": "Diphthongs",
+    "examples": [
+      "boy",
+      "toy",
+      "choice"
+    ],
+    "note": "Start rounded and glide toward /ɪ/.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/aʊ/",
+    "type": "vowel",
+    "group": "Diphthongs",
+    "examples": [
+      "now",
+      "house",
+      "brown"
+    ],
+    "note": "Start open and glide toward /ʊ/.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/oʊ/",
+    "type": "vowel",
+    "group": "Diphthongs",
+    "examples": [
+      "no",
+      "go",
+      "home"
+    ],
+    "note": "Start mid-back and round into /ʊ/.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/ɛr/",
+    "type": "vowel",
+    "group": "R-colored vowels",
+    "examples": [
+      "air",
+      "care",
+      "there"
+    ],
+    "note": "Move from /ɛ/ into an American R.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/ɪr/",
+    "type": "vowel",
+    "group": "R-colored vowels",
+    "examples": [
+      "ear",
+      "near",
+      "here"
+    ],
+    "note": "Move from /ɪ/ into an American R.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/ʊr/",
+    "type": "vowel",
+    "group": "R-colored vowels",
+    "examples": [
+      "tour",
+      "cure",
+      "pure"
+    ],
+    "note": "A rounded vowel moving into R; pronunciation varies.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/ɚ/",
+    "type": "vowel",
+    "group": "R-colored vowels",
+    "examples": [
+      "butter",
+      "teacher",
+      "better"
+    ],
+    "note": "Quick unstressed R-colored vowel.",
+    "lesson": 4
+  },
+  {
+    "symbol": "/p/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "pin",
+      "cap",
+      "spin"
+    ],
+    "note": "Close both lips, then release air.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/b/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "bin",
+      "cab",
+      "baby"
+    ],
+    "note": "Close both lips and use your voice.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/t/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "time",
+      "cat",
+      "stop"
+    ],
+    "note": "Tongue tip touches behind top teeth.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/d/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "dime",
+      "bad",
+      "day"
+    ],
+    "note": "Tongue tip touches behind top teeth; voiced.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/k/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "cap",
+      "back",
+      "coat"
+    ],
+    "note": "Back of tongue meets soft palate.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/g/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "gap",
+      "bag",
+      "go"
+    ],
+    "note": "Back of tongue meets soft palate; voiced.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/f/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "fan",
+      "leaf",
+      "coffee"
+    ],
+    "note": "Lower lip touches upper teeth; blow air.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/v/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "van",
+      "leave",
+      "very"
+    ],
+    "note": "Lower lip touches upper teeth; use voice.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/θ/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "thin",
+      "bath",
+      "think"
+    ],
+    "note": "Tongue tip near teeth; air passes without voice.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/ð/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "this",
+      "breathe",
+      "those"
+    ],
+    "note": "Tongue tip near teeth; add voice.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/s/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "sip",
+      "bus",
+      "sister"
+    ],
+    "note": "Air hisses along the center of the tongue.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/z/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "zip",
+      "buzz",
+      "zero"
+    ],
+    "note": "Same shape as /s/ with voice.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/ʃ/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "ship",
+      "wash",
+      "she"
+    ],
+    "note": "Tongue slightly farther back than /s/.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/ʒ/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "measure",
+      "vision",
+      "beige"
+    ],
+    "note": "Voiced partner of /ʃ/.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/h/",
+    "type": "consonant",
+    "group": "Stops & fricatives",
+    "examples": [
+      "hat",
+      "hello",
+      "behind"
+    ],
+    "note": "Breathe out gently through an open mouth.",
+    "lesson": 5
+  },
+  {
+    "symbol": "/tʃ/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "chair",
+      "watch",
+      "choose"
+    ],
+    "note": "Start with a stop, release into /ʃ/.",
+    "lesson": 6
+  },
+  {
+    "symbol": "/dʒ/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "jar",
+      "judge",
+      "job"
+    ],
+    "note": "Voiced partner of /tʃ/.",
+    "lesson": 6
+  },
+  {
+    "symbol": "/m/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "map",
+      "some",
+      "summer"
+    ],
+    "note": "Close lips; let voice hum through nose.",
+    "lesson": 6
+  },
+  {
+    "symbol": "/n/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "nap",
+      "sun",
+      "nice"
+    ],
+    "note": "Tongue tip up; let voice through nose.",
+    "lesson": 6
+  },
+  {
+    "symbol": "/ŋ/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "sing",
+      "long",
+      "ring"
+    ],
+    "note": "Back of tongue up; voice through nose.",
+    "lesson": 6
+  },
+  {
+    "symbol": "/l/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "light",
+      "feel",
+      "lake"
+    ],
+    "note": "Tongue tip touches ridge behind top teeth.",
+    "lesson": 6
+  },
+  {
+    "symbol": "/r/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "red",
+      "car",
+      "right"
+    ],
+    "note": "Tongue curls or bunches; do not touch the roof.",
+    "lesson": 6
+  },
+  {
+    "symbol": "/w/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "way",
+      "win",
+      "away"
+    ],
+    "note": "Round lips, then open into the vowel.",
+    "lesson": 6
+  },
+  {
+    "symbol": "/j/",
+    "type": "consonant",
+    "group": "Other consonants",
+    "examples": [
+      "yes",
+      "yellow",
+      "use"
+    ],
+    "note": "Tongue high and forward; glide into vowel.",
+    "lesson": 6
+  }
+]

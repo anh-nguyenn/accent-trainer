@@ -1,0 +1,51 @@
+{
+  "id": 6,
+  "stage": 1,
+  "title": "Consonant pairs and IPA",
+  "summary": "Finish the chart with CH, J, nasals, L, R, W and Y.",
+  "watch": {
+    "videoId": "xreA0vkHMBY",
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish",
+    "start": 0,
+    "end": null
+  },
+  "repeat": {
+    "words": [
+      "choke",
+      "joke",
+      "light",
+      "right",
+      "wing",
+      "ring",
+      "sing",
+      "sin"
+    ],
+    "sentences": [
+      "The light is on the right.",
+      "She chose a jar of jam.",
+      "We will sing the long song.",
+      "Your yellow jacket is here.",
+      "The young runner reached the line."
+    ]
+  },
+  "shadow": {
+    "videoId": "xreA0vkHMBY",
+    "start": 35,
+    "end": 55,
+    "defaultSpeed": 0.75,
+    "creator": "Rachel's English",
+    "creatorUrl": "https://www.youtube.com/@rachelsenglish"
+  },
+  "selfCheck": [
+    "I heard light and right as different words.",
+    "I kept the final NG in sing.",
+    "I could read a short IPA transcription."
+  ],
+  "backups": [
+    {
+      "videoId": "xreA0vkHMBY",
+      "creator": "Rachel's English"
+    }
+  ]
+}
