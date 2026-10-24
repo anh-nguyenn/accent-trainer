@@ -12,7 +12,7 @@ Natural speech clips feature Asian American creators, including [Wong Fu Product
 | --- | --- |
 | Follow a clear path | Four stages and 16 lessons: sounds, connected speech, rhythm and intonation, then real-life speaking. |
 | Practice each lesson | Watch, repeat, shadow a short loop, record, and self-compare with a focused checklist. |
-| Drill with course audio | 386 audio drills with printable PDF handouts, grouped by sound and mapped to the 16 lessons. |
+| Drill with course audio | 386 audio drills with printable PDF handouts, grouped by sound and mapped to the 16 lessons. Record your own take in the Drills step and delete it when you are done. |
 | Explore sounds | Interactive IPA chart with 20 vowel targets and 24 consonants, examples, and mouth-position notes. |
 | Check your starting point | Read a short passage, listen back, and choose what to practice. |
 | Keep control of your take | Record audio or video in your browser, replay it, and discard it. |
