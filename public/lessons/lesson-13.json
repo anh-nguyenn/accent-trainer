@@ -47,5 +47,24 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Fluency and linking",
+      "items": [
+        {
+          "title": "Phrasing introduction",
+          "audio": "media/drills/40-fluency/001-phrasing-introduction.mp3",
+          "pdf": "media/drills/40-fluency/001-phrasing-introduction.pdf",
+          "duration": 173
+        },
+        {
+          "title": "Phrasing in reading",
+          "audio": "media/drills/40-fluency/002-phrasing-in-reading.mp3",
+          "pdf": "media/drills/40-fluency/002-phrasing-in-reading.pdf",
+          "duration": 95
+        }
+      ]
+    }
   ]
 }

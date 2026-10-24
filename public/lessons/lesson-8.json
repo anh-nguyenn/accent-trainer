@@ -47,5 +47,58 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Stress patterns",
+      "items": [
+        {
+          "title": "Stress handout",
+          "pdf": "media/drills/37-stress/001-stress-handout.pdf"
+        },
+        {
+          "title": "De stressed words and sentences",
+          "audio": "media/drills/37-stress/002-de-stressed-words-and-sentences.mp3",
+          "pdf": "media/drills/37-stress/002-de-stressed-words-and-sentences.pdf",
+          "duration": 580
+        },
+        {
+          "title": "De stressed a in phrases",
+          "audio": "media/drills/37-stress/003-de-stressed-a-in-phrases.mp3",
+          "pdf": "media/drills/37-stress/003-de-stressed-a-in-phrases.pdf",
+          "duration": 257
+        },
+        {
+          "title": "De stressed to in phrases",
+          "audio": "media/drills/37-stress/004-de-stressed-to-in-phrases.mp3",
+          "pdf": "media/drills/37-stress/004-de-stressed-to-in-phrases.pdf",
+          "duration": 641
+        },
+        {
+          "title": "De stressed the in phrases",
+          "audio": "media/drills/37-stress/005-de-stressed-the-in-phrases.mp3",
+          "pdf": "media/drills/37-stress/005-de-stressed-the-in-phrases.pdf",
+          "duration": 390
+        },
+        {
+          "title": "De stressed our in phrases",
+          "audio": "media/drills/37-stress/006-de-stressed-our-in-phrases.mp3",
+          "pdf": "media/drills/37-stress/006-de-stressed-our-in-phrases.pdf",
+          "duration": 208
+        },
+        {
+          "title": "Content VS function words and sentences",
+          "audio": "media/drills/37-stress/007-content-vs-function-words-and-sentences.mp3",
+          "pdf": "media/drills/37-stress/007-content-vs-function-words-and-sentences.pdf",
+          "duration": 509
+        },
+        {
+          "title": "Stress practice sentences",
+          "audio": "media/drills/37-stress/008-stress-practice-sentences.mp3",
+          "pdf": "media/drills/37-stress/008-stress-practice-sentences.pdf",
+          "duration": 263
+        }
+      ]
+    }
   ]
 }

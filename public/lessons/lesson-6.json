@@ -47,5 +47,526 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "N",
+      "items": [
+        {
+          "title": "N initial words",
+          "audio": "media/drills/05-n/002-n-initial-words.mp3",
+          "pdf": "media/drills/05-n/002-n-initial-words.pdf",
+          "duration": 56
+        },
+        {
+          "title": "N middle words",
+          "audio": "media/drills/05-n/003-n-middle-words.mp3",
+          "pdf": "media/drills/05-n/003-n-middle-words.pdf",
+          "duration": 67
+        },
+        {
+          "title": "N end words",
+          "audio": "media/drills/05-n/004-n-end-words.mp3",
+          "pdf": "media/drills/05-n/004-n-end-words.pdf",
+          "duration": 72
+        },
+        {
+          "title": "N initial phrases",
+          "audio": "media/drills/05-n/005-n-initial-phrases.mp3",
+          "pdf": "media/drills/05-n/005-n-initial-phrases.pdf",
+          "duration": 38
+        },
+        {
+          "title": "N middle phrases",
+          "audio": "media/drills/05-n/006-n-middle-phrases.mp3",
+          "pdf": "media/drills/05-n/006-n-middle-phrases.pdf",
+          "duration": 37
+        },
+        {
+          "title": "N end phrases",
+          "audio": "media/drills/05-n/007-n-end-phrases.mp3",
+          "pdf": "media/drills/05-n/007-n-end-phrases.pdf",
+          "duration": 40
+        },
+        {
+          "title": "N initial sentences",
+          "audio": "media/drills/05-n/008-n-initial-sentences.mp3",
+          "pdf": "media/drills/05-n/008-n-initial-sentences.pdf",
+          "duration": 86
+        },
+        {
+          "title": "N middle sentences",
+          "audio": "media/drills/05-n/009-n-middle-sentences.mp3",
+          "pdf": "media/drills/05-n/009-n-middle-sentences.pdf",
+          "duration": 89
+        },
+        {
+          "title": "N end sentences",
+          "audio": "media/drills/05-n/010-n-end-sentences.mp3",
+          "pdf": "media/drills/05-n/010-n-end-sentences.pdf",
+          "duration": 104
+        },
+        {
+          "title": "On words",
+          "audio": "media/drills/05-n/011-on-words.mp3",
+          "pdf": "media/drills/05-n/011-on-words.pdf",
+          "duration": 63
+        },
+        {
+          "title": "On sentences",
+          "audio": "media/drills/05-n/012-on-sentences.mp3",
+          "pdf": "media/drills/05-n/012-on-sentences.pdf",
+          "duration": 71
+        }
+      ]
+    },
+    {
+      "module": "NG",
+      "items": [
+        {
+          "title": "N VS NG minimal pair words",
+          "audio": "media/drills/06-ng/002-n-vs-ng-minimal-pair-words.mp3",
+          "pdf": "media/drills/06-ng/002-n-vs-ng-minimal-pair-words.pdf",
+          "duration": 209
+        },
+        {
+          "title": "N VS NG minimal pairs sentences",
+          "audio": "media/drills/06-ng/003-n-vs-ng-minimal-pairs-sentences.mp3",
+          "pdf": "media/drills/06-ng/003-n-vs-ng-minimal-pairs-sentences.pdf",
+          "duration": 210
+        },
+        {
+          "title": "NG words",
+          "audio": "media/drills/06-ng/004-ng-words.mp3",
+          "pdf": "media/drills/06-ng/004-ng-words.pdf",
+          "duration": 369
+        },
+        {
+          "title": "NG middle words hard g",
+          "audio": "media/drills/06-ng/005-ng-middle-words-hard-g.mp3",
+          "pdf": "media/drills/06-ng/005-ng-middle-words-hard-g.pdf",
+          "duration": 98
+        },
+        {
+          "title": "NG phrases",
+          "audio": "media/drills/06-ng/006-ng-phrases.mp3",
+          "pdf": "media/drills/06-ng/006-ng-phrases.pdf",
+          "duration": 483
+        },
+        {
+          "title": "NG sentences",
+          "audio": "media/drills/06-ng/007-ng-sentences.mp3",
+          "pdf": "media/drills/06-ng/007-ng-sentences.pdf",
+          "duration": 144
+        },
+        {
+          "title": "Ong words",
+          "audio": "media/drills/06-ng/008-ong-words.mp3",
+          "pdf": "media/drills/06-ng/008-ong-words.pdf",
+          "duration": 108
+        },
+        {
+          "title": "Ong sentences",
+          "audio": "media/drills/06-ng/009-ong-sentences.mp3",
+          "pdf": "media/drills/06-ng/009-ong-sentences.pdf",
+          "duration": 73
+        },
+        {
+          "title": "Syllabic N",
+          "audio": "media/drills/06-ng/010-syllabic-n.mp3",
+          "pdf": "media/drills/06-ng/010-syllabic-n.pdf",
+          "duration": 103
+        }
+      ]
+    },
+    {
+      "module": "SH",
+      "items": [
+        {
+          "title": "SH spelling",
+          "audio": "media/drills/07-sh/002-sh-spelling.mp3",
+          "pdf": "media/drills/07-sh/002-sh-spelling.pdf",
+          "duration": 119
+        },
+        {
+          "title": "SH VS s minimal pairs",
+          "audio": "media/drills/07-sh/003-sh-vs-s-minimal-pairs.mp3",
+          "pdf": "media/drills/07-sh/003-sh-vs-s-minimal-pairs.pdf",
+          "duration": 363
+        },
+        {
+          "title": "SH initial words",
+          "audio": "media/drills/07-sh/004-sh-initial-words.mp3",
+          "pdf": "media/drills/07-sh/004-sh-initial-words.pdf",
+          "duration": 150
+        },
+        {
+          "title": "SH middle words",
+          "audio": "media/drills/07-sh/005-sh-middle-words.mp3",
+          "pdf": "media/drills/07-sh/005-sh-middle-words.pdf",
+          "duration": 288
+        },
+        {
+          "title": "SH end words",
+          "audio": "media/drills/07-sh/006-sh-end-words.mp3",
+          "pdf": "media/drills/07-sh/006-sh-end-words.pdf",
+          "duration": 228
+        },
+        {
+          "title": "SH initial phrases",
+          "audio": "media/drills/07-sh/007-sh-initial-phrases.mp3",
+          "pdf": "media/drills/07-sh/007-sh-initial-phrases.pdf",
+          "duration": 41
+        },
+        {
+          "title": "SH middle phrases",
+          "audio": "media/drills/07-sh/008-sh-middle-phrases.mp3",
+          "pdf": "media/drills/07-sh/008-sh-middle-phrases.pdf",
+          "duration": 43
+        },
+        {
+          "title": "SH end phrases",
+          "audio": "media/drills/07-sh/009-sh-end-phrases.mp3",
+          "pdf": "media/drills/07-sh/009-sh-end-phrases.pdf",
+          "duration": 42
+        },
+        {
+          "title": "SH initial sentences",
+          "audio": "media/drills/07-sh/010-sh-initial-sentences.mp3",
+          "pdf": "media/drills/07-sh/010-sh-initial-sentences.pdf",
+          "duration": 81
+        },
+        {
+          "title": "SH middle sentences",
+          "audio": "media/drills/07-sh/011-sh-middle-sentences.mp3",
+          "pdf": "media/drills/07-sh/011-sh-middle-sentences.pdf",
+          "duration": 75
+        },
+        {
+          "title": "SH end sentences",
+          "audio": "media/drills/07-sh/012-sh-end-sentences.mp3",
+          "pdf": "media/drills/07-sh/012-sh-end-sentences.pdf",
+          "duration": 84
+        }
+      ]
+    },
+    {
+      "module": "CH",
+      "items": [
+        {
+          "title": "CH spelling pronounced as K",
+          "audio": "media/drills/08-ch/002-ch-spelling-pronounced-as-k.mp3",
+          "pdf": "media/drills/08-ch/002-ch-spelling-pronounced-as-k.pdf",
+          "duration": 138
+        },
+        {
+          "title": "CH VS SH minimal pairs",
+          "audio": "media/drills/08-ch/003-ch-vs-sh-minimal-pairs.mp3",
+          "pdf": "media/drills/08-ch/003-ch-vs-sh-minimal-pairs.pdf",
+          "duration": 145
+        },
+        {
+          "title": "CH initial words",
+          "audio": "media/drills/08-ch/004-ch-initial-words.mp3",
+          "pdf": "media/drills/08-ch/004-ch-initial-words.pdf",
+          "duration": 175
+        },
+        {
+          "title": "CH middle words",
+          "audio": "media/drills/08-ch/005-ch-middle-words.mp3",
+          "pdf": "media/drills/08-ch/005-ch-middle-words.pdf",
+          "duration": 163
+        },
+        {
+          "title": "CH end words",
+          "audio": "media/drills/08-ch/006-ch-end-words.mp3",
+          "pdf": "media/drills/08-ch/006-ch-end-words.pdf",
+          "duration": 205
+        },
+        {
+          "title": "CH initial phrases",
+          "audio": "media/drills/08-ch/007-ch-initial-phrases.mp3",
+          "pdf": "media/drills/08-ch/007-ch-initial-phrases.pdf",
+          "duration": 262
+        },
+        {
+          "title": "CH middle phrases",
+          "audio": "media/drills/08-ch/008-ch-middle-phrases.mp3",
+          "pdf": "media/drills/08-ch/008-ch-middle-phrases.pdf",
+          "duration": 296
+        },
+        {
+          "title": "CH end phrases",
+          "audio": "media/drills/08-ch/009-ch-end-phrases.mp3",
+          "pdf": "media/drills/08-ch/009-ch-end-phrases.pdf",
+          "duration": 230
+        },
+        {
+          "title": "CH initial sentences",
+          "audio": "media/drills/08-ch/010-ch-initial-sentences.mp3",
+          "pdf": "media/drills/08-ch/010-ch-initial-sentences.pdf",
+          "duration": 261
+        },
+        {
+          "title": "CH middle sentences",
+          "audio": "media/drills/08-ch/011-ch-middle-sentences.mp3",
+          "pdf": "media/drills/08-ch/011-ch-middle-sentences.pdf",
+          "duration": 153
+        },
+        {
+          "title": "CH end sentences",
+          "audio": "media/drills/08-ch/012-ch-end-sentences.mp3",
+          "pdf": "media/drills/08-ch/012-ch-end-sentences.pdf",
+          "duration": 133
+        }
+      ]
+    },
+    {
+      "module": "J",
+      "items": [
+        {
+          "title": "J spelling",
+          "audio": "media/drills/09-j/002-j-spelling.mp3",
+          "pdf": "media/drills/09-j/002-j-spelling.pdf",
+          "duration": 178
+        },
+        {
+          "title": "J and Y VS CH minimal pairs",
+          "audio": "media/drills/09-j/003-j-and-y-vs-ch-minimal-pairs.mp3",
+          "pdf": "media/drills/09-j/003-j-and-y-vs-ch-minimal-pairs.pdf",
+          "duration": 261
+        },
+        {
+          "title": "J initial words",
+          "audio": "media/drills/09-j/004-j-initial-words.mp3",
+          "pdf": "media/drills/09-j/004-j-initial-words.pdf",
+          "duration": 148
+        },
+        {
+          "title": "J middle words",
+          "audio": "media/drills/09-j/005-j-middle-words.mp3",
+          "pdf": "media/drills/09-j/005-j-middle-words.pdf",
+          "duration": 170
+        },
+        {
+          "title": "J end words",
+          "audio": "media/drills/09-j/006-j-end-words.mp3",
+          "pdf": "media/drills/09-j/006-j-end-words.pdf",
+          "duration": 151
+        },
+        {
+          "title": "J initial phrases",
+          "audio": "media/drills/09-j/007-j-initial-phrases.mp3",
+          "pdf": "media/drills/09-j/007-j-initial-phrases.pdf",
+          "duration": 173
+        },
+        {
+          "title": "J middle phrases",
+          "audio": "media/drills/09-j/008-j-middle-phrases.mp3",
+          "pdf": "media/drills/09-j/008-j-middle-phrases.pdf",
+          "duration": 290
+        },
+        {
+          "title": "J end phrases",
+          "audio": "media/drills/09-j/009-j-end-phrases.mp3",
+          "pdf": "media/drills/09-j/009-j-end-phrases.pdf",
+          "duration": 302
+        },
+        {
+          "title": "J initial sentences",
+          "audio": "media/drills/09-j/010-j-initial-sentences.mp3",
+          "pdf": "media/drills/09-j/010-j-initial-sentences.pdf",
+          "duration": 119
+        },
+        {
+          "title": "J middle sentences",
+          "audio": "media/drills/09-j/011-j-middle-sentences.mp3",
+          "pdf": "media/drills/09-j/011-j-middle-sentences.pdf",
+          "duration": 117
+        },
+        {
+          "title": "J end sentences",
+          "audio": "media/drills/09-j/012-j-end-sentences.mp3",
+          "pdf": "media/drills/09-j/012-j-end-sentences.pdf",
+          "duration": 169
+        }
+      ]
+    },
+    {
+      "module": "L",
+      "items": [
+        {
+          "title": "L VS W minimal pair words",
+          "audio": "media/drills/11-l/002-l-vs-w-minimal-pair-words.mp3",
+          "pdf": "media/drills/11-l/002-l-vs-w-minimal-pair-words.pdf",
+          "duration": 237
+        },
+        {
+          "title": "L VS W minimal pair sentences",
+          "audio": "media/drills/11-l/003-l-vs-w-minimal-pair-sentences.mp3",
+          "pdf": "media/drills/11-l/003-l-vs-w-minimal-pair-sentences.pdf",
+          "duration": 160
+        },
+        {
+          "title": "L VS N minimal pair words",
+          "audio": "media/drills/11-l/004-l-vs-n-minimal-pair-words.mp3",
+          "pdf": "media/drills/11-l/004-l-vs-n-minimal-pair-words.pdf",
+          "duration": 313
+        },
+        {
+          "title": "L VS N minimal pair sentences",
+          "audio": "media/drills/11-l/005-l-vs-n-minimal-pair-sentences.mp3",
+          "pdf": "media/drills/11-l/005-l-vs-n-minimal-pair-sentences.pdf",
+          "duration": 207
+        },
+        {
+          "title": "L silent words",
+          "audio": "media/drills/11-l/006-l-silent-words.mp3",
+          "pdf": "media/drills/11-l/006-l-silent-words.pdf",
+          "duration": 213
+        },
+        {
+          "title": "L initial words",
+          "audio": "media/drills/11-l/007-l-initial-words.mp3",
+          "pdf": "media/drills/11-l/007-l-initial-words.pdf",
+          "duration": 247
+        },
+        {
+          "title": "L middle words",
+          "audio": "media/drills/11-l/008-l-middle-words.mp3",
+          "pdf": "media/drills/11-l/008-l-middle-words.pdf",
+          "duration": 264
+        },
+        {
+          "title": "L end words",
+          "audio": "media/drills/11-l/009-l-end-words.mp3",
+          "pdf": "media/drills/11-l/009-l-end-words.pdf",
+          "duration": 538
+        },
+        {
+          "title": "L initial phrases",
+          "audio": "media/drills/11-l/010-l-initial-phrases.mp3",
+          "pdf": "media/drills/11-l/010-l-initial-phrases.pdf",
+          "duration": 49
+        },
+        {
+          "title": "L middle phrases",
+          "audio": "media/drills/11-l/011-l-middle-phrases.mp3",
+          "pdf": "media/drills/11-l/011-l-middle-phrases.pdf",
+          "duration": 197
+        },
+        {
+          "title": "L end phrases",
+          "audio": "media/drills/11-l/012-l-end-phrases.mp3",
+          "pdf": "media/drills/11-l/012-l-end-phrases.pdf",
+          "duration": 190
+        },
+        {
+          "title": "L initial sentences",
+          "audio": "media/drills/11-l/013-l-initial-sentences.mp3",
+          "pdf": "media/drills/11-l/013-l-initial-sentences.pdf",
+          "duration": 75
+        },
+        {
+          "title": "L middle sentences",
+          "audio": "media/drills/11-l/014-l-middle-sentences.mp3",
+          "pdf": "media/drills/11-l/014-l-middle-sentences.pdf",
+          "duration": 119
+        },
+        {
+          "title": "L end sentences",
+          "audio": "media/drills/11-l/015-l-end-sentences.mp3",
+          "pdf": "media/drills/11-l/015-l-end-sentences.pdf",
+          "duration": 203
+        },
+        {
+          "title": "L blends initial words and sentences",
+          "audio": "media/drills/11-l/016-l-blends-initial-words-and-sentences.mp3",
+          "pdf": "media/drills/11-l/016-l-blends-initial-words-and-sentences.pdf",
+          "duration": 538
+        },
+        {
+          "title": "L blends final words and sentences",
+          "audio": "media/drills/11-l/017-l-blends-final-words-and-sentences.mp3",
+          "pdf": "media/drills/11-l/017-l-blends-final-words-and-sentences.pdf",
+          "duration": 440
+        },
+        {
+          "title": "Syllabic L",
+          "audio": "media/drills/11-l/018-syllabic-l.mp3",
+          "pdf": "media/drills/11-l/018-syllabic-l.pdf",
+          "duration": 100
+        }
+      ]
+    },
+    {
+      "module": "W",
+      "items": [
+        {
+          "title": "W VS V minimal pairs",
+          "audio": "media/drills/15-w/002-w-vs-v-minimal-pairs.mp3",
+          "pdf": "media/drills/15-w/002-w-vs-v-minimal-pairs.pdf",
+          "duration": 146
+        },
+        {
+          "title": "W initial words",
+          "audio": "media/drills/15-w/003-w-initial-words.mp3",
+          "pdf": "media/drills/15-w/003-w-initial-words.pdf",
+          "duration": 121
+        },
+        {
+          "title": "W middle words",
+          "audio": "media/drills/15-w/004-w-middle-words.mp3",
+          "pdf": "media/drills/15-w/004-w-middle-words.pdf",
+          "duration": 83
+        },
+        {
+          "title": "W in qu and cho words",
+          "audio": "media/drills/15-w/005-w-in-qu-and-cho-words.mp3",
+          "pdf": "media/drills/15-w/005-w-in-qu-and-cho-words.pdf",
+          "duration": 48
+        },
+        {
+          "title": "W initial phrases",
+          "audio": "media/drills/15-w/006-w-initial-phrases.mp3",
+          "pdf": "media/drills/15-w/006-w-initial-phrases.pdf",
+          "duration": 73
+        },
+        {
+          "title": "W middle phrases",
+          "audio": "media/drills/15-w/007-w-middle-phrases.mp3",
+          "pdf": "media/drills/15-w/007-w-middle-phrases.pdf",
+          "duration": 53
+        },
+        {
+          "title": "W VS V sentences",
+          "audio": "media/drills/15-w/008-w-vs-v-sentences.mp3",
+          "pdf": "media/drills/15-w/008-w-vs-v-sentences.pdf",
+          "duration": 287
+        },
+        {
+          "title": "W initial sentences",
+          "audio": "media/drills/15-w/009-w-initial-sentences.mp3",
+          "pdf": "media/drills/15-w/009-w-initial-sentences.pdf",
+          "duration": 262
+        },
+        {
+          "title": "W middle sentences",
+          "audio": "media/drills/15-w/010-w-middle-sentences.mp3",
+          "pdf": "media/drills/15-w/010-w-middle-sentences.pdf",
+          "duration": 105
+        }
+      ]
+    },
+    {
+      "module": "Y glide",
+      "items": [
+        {
+          "title": "Y consonant",
+          "audio": "media/drills/16-y/001-y-consonant.mp3",
+          "duration": 521
+        }
+      ]
+    }
   ]
 }

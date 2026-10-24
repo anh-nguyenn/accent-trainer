@@ -47,5 +47,84 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Syllabic stress",
+      "items": [
+        {
+          "title": "Syllables introduction",
+          "audio": "media/drills/38-syllabic-stress/001-syllables-introduction.mp3",
+          "pdf": "media/drills/38-syllabic-stress/001-syllables-introduction.pdf",
+          "duration": 317
+        },
+        {
+          "title": "Syllables rule 1 2 and 3",
+          "audio": "media/drills/38-syllabic-stress/002-syllables-rule-1-2-and-3.mp3",
+          "pdf": "media/drills/38-syllabic-stress/002-syllables-rule-1-2-and-3.pdf",
+          "duration": 446
+        },
+        {
+          "title": "Syllables rule 4",
+          "audio": "media/drills/38-syllabic-stress/003-syllables-rule-4.mp3",
+          "pdf": "media/drills/38-syllabic-stress/003-syllables-rule-4.pdf",
+          "duration": 632
+        },
+        {
+          "title": "Syllables rule 5",
+          "audio": "media/drills/38-syllabic-stress/004-syllables-rule-5.mp3",
+          "pdf": "media/drills/38-syllabic-stress/004-syllables-rule-5.pdf",
+          "duration": 305
+        },
+        {
+          "title": "Syllables rule 6",
+          "audio": "media/drills/38-syllabic-stress/005-syllables-rule-6.mp3",
+          "pdf": "media/drills/38-syllabic-stress/005-syllables-rule-6.pdf",
+          "duration": 119
+        },
+        {
+          "title": "Syllables rule 7",
+          "audio": "media/drills/38-syllabic-stress/006-syllables-rule-7.mp3",
+          "pdf": "media/drills/38-syllabic-stress/006-syllables-rule-7.pdf",
+          "duration": 96
+        },
+        {
+          "title": "Syllables rule 8",
+          "audio": "media/drills/38-syllabic-stress/007-syllables-rule-8.mp3",
+          "pdf": "media/drills/38-syllabic-stress/007-syllables-rule-8.pdf",
+          "duration": 51
+        },
+        {
+          "title": "Syllables rule 9",
+          "audio": "media/drills/38-syllabic-stress/008-syllables-rule-9.mp3",
+          "pdf": "media/drills/38-syllabic-stress/008-syllables-rule-9.pdf",
+          "duration": 62
+        },
+        {
+          "title": "Syllables rule 10",
+          "audio": "media/drills/38-syllabic-stress/009-syllables-rule-10.mp3",
+          "pdf": "media/drills/38-syllabic-stress/009-syllables-rule-10.pdf",
+          "duration": 39
+        },
+        {
+          "title": "Syllables rule 11",
+          "audio": "media/drills/38-syllabic-stress/010-syllables-rule-11.mp3",
+          "pdf": "media/drills/38-syllabic-stress/010-syllables-rule-11.pdf",
+          "duration": 54
+        },
+        {
+          "title": "Syllables rule 12",
+          "audio": "media/drills/38-syllabic-stress/011-syllables-rule-12.mp3",
+          "pdf": "media/drills/38-syllabic-stress/011-syllables-rule-12.pdf",
+          "duration": 28
+        },
+        {
+          "title": "Syllable stress practice",
+          "audio": "media/drills/38-syllabic-stress/012-syllable-stress-practice.mp3",
+          "pdf": "media/drills/38-syllabic-stress/012-syllable-stress-practice.pdf",
+          "duration": 267
+        }
+      ]
+    }
   ]
 }

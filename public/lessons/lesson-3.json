@@ -47,5 +47,272 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "AH /ɑ/",
+      "items": [
+        {
+          "title": "AH spelling",
+          "audio": "media/drills/24-ah/002-ah-spelling.mp3",
+          "pdf": "media/drills/24-ah/002-ah-spelling.pdf",
+          "duration": 200
+        },
+        {
+          "title": "AH VS OH minimal pairs",
+          "audio": "media/drills/24-ah/003-ah-vs-oh-minimal-pairs.mp3",
+          "pdf": "media/drills/24-ah/003-ah-vs-oh-minimal-pairs.pdf",
+          "duration": 130
+        },
+        {
+          "title": "AH words",
+          "audio": "media/drills/24-ah/004-ah-words.mp3",
+          "pdf": "media/drills/24-ah/004-ah-words.pdf",
+          "duration": 279
+        },
+        {
+          "title": "AH phrases",
+          "audio": "media/drills/24-ah/005-ah-phrases.mp3",
+          "pdf": "media/drills/24-ah/005-ah-phrases.pdf",
+          "duration": 424
+        },
+        {
+          "title": "AH sentences",
+          "audio": "media/drills/24-ah/006-ah-sentences.mp3",
+          "pdf": "media/drills/24-ah/006-ah-sentences.pdf",
+          "duration": 250
+        }
+      ]
+    },
+    {
+      "module": "Schwa /ə/",
+      "items": [
+        {
+          "title": "Schwa spelling",
+          "audio": "media/drills/25-schwa/002-schwa-spelling.mp3",
+          "pdf": "media/drills/25-schwa/002-schwa-spelling.pdf",
+          "duration": 96
+        },
+        {
+          "title": "Schwa in the",
+          "audio": "media/drills/25-schwa/003-schwa-in-the.mp3",
+          "pdf": "media/drills/25-schwa/003-schwa-in-the.pdf",
+          "duration": 487
+        },
+        {
+          "title": "Schwa in a",
+          "audio": "media/drills/25-schwa/004-schwa-in-a.mp3",
+          "pdf": "media/drills/25-schwa/004-schwa-in-a.pdf",
+          "duration": 225
+        },
+        {
+          "title": "Schwa in to",
+          "audio": "media/drills/25-schwa/005-schwa-in-to.mp3",
+          "pdf": "media/drills/25-schwa/005-schwa-in-to.pdf",
+          "duration": 568
+        },
+        {
+          "title": "Schwa in prefix a",
+          "audio": "media/drills/25-schwa/006-schwa-in-prefix-a.mp3",
+          "pdf": "media/drills/25-schwa/006-schwa-in-prefix-a.pdf",
+          "duration": 93
+        },
+        {
+          "title": "Schwa in prefix be",
+          "audio": "media/drills/25-schwa/007-schwa-in-prefix-be.mp3",
+          "pdf": "media/drills/25-schwa/007-schwa-in-prefix-be.pdf",
+          "duration": 101
+        },
+        {
+          "title": "Schwa in prefix re",
+          "audio": "media/drills/25-schwa/008-schwa-in-prefix-re.mp3",
+          "pdf": "media/drills/25-schwa/008-schwa-in-prefix-re.pdf",
+          "duration": 91
+        },
+        {
+          "title": "Schwa in prefix de",
+          "audio": "media/drills/25-schwa/009-schwa-in-prefix-de.mp3",
+          "pdf": "media/drills/25-schwa/009-schwa-in-prefix-de.pdf",
+          "duration": 101
+        },
+        {
+          "title": "Schwa in prefix to",
+          "audio": "media/drills/25-schwa/010-schwa-in-prefix-to.mp3",
+          "pdf": "media/drills/25-schwa/010-schwa-in-prefix-to.pdf",
+          "duration": 65
+        },
+        {
+          "title": "Schwa in prefix con",
+          "audio": "media/drills/25-schwa/011-schwa-in-prefix-con.mp3",
+          "pdf": "media/drills/25-schwa/011-schwa-in-prefix-con.pdf",
+          "duration": 153
+        },
+        {
+          "title": "Schwa in prefix su",
+          "audio": "media/drills/25-schwa/012-schwa-in-prefix-su.mp3",
+          "pdf": "media/drills/25-schwa/012-schwa-in-prefix-su.pdf",
+          "duration": 303
+        },
+        {
+          "title": "Schwa in different vowels",
+          "audio": "media/drills/25-schwa/013-schwa-in-different-vowels.mp3",
+          "pdf": "media/drills/25-schwa/013-schwa-in-different-vowels.pdf",
+          "duration": 703
+        },
+        {
+          "title": "Schwa in vowel i",
+          "audio": "media/drills/25-schwa/014-schwa-in-vowel-i.mp3",
+          "pdf": "media/drills/25-schwa/014-schwa-in-vowel-i.pdf",
+          "duration": 419
+        },
+        {
+          "title": "Schwa in ity",
+          "audio": "media/drills/25-schwa/015-schwa-in-ity.mp3",
+          "pdf": "media/drills/25-schwa/015-schwa-in-ity.pdf",
+          "duration": 141
+        },
+        {
+          "title": "Schwa in ical",
+          "audio": "media/drills/25-schwa/016-schwa-in-ical.mp3",
+          "pdf": "media/drills/25-schwa/016-schwa-in-ical.pdf",
+          "duration": 111
+        },
+        {
+          "title": "Schwa in final unstressed a",
+          "audio": "media/drills/25-schwa/017-schwa-in-final-unstressed-a.mp3",
+          "pdf": "media/drills/25-schwa/017-schwa-in-final-unstressed-a.pdf",
+          "duration": 232
+        },
+        {
+          "title": "Schwa in mixed vowels practice",
+          "audio": "media/drills/25-schwa/018-schwa-in-mixed-vowels-practice.mp3",
+          "pdf": "media/drills/25-schwa/018-schwa-in-mixed-vowels-practice.pdf",
+          "duration": 173
+        },
+        {
+          "title": "Schwa in words and phrases",
+          "audio": "media/drills/25-schwa/019-schwa-in-words-and-phrases.mp3",
+          "pdf": "media/drills/25-schwa/019-schwa-in-words-and-phrases.pdf",
+          "duration": 432
+        },
+        {
+          "title": "Schwa in sentences",
+          "audio": "media/drills/25-schwa/020-schwa-in-sentences.mp3",
+          "pdf": "media/drills/25-schwa/020-schwa-in-sentences.pdf",
+          "duration": 232
+        }
+      ]
+    },
+    {
+      "module": "UH /ʌ/",
+      "items": [
+        {
+          "title": "UH spelling",
+          "audio": "media/drills/26-uh/002-uh-spelling.mp3",
+          "pdf": "media/drills/26-uh/002-uh-spelling.pdf",
+          "duration": 125
+        },
+        {
+          "title": "UH VS AH minimal pairs",
+          "audio": "media/drills/26-uh/003-uh-vs-ah-minimal-pairs.mp3",
+          "pdf": "media/drills/26-uh/003-uh-vs-ah-minimal-pairs.pdf",
+          "duration": 402
+        },
+        {
+          "title": "UH words",
+          "audio": "media/drills/26-uh/004-uh-words.mp3",
+          "pdf": "media/drills/26-uh/004-uh-words.pdf",
+          "duration": 121
+        },
+        {
+          "title": "UH phrases",
+          "audio": "media/drills/26-uh/005-uh-phrases.mp3",
+          "pdf": "media/drills/26-uh/005-uh-phrases.pdf",
+          "duration": 369
+        },
+        {
+          "title": "UH sentences",
+          "audio": "media/drills/26-uh/006-uh-sentences.mp3",
+          "pdf": "media/drills/26-uh/006-uh-sentences.pdf",
+          "duration": 425
+        }
+      ]
+    },
+    {
+      "module": "Upsilon /ʊ/",
+      "items": [
+        {
+          "title": "Upsilon spelling",
+          "audio": "media/drills/27-upsilon/002-upsilon-spelling.mp3",
+          "pdf": "media/drills/27-upsilon/002-upsilon-spelling.pdf",
+          "duration": 257
+        },
+        {
+          "title": "Upsilon VS OO minimal pairs",
+          "audio": "media/drills/27-upsilon/003-upsilon-vs-oo-minimal-pairs.mp3",
+          "pdf": "media/drills/27-upsilon/003-upsilon-vs-oo-minimal-pairs.pdf",
+          "duration": 119
+        },
+        {
+          "title": "Upsilon words",
+          "audio": "media/drills/27-upsilon/004-upsilon-words.mp3",
+          "pdf": "media/drills/27-upsilon/004-upsilon-words.pdf",
+          "duration": 118
+        },
+        {
+          "title": "Upsilon phrases",
+          "audio": "media/drills/27-upsilon/005-upsilon-phrases.mp3",
+          "pdf": "media/drills/27-upsilon/005-upsilon-phrases.pdf",
+          "duration": 174
+        },
+        {
+          "title": "Upsilon sentences",
+          "audio": "media/drills/27-upsilon/006-upsilon-sentences.mp3",
+          "pdf": "media/drills/27-upsilon/006-upsilon-sentences.pdf",
+          "duration": 268
+        }
+      ]
+    },
+    {
+      "module": "OO /u/",
+      "items": [
+        {
+          "title": "OO spelling",
+          "audio": "media/drills/30-oo/002-oo-spelling.mp3",
+          "pdf": "media/drills/30-oo/002-oo-spelling.pdf",
+          "duration": 151
+        },
+        {
+          "title": "OO VS you words",
+          "audio": "media/drills/30-oo/003-oo-vs-you-words.mp3",
+          "pdf": "media/drills/30-oo/003-oo-vs-you-words.pdf",
+          "duration": 229
+        },
+        {
+          "title": "OO in ew spelled words",
+          "audio": "media/drills/30-oo/004-oo-in-ew-spelled-words.mp3",
+          "pdf": "media/drills/30-oo/004-oo-in-ew-spelled-words.pdf",
+          "duration": 131
+        },
+        {
+          "title": "OO words",
+          "audio": "media/drills/30-oo/005-oo-words.mp3",
+          "pdf": "media/drills/30-oo/005-oo-words.pdf",
+          "duration": 229
+        },
+        {
+          "title": "OO phrases",
+          "audio": "media/drills/30-oo/006-oo-phrases.mp3",
+          "pdf": "media/drills/30-oo/006-oo-phrases.pdf",
+          "duration": 333
+        },
+        {
+          "title": "OO sentences",
+          "audio": "media/drills/30-oo/007-oo-sentences.mp3",
+          "pdf": "media/drills/30-oo/007-oo-sentences.pdf",
+          "duration": 274
+        }
+      ]
+    }
   ]
 }

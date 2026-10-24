@@ -47,5 +47,28 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Course handouts",
+      "items": [
+        {
+          "title": "English sound cheat sheet",
+          "pdf": "media/drills/01-handouts/001-english-sound-cheat-sheet.pdf"
+        },
+        {
+          "title": "Self assessment tool",
+          "pdf": "media/drills/01-handouts/001-self-assessment-tool.pdf"
+        },
+        {
+          "title": "Top most common English words",
+          "pdf": "media/drills/01-handouts/002-top-most-common-english-words.pdf"
+        },
+        {
+          "title": "IPA vowel handout",
+          "pdf": "media/drills/01-handouts/006-ipa-vowel-handout.pdf"
+        }
+      ]
+    }
   ]
 }

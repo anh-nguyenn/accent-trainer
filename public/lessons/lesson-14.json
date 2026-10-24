@@ -47,5 +47,18 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Stress patterns",
+      "items": [
+        {
+          "title": "New information stress",
+          "audio": "media/drills/37-stress/009-new-information-stress.mp3",
+          "pdf": "media/drills/37-stress/009-new-information-stress.pdf",
+          "duration": 56
+        }
+      ]
+    }
   ]
 }

@@ -5,6 +5,7 @@ const failures=[];
 if(index.length!==16)failures.push(`Expected 16 lessons, got ${index.length}`);
 if(ipa.filter(x=>x.type==='vowel').length!==20||ipa.filter(x=>x.type==='consonant').length!==24)failures.push('IPA inventory must be 20 vowels and 24 consonants');
 const videos=new Map();
+let drills=0, audioFiles=0;
 for(const summary of index){
  const path=`public/lessons/lesson-${summary.id}.json`;
  const l=JSON.parse(fs.readFileSync(path));
@@ -15,6 +16,21 @@ for(const summary of index){
   if(part==='shadow'&&(!(clip.end>clip.start)||clip.end-clip.start>30))failures.push(`${path}: bad shadow duration`);
   videos.set(clip.videoId,clip.creator||l.watch.creator);
  }
+ if(!Array.isArray(l.drills)||l.drills.length===0)failures.push(`${path}: no drills`);
+ for(const group of l.drills??[]){
+  if(!group.module||!Array.isArray(group.items)||group.items.length===0)failures.push(`${path}: empty drill group`);
+  for(const item of group.items??[]){
+   drills++;
+   if(!item.title)failures.push(`${path}: drill missing title`);
+   for(const key of ['audio','pdf']){
+    if(!item[key])continue;
+    if(key==='audio')audioFiles++;
+    if(typeof item[key]!=='string'||item[key].includes('..'))failures.push(`${path}: bad ${key} path`);
+    else if(!fs.existsSync(`public/${item[key]}`))failures.push(`${path}: missing ${item[key]}`);
+   }
+   if(item.audio&&!(item.duration>0))failures.push(`${path}: drill missing duration`);
+  }
+ }
 }
 if(process.argv.includes('--online')){
  for(const [id,credit] of videos){
@@ -22,4 +38,4 @@ if(process.argv.includes('--online')){
  }
 }
 if(failures.length){console.error(failures.join('\n'));process.exit(1)}
-console.log(`Content checks passed: ${index.length} lessons, ${ipa.length} IPA targets, ${videos.size} unique videos.`);
+console.log(`Content checks passed: ${index.length} lessons, ${ipa.length} IPA targets, ${videos.size} unique videos, ${drills} drills (${audioFiles} audio).`);

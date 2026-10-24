@@ -47,5 +47,30 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Reductions and contractions",
+      "items": [
+        {
+          "title": "Contractions phrases and sentences",
+          "audio": "media/drills/41-reductions/001-contractions-phrases-and-sentences.mp3",
+          "pdf": "media/drills/41-reductions/001-contractions-phrases-and-sentences.pdf",
+          "duration": 538
+        },
+        {
+          "title": "Reductions words and sentences",
+          "audio": "media/drills/41-reductions/002-reductions-words-and-sentences.mp3",
+          "pdf": "media/drills/41-reductions/002-reductions-words-and-sentences.pdf",
+          "duration": 257
+        },
+        {
+          "title": "Contractions and reductions practice sentences",
+          "audio": "media/drills/41-reductions/003-contractions-and-reductions-practice-sentences.mp3",
+          "pdf": "media/drills/41-reductions/003-contractions-and-reductions-practice-sentences.pdf",
+          "duration": 486
+        }
+      ]
+    }
   ]
 }

@@ -47,5 +47,48 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Intonation",
+      "items": [
+        {
+          "title": "Intonation falling and rising practice",
+          "audio": "media/drills/39-intonation/001-intonation-falling-and-rising-practice.mp3",
+          "pdf": "media/drills/39-intonation/001-intonation-falling-and-rising-practice.pdf",
+          "duration": 603
+        },
+        {
+          "title": "Intonation in lists",
+          "audio": "media/drills/39-intonation/002-intonation-in-lists.mp3",
+          "pdf": "media/drills/39-intonation/002-intonation-in-lists.pdf",
+          "duration": 106
+        },
+        {
+          "title": "Intonation with choices",
+          "audio": "media/drills/39-intonation/003-intonation-with-choices.mp3",
+          "pdf": "media/drills/39-intonation/003-intonation-with-choices.pdf",
+          "duration": 57
+        },
+        {
+          "title": "Unsure intonation",
+          "audio": "media/drills/39-intonation/004-unsure-intonation.mp3",
+          "pdf": "media/drills/39-intonation/004-unsure-intonation.pdf",
+          "duration": 43
+        },
+        {
+          "title": "Intonation in tag questions",
+          "audio": "media/drills/39-intonation/005-intonation-in-tag-questions.mp3",
+          "pdf": "media/drills/39-intonation/005-intonation-in-tag-questions.pdf",
+          "duration": 107
+        },
+        {
+          "title": "Intonation sentence practice",
+          "audio": "media/drills/39-intonation/006-intonation-sentence-practice.mp3",
+          "pdf": "media/drills/39-intonation/006-intonation-sentence-practice.pdf",
+          "duration": 293
+        }
+      ]
+    }
   ]
 }

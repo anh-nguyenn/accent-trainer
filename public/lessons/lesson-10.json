@@ -47,5 +47,42 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Fluency and linking",
+      "items": [
+        {
+          "title": "Linking consonants to vowels",
+          "audio": "media/drills/40-fluency/004-linking-consonants-to-vowels.mp3",
+          "pdf": "media/drills/40-fluency/004-linking-consonants-to-vowels.pdf",
+          "duration": 932
+        },
+        {
+          "title": "Linking identical consonants",
+          "audio": "media/drills/40-fluency/005-linking-identical-consonants.mp3",
+          "pdf": "media/drills/40-fluency/005-linking-identical-consonants.pdf",
+          "duration": 503
+        },
+        {
+          "title": "Linking similar consonants",
+          "audio": "media/drills/40-fluency/006-linking-similar-consonants.mp3",
+          "pdf": "media/drills/40-fluency/006-linking-similar-consonants.pdf",
+          "duration": 155
+        },
+        {
+          "title": "Linking with Y and W shadows",
+          "audio": "media/drills/40-fluency/007-linking-with-y-and-w-shadows.mp3",
+          "pdf": "media/drills/40-fluency/007-linking-with-y-and-w-shadows.pdf",
+          "duration": 688
+        },
+        {
+          "title": "Xt st and nd reductions words and sentences",
+          "audio": "media/drills/40-fluency/008-xt-st-and-nd-reductions-words-and-sentences.mp3",
+          "pdf": "media/drills/40-fluency/008-xt-st-and-nd-reductions-words-and-sentences.pdf",
+          "duration": 549
+        }
+      ]
+    }
   ]
 }

@@ -8,3 +8,6 @@ dist
 .codex/
 .cursor/
 .impeccable/
+
+# Raw Drive imports (rebuild with npm run import:media)
+source-media/

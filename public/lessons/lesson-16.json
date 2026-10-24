@@ -50,5 +50,32 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Going forward",
+      "items": [
+        {
+          "title": "Client coveted interview phrases",
+          "pdf": "media/drills/43-going-forward/001-client-coveted-interview-phrases.pdf"
+        },
+        {
+          "title": "Common presentation phrases",
+          "pdf": "media/drills/43-going-forward/001-common-presentation-phrases.pdf"
+        },
+        {
+          "title": "Disclaimer video course",
+          "pdf": "media/drills/43-going-forward/001-disclaimer-video-course.pdf"
+        },
+        {
+          "title": "English spelling secrets",
+          "pdf": "media/drills/43-going-forward/001-english-spelling-secrets.pdf"
+        },
+        {
+          "title": "Flaunt your vocab tool",
+          "pdf": "media/drills/43-going-forward/001-flaunt-your-vocab-tool.pdf"
+        }
+      ]
+    }
   ]
 }

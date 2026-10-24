@@ -47,5 +47,409 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "R",
+      "items": [
+        {
+          "title": "R VS W minimal pairs words",
+          "audio": "media/drills/10-r/002-r-vs-w-minimal-pairs-words.mp3",
+          "pdf": "media/drills/10-r/002-r-vs-w-minimal-pairs-words.pdf",
+          "duration": 217
+        },
+        {
+          "title": "R VS W minimal pairs sentences",
+          "audio": "media/drills/10-r/003-r-vs-w-minimal-pairs-sentences.mp3",
+          "pdf": "media/drills/10-r/003-r-vs-w-minimal-pairs-sentences.pdf",
+          "duration": 212
+        },
+        {
+          "title": "R VS L minimal pairs words",
+          "audio": "media/drills/10-r/004-r-vs-l-minimal-pairs-words.mp3",
+          "pdf": "media/drills/10-r/004-r-vs-l-minimal-pairs-words.pdf",
+          "duration": 215
+        },
+        {
+          "title": "R VS L minimal pairs sentences",
+          "audio": "media/drills/10-r/005-r-vs-l-minimal-pairs-sentences.mp3",
+          "pdf": "media/drills/10-r/005-r-vs-l-minimal-pairs-sentences.pdf",
+          "duration": 252
+        },
+        {
+          "title": "R blend VS L blend minimal pairs",
+          "audio": "media/drills/10-r/006-r-blend-vs-l-blend-minimal-pairs.mp3",
+          "pdf": "media/drills/10-r/006-r-blend-vs-l-blend-minimal-pairs.pdf",
+          "duration": 198
+        },
+        {
+          "title": "R initial words",
+          "audio": "media/drills/10-r/007-r-initial-words.mp3",
+          "pdf": "media/drills/10-r/007-r-initial-words.pdf",
+          "duration": 338
+        },
+        {
+          "title": "R middle words",
+          "audio": "media/drills/10-r/008-r-middle-words.mp3",
+          "pdf": "media/drills/10-r/008-r-middle-words.pdf",
+          "duration": 324
+        },
+        {
+          "title": "R end words",
+          "audio": "media/drills/10-r/009-r-end-words.mp3",
+          "pdf": "media/drills/10-r/009-r-end-words.pdf",
+          "duration": 102
+        },
+        {
+          "title": "R initial phrases",
+          "audio": "media/drills/10-r/010-r-initial-phrases.mp3",
+          "pdf": "media/drills/10-r/010-r-initial-phrases.pdf",
+          "duration": 251
+        },
+        {
+          "title": "R middle phrases",
+          "audio": "media/drills/10-r/011-r-middle-phrases.mp3",
+          "pdf": "media/drills/10-r/011-r-middle-phrases.pdf",
+          "duration": 308
+        },
+        {
+          "title": "R end phrases",
+          "audio": "media/drills/10-r/012-r-end-phrases.mp3",
+          "pdf": "media/drills/10-r/012-r-end-phrases.pdf",
+          "duration": 166
+        },
+        {
+          "title": "R initial sentences",
+          "audio": "media/drills/10-r/013-r-initial-sentences.mp3",
+          "pdf": "media/drills/10-r/013-r-initial-sentences.pdf",
+          "duration": 85
+        },
+        {
+          "title": "R middle sentences",
+          "audio": "media/drills/10-r/014-r-middle-sentences.mp3",
+          "pdf": "media/drills/10-r/014-r-middle-sentences.pdf",
+          "duration": 73
+        },
+        {
+          "title": "R end sentences",
+          "audio": "media/drills/10-r/015-r-end-sentences.mp3",
+          "pdf": "media/drills/10-r/015-r-end-sentences.pdf",
+          "duration": 91
+        },
+        {
+          "title": "Er words",
+          "audio": "media/drills/10-r/016-er-words.mp3",
+          "pdf": "media/drills/10-r/016-er-words.pdf",
+          "duration": 264
+        },
+        {
+          "title": "Er phrases",
+          "audio": "media/drills/10-r/017-er-phrases.mp3",
+          "pdf": "media/drills/10-r/017-er-phrases.pdf",
+          "duration": 263
+        },
+        {
+          "title": "Er sentences",
+          "audio": "media/drills/10-r/018-er-sentences.mp3",
+          "pdf": "media/drills/10-r/018-er-sentences.pdf",
+          "duration": 374
+        },
+        {
+          "title": "Ar words",
+          "audio": "media/drills/10-r/019-ar-words.mp3",
+          "pdf": "media/drills/10-r/019-ar-words.pdf",
+          "duration": 439
+        },
+        {
+          "title": "Ar phrases",
+          "audio": "media/drills/10-r/020-ar-phrases.mp3",
+          "pdf": "media/drills/10-r/020-ar-phrases.pdf",
+          "duration": 319
+        },
+        {
+          "title": "Ar sentences",
+          "audio": "media/drills/10-r/021-ar-sentences.mp3",
+          "pdf": "media/drills/10-r/021-ar-sentences.pdf",
+          "duration": 124
+        },
+        {
+          "title": "Or words",
+          "audio": "media/drills/10-r/022-or-words.mp3",
+          "pdf": "media/drills/10-r/022-or-words.pdf",
+          "duration": 476
+        },
+        {
+          "title": "Or phrases",
+          "audio": "media/drills/10-r/023-or-phrases.mp3",
+          "pdf": "media/drills/10-r/023-or-phrases.pdf",
+          "duration": 354
+        },
+        {
+          "title": "Or sentences",
+          "audio": "media/drills/10-r/024-or-sentences.mp3",
+          "pdf": "media/drills/10-r/024-or-sentences.pdf",
+          "duration": 270
+        },
+        {
+          "title": "Air words",
+          "audio": "media/drills/10-r/025-air-words.mp3",
+          "pdf": "media/drills/10-r/025-air-words.pdf",
+          "duration": 259
+        },
+        {
+          "title": "Air phrases",
+          "audio": "media/drills/10-r/026-air-phrases.mp3",
+          "pdf": "media/drills/10-r/026-air-phrases.pdf",
+          "duration": 306
+        },
+        {
+          "title": "Air sentences",
+          "audio": "media/drills/10-r/027-air-sentences.mp3",
+          "pdf": "media/drills/10-r/027-air-sentences.pdf",
+          "duration": 160
+        },
+        {
+          "title": "Ear words",
+          "audio": "media/drills/10-r/028-ear-words.mp3",
+          "pdf": "media/drills/10-r/028-ear-words.pdf",
+          "duration": 327
+        },
+        {
+          "title": "Ear phrases",
+          "audio": "media/drills/10-r/029-ear-phrases.mp3",
+          "pdf": "media/drills/10-r/029-ear-phrases.pdf",
+          "duration": 394
+        },
+        {
+          "title": "Ear sentences",
+          "audio": "media/drills/10-r/030-ear-sentences.mp3",
+          "pdf": "media/drills/10-r/030-ear-sentences.pdf",
+          "duration": 192
+        },
+        {
+          "title": "Ire words",
+          "audio": "media/drills/10-r/031-ire-words.mp3",
+          "pdf": "media/drills/10-r/031-ire-words.pdf",
+          "duration": 243
+        },
+        {
+          "title": "Ire phrases",
+          "audio": "media/drills/10-r/032-ire-phrases.mp3",
+          "pdf": "media/drills/10-r/032-ire-phrases.pdf",
+          "duration": 309
+        },
+        {
+          "title": "Ire sentences",
+          "audio": "media/drills/10-r/033-ire-sentences.mp3",
+          "pdf": "media/drills/10-r/033-ire-sentences.pdf",
+          "duration": 154
+        },
+        {
+          "title": "R blend words and sentences",
+          "audio": "media/drills/10-r/034-r-blend-words-and-sentences.mp3",
+          "pdf": "media/drills/10-r/034-r-blend-words-and-sentences.pdf",
+          "duration": 734
+        },
+        {
+          "title": "Multiple rs words and sentences",
+          "audio": "media/drills/10-r/035-multiple-rs-words-and-sentences.mp3",
+          "pdf": "media/drills/10-r/035-multiple-rs-words-and-sentences.pdf",
+          "duration": 322
+        },
+        {
+          "title": "Rl combination words phrases and sentences",
+          "audio": "media/drills/10-r/036-rl-combination-words-phrases-and-sentences.mp3",
+          "pdf": "media/drills/10-r/036-rl-combination-words-phrases-and-sentences.pdf",
+          "duration": 736
+        },
+        {
+          "title": "Rw combination words and sentences",
+          "audio": "media/drills/10-r/037-rw-combination-words-and-sentences.mp3",
+          "pdf": "media/drills/10-r/037-rw-combination-words-and-sentences.pdf",
+          "duration": 233
+        }
+      ]
+    },
+    {
+      "module": "AI /aɪ/",
+      "items": [
+        {
+          "title": "AI diphthong spelling",
+          "audio": "media/drills/31-ai/002-ai-diphthong-spelling.mp3",
+          "pdf": "media/drills/31-ai/002-ai-diphthong-spelling.pdf",
+          "duration": 105
+        },
+        {
+          "title": "AI diphthong words",
+          "audio": "media/drills/31-ai/003-ai-diphthong-words.mp3",
+          "pdf": "media/drills/31-ai/003-ai-diphthong-words.pdf",
+          "duration": 497
+        },
+        {
+          "title": "AI diphthong phrases",
+          "audio": "media/drills/31-ai/004-ai-diphthong-phrases.mp3",
+          "pdf": "media/drills/31-ai/004-ai-diphthong-phrases.pdf",
+          "duration": 565
+        },
+        {
+          "title": "AI diphthong sentences",
+          "audio": "media/drills/31-ai/005-ai-diphthong-sentences.mp3",
+          "pdf": "media/drills/31-ai/005-ai-diphthong-sentences.pdf",
+          "duration": 493
+        },
+        {
+          "title": "AI diphthong homophones",
+          "audio": "media/drills/31-ai/006-ai-diphthong-homophones.mp3",
+          "pdf": "media/drills/31-ai/006-ai-diphthong-homophones.pdf",
+          "duration": 196
+        }
+      ]
+    },
+    {
+      "module": "EI /eɪ/",
+      "items": [
+        {
+          "title": "EI diphthong spelling",
+          "audio": "media/drills/32-ei/002-ei-diphthong-spelling.mp3",
+          "pdf": "media/drills/32-ei/002-ei-diphthong-spelling.pdf",
+          "duration": 97
+        },
+        {
+          "title": "EI diphthong VS EH minimal pairs",
+          "audio": "media/drills/32-ei/003-ei-diphthong-vs-eh-minimal-pairs.mp3",
+          "pdf": "media/drills/32-ei/003-ei-diphthong-vs-eh-minimal-pairs.pdf",
+          "duration": 162
+        },
+        {
+          "title": "EI diphthong words",
+          "audio": "media/drills/32-ei/004-ei-diphthong-words.mp3",
+          "pdf": "media/drills/32-ei/004-ei-diphthong-words.pdf",
+          "duration": 313
+        },
+        {
+          "title": "EI diphthong phrases",
+          "audio": "media/drills/32-ei/005-ei-diphthong-phrases.mp3",
+          "pdf": "media/drills/32-ei/005-ei-diphthong-phrases.pdf",
+          "duration": 615
+        },
+        {
+          "title": "EI diphthong sentences",
+          "audio": "media/drills/32-ei/006-ei-diphthong-sentences.mp3",
+          "pdf": "media/drills/32-ei/006-ei-diphthong-sentences.pdf",
+          "duration": 165
+        },
+        {
+          "title": "EI diphthong homophones and french words",
+          "audio": "media/drills/32-ei/007-ei-diphthong-homophones-and-french-words.mp3",
+          "pdf": "media/drills/32-ei/007-ei-diphthong-homophones-and-french-words.pdf",
+          "duration": 293
+        }
+      ]
+    },
+    {
+      "module": "OH /oʊ/",
+      "items": [
+        {
+          "title": "OH spelling",
+          "audio": "media/drills/33-oh/002-oh-spelling.mp3",
+          "pdf": "media/drills/33-oh/002-oh-spelling.pdf",
+          "duration": 92
+        },
+        {
+          "title": "OH VS UH and OH VS AH minimal pairs",
+          "audio": "media/drills/33-oh/003-oh-vs-uh-and-oh-vs-ah-minimal-pairs.mp3",
+          "pdf": "media/drills/33-oh/003-oh-vs-uh-and-oh-vs-ah-minimal-pairs.pdf",
+          "duration": 653
+        },
+        {
+          "title": "OH words",
+          "audio": "media/drills/33-oh/004-oh-words.mp3",
+          "pdf": "media/drills/33-oh/004-oh-words.pdf",
+          "duration": 832
+        },
+        {
+          "title": "OH phrases",
+          "audio": "media/drills/33-oh/005-oh-phrases.mp3",
+          "pdf": "media/drills/33-oh/005-oh-phrases.pdf",
+          "duration": 530
+        },
+        {
+          "title": "OH mixed phrases and sentences",
+          "audio": "media/drills/33-oh/006-oh-mixed-phrases-and-sentences.mp3",
+          "pdf": "media/drills/33-oh/006-oh-mixed-phrases-and-sentences.pdf",
+          "duration": 304
+        }
+      ]
+    },
+    {
+      "module": "AU /aʊ/",
+      "items": [
+        {
+          "title": "Aw spelling",
+          "audio": "media/drills/34-au/002-aw-spelling.mp3",
+          "pdf": "media/drills/34-au/002-aw-spelling.pdf",
+          "duration": 100
+        },
+        {
+          "title": "Aw VS AH minimal pairs",
+          "audio": "media/drills/34-au/003-aw-vs-ah-minimal-pairs.mp3",
+          "pdf": "media/drills/34-au/003-aw-vs-ah-minimal-pairs.pdf",
+          "duration": 223
+        },
+        {
+          "title": "Aw words",
+          "audio": "media/drills/34-au/004-aw-words.mp3",
+          "pdf": "media/drills/34-au/004-aw-words.pdf",
+          "duration": 269
+        },
+        {
+          "title": "Aw phrases",
+          "audio": "media/drills/34-au/005-aw-phrases.mp3",
+          "pdf": "media/drills/34-au/005-aw-phrases.pdf",
+          "duration": 437
+        },
+        {
+          "title": "Aw sentences",
+          "audio": "media/drills/34-au/006-aw-sentences.mp3",
+          "pdf": "media/drills/34-au/006-aw-sentences.pdf",
+          "duration": 273
+        }
+      ]
+    },
+    {
+      "module": "OI /ɔɪ/",
+      "items": [
+        {
+          "title": "OI spelling",
+          "audio": "media/drills/35-oi/002-oi-spelling.mp3",
+          "pdf": "media/drills/35-oi/002-oi-spelling.pdf",
+          "duration": 28
+        },
+        {
+          "title": "OI VS OH and OI VS AH minimal pairs",
+          "audio": "media/drills/35-oi/003-oi-vs-oh-and-oi-vs-ah-minimal-pairs.mp3",
+          "pdf": "media/drills/35-oi/003-oi-vs-oh-and-oi-vs-ah-minimal-pairs.pdf",
+          "duration": 172
+        },
+        {
+          "title": "OI words",
+          "audio": "media/drills/35-oi/004-oi-words.mp3",
+          "pdf": "media/drills/35-oi/004-oi-words.pdf",
+          "duration": 137
+        },
+        {
+          "title": "OI phrases",
+          "audio": "media/drills/35-oi/005-oi-phrases.mp3",
+          "pdf": "media/drills/35-oi/005-oi-phrases.pdf",
+          "duration": 194
+        },
+        {
+          "title": "OI sentences",
+          "audio": "media/drills/35-oi/006-oi-sentences.mp3",
+          "pdf": "media/drills/35-oi/006-oi-sentences.pdf",
+          "duration": 141
+        }
+      ]
+    }
   ]
 }

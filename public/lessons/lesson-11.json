@@ -47,5 +47,89 @@
       "videoId": "xreA0vkHMBY",
       "creator": "Rachel's English"
     }
+  ],
+  "drills": [
+    {
+      "module": "Final consonants",
+      "items": [
+        {
+          "title": "Final consonants words and minimal pairs",
+          "audio": "media/drills/19-final-consonants/002-final-consonants-words-and-minimal-pairs.mp3",
+          "pdf": "media/drills/19-final-consonants/002-final-consonants-words-and-minimal-pairs.pdf",
+          "duration": 326
+        },
+        {
+          "title": "Final consonants phrases",
+          "audio": "media/drills/19-final-consonants/003-final-consonants-phrases.mp3",
+          "pdf": "media/drills/19-final-consonants/003-final-consonants-phrases.pdf",
+          "duration": 48
+        },
+        {
+          "title": "Final consonant sentences",
+          "audio": "media/drills/19-final-consonants/004-final-consonant-sentences.mp3",
+          "pdf": "media/drills/19-final-consonants/004-final-consonant-sentences.pdf",
+          "duration": 127
+        }
+      ]
+    },
+    {
+      "module": "Consonant clusters",
+      "items": [
+        {
+          "title": "R blends words and sentences review",
+          "audio": "media/drills/20-clusters/002-r-blends-words-and-sentences-review.mp3",
+          "pdf": "media/drills/20-clusters/002-r-blends-words-and-sentences-review.pdf",
+          "duration": 873
+        },
+        {
+          "title": "L blends words and sentences review",
+          "audio": "media/drills/20-clusters/003-l-blends-words-and-sentences-review.mp3",
+          "pdf": "media/drills/20-clusters/003-l-blends-words-and-sentences-review.pdf",
+          "duration": 622
+        },
+        {
+          "title": "S blends words and sentences review",
+          "audio": "media/drills/20-clusters/004-s-blends-words-and-sentences-review.mp3",
+          "pdf": "media/drills/20-clusters/004-s-blends-words-and-sentences-review.pdf",
+          "duration": 480
+        },
+        {
+          "title": "3 consonant blend words and sentences",
+          "audio": "media/drills/20-clusters/005-3-consonant-blend-words-and-sentences.mp3",
+          "pdf": "media/drills/20-clusters/005-3-consonant-blend-words-and-sentences.pdf",
+          "duration": 399
+        },
+        {
+          "title": "Final consonant blend words",
+          "audio": "media/drills/20-clusters/006-final-consonant-blend-words.mp3",
+          "pdf": "media/drills/20-clusters/006-final-consonant-blend-words.pdf",
+          "duration": 819
+        },
+        {
+          "title": "3 and 4 final consonant blends",
+          "audio": "media/drills/20-clusters/007-3-and-4-final-consonant-blends.mp3",
+          "pdf": "media/drills/20-clusters/007-3-and-4-final-consonant-blends.pdf",
+          "duration": 153
+        },
+        {
+          "title": "3 and 4 final consonant blends dropped sounds",
+          "audio": "media/drills/20-clusters/008-3-and-4-final-consonant-blends-dropped-sounds.mp3",
+          "pdf": "media/drills/20-clusters/008-3-and-4-final-consonant-blends-dropped-sounds.pdf",
+          "duration": 420
+        },
+        {
+          "title": "D TH phrases and sentences",
+          "audio": "media/drills/20-clusters/009-d-th-phrases-and-sentences.mp3",
+          "pdf": "media/drills/20-clusters/009-d-th-phrases-and-sentences.pdf",
+          "duration": 377
+        },
+        {
+          "title": "Voiced TH D words and sentences",
+          "audio": "media/drills/20-clusters/010-voiced-th-d-words-and-sentences.mp3",
+          "pdf": "media/drills/20-clusters/010-voiced-th-d-words-and-sentences.pdf",
+          "duration": 243
+        }
+      ]
+    }
   ]
 }
