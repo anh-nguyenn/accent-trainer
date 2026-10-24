@@ -39,7 +39,13 @@ npm run check:content -- --online    # also checks YouTube video IDs via oEmbed
 npm run build                        # TypeScript check and static build
 ```
 
-`npm run build` writes the static site to `dist/`. The online video check catches unavailable IDs, but it does not prove a video will embed or play on every device. The repository includes [Vercel rewrites](./vercel.json) for direct lesson URLs. Before a public release, test video playback and recording permissions on iPhone Safari and Android Chrome.
+`npm run build` writes the static site to `dist/`. The online video check catches unavailable IDs, but it does not prove a video will embed or play on every device. Before a public release, test video playback and recording permissions on iPhone Safari and Android Chrome.
+
+## Deploy
+
+Pushes to `main` deploy the site to GitHub Pages at <https://anh-nguyenn.github.io/accent-trainer/>. The workflow builds with `VITE_BASE=/accent-trainer/`, copies `index.html` to `404.html` so lesson and stage links load directly, and publishes `dist/`.
+
+The Pages build depends on the repository subpath. If the repository is renamed or moved to a custom domain, update `VITE_BASE` in [`.github/workflows/pages.yml`](./.github/workflows/pages.yml). Root-hosted builds keep the default `/` base; the repository also includes [Vercel rewrites](./vercel.json) for direct lesson URLs.
 
 ## Project layout
 
@@ -58,4 +64,4 @@ Lesson text and IPA targets are maintained as data, so content edits do not requ
 
 The lesson order is inspired by the public outline of TE English's *American Accent Training* course. Practice words, sentences, and self-checks in this project are original; the project is independent of TE English. Videos remain on YouTube and are embedded with creator credit. [PLAN.md](./PLAN.md) describes the product scope, [PRODUCT.md](./PRODUCT.md) records product decisions, and [DESIGN.md](./DESIGN.md) documents the interface.
 
-**Current status:** The static build and content checks pass. Real-device video, microphone, and camera testing is still needed before calling the app launch-ready. Pronunciation content also needs an independent educator review.
+**Current status:** The static build, content checks, and online video checks pass. The site is deployed to GitHub Pages. Real-device video, microphone, and camera testing is still needed before calling the app launch-ready. Pronunciation content also needs an independent educator review.

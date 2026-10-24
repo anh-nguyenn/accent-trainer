@@ -35,7 +35,7 @@ Learners hear and shadow real Asian American creators, not one generic textbook 
 - Speech-recognition scoring is out of scope for v1. Self-comparison and written checklists replace human correction.
 - Free, with no payments, ads, or sign-up.
 - Delivery is a Vite + React + TypeScript static site; lesson content lives in `public/lessons/lesson-N.json` with summaries in `public/lessons/index.json`, and IPA targets in `public/ipa.json`.
-- Undecided: production domain and hosting account (a free host subdomain is acceptable for launch).
+- Hosting: GitHub Pages project site at `anh-nguyenn.github.io/accent-trainer`, deployed from `main` by GitHub Actions; a custom domain can replace it later.
 
 ## Brand Commitments
 
