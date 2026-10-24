@@ -1,0 +1,28 @@
+name: Bug report
+description: Report a problem with a lesson or the app
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Please do not attach voice or video recordings. Describe what happened in words."
+  - type: input
+    id: page
+    attributes:
+      label: Page or lesson
+      placeholder: /lesson/5
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include what you expected and the steps to reproduce it.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device
+      placeholder: Safari on iPhone 15, iOS 18
+    validations:
+      required: true

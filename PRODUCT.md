@@ -51,7 +51,7 @@ Learners hear and shadow real Asian American creators, not one generic textbook 
 - `public/ipa.json`: 44 teaching targets (20 vowel targets, 24 consonants) with examples, mouth-position notes, and linked lessons.
 - `public/stages.json` and the four-stage, 16-lesson structure.
 - Real credited public videos from Rachel's English, Wong Fu Productions, and The Asian American Foundation.
-- Phonetic lesson text and practice items have been reviewed for accuracy by a teacher or fluent speaker.
+- Phonetic lesson text and practice items still need an independent teacher or fluent-speaker review before launch.
 - No testimonials, customer counts, benchmarks, or usage analytics exist; future work must not fabricate them.
 
 ## Product Principles

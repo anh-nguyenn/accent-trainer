@@ -1,0 +1,31 @@
+# Contributing
+
+Thanks for helping make Accent Trainer clearer and more useful. Small improvements to lesson wording, accessibility, browser behavior, and video links are welcome.
+
+## Before you change content
+
+- Keep the interface in English and the app free of accounts, analytics, saved progress, and recording uploads.
+- Treat accent variation respectfully. There is no single correct Asian American voice.
+- Write original practice words, sentences, and self-checks. Do not copy another course's worksheets or transcripts.
+- Embed public YouTube videos through the official player and credit the creator. Do not download or re-host them.
+- Do not include your own or another learner's recording in an issue or pull request.
+
+## Lesson files
+
+Edit `public/lessons/lesson-N.json` for an existing lesson. Keep its `id`, `stage`, `title`, and `summary` aligned with `public/lessons/index.json`. Each lesson should have:
+
+- A credited Watch video and a short Shadow segment with valid `start` and `end` times.
+- At least five practice words and five original sentences.
+- Three observable self-check items; lesson 16 uses six items covering the course's six speaking skills.
+- A backup video candidate.
+
+IPA entries live in `public/ipa.json`. If you change a symbol, verify its examples, mouth-position note, and linked lesson. The chart currently has 20 vowel teaching targets and 24 consonants.
+
+## Submit a change
+
+1. Create a focused branch and make the edit.
+2. Run `npm ci`, `npm run check:content`, and `npm run build`.
+3. For video changes, run `npm run check:content -- --online` and watch the selected segment in a browser. The online check alone cannot confirm embedding.
+4. Open a pull request explaining what changed, why, and how you checked it. For visible UI changes, include a screenshot if possible.
+
+Please identify any browser or device you could not test. Phonetic content should be reviewed by a qualified teacher or fluent speaker before release.
