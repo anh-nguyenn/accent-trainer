@@ -278,6 +278,8 @@ Avoid pills for primary actions, avoid radius above 8px on functional surfaces, 
 - **Style:** Checkboxes are visually replaced by a 21px box with 4px radius, 1px muted border, and a white check on Eucalyptus Deep.
 - **Focus:** The hidden native input keeps a 3px focus ring on the custom box.
 - **Labels:** Entire row is clickable, 12px vertical padding, 14px text, with icon-free labels.
+- **Voice select:** A native select, 44px high, 4px radius, Oat Soft fill, hairline border, 12px DM Sans semibold. Shown only when the device offers more than one usable en-US voice; a single voice is named in plain text instead.
+- **Script textarea:** White fill, 1px hairline, 6px radius, 13px DM Sans, native vertical resize, 150px minimum height. It lives inside a Sage Paper rail with a 12px explanation line above it.
 - **Error / Disabled:** Errors use the warm notice fill with dark terracotta text; disabled controls drop to 47% opacity.
 
 ### Navigation
@@ -295,6 +297,8 @@ Avoid pills for primary actions, avoid radius above 8px on functional surfaces, 
 **Compare Grid.** Two equal columns labeled `01 THE MODEL` and `02 YOUR TAKE` in 10px tracked caps, each holding a 16:9 media well. Empty takes show a centered mic icon and a route back to Record. Below the grid: a primary "Play both" action and a soft discard.
 
 **IPA Chart.** A grid of white 65px symbol buttons (five columns desktop, four mobile) with 6px radius. Selection and hover share a pale sage fill with a eucalyptus border. The detail panel is sticky Sage Paper with a 75px serif symbol, a type/group line, mouth-position note, example buttons, and a lesson link separated by a rule.
+
+**Shadow Lab.** A white video room (`1.45fr`) beside a sticky Sage Paper script rail (`0.85fr`) that stacks at 900px. The video keeps native YouTube controls; the app adds a 44px Previous / Play line / Next line row, native checkboxes for repeat and pause, and 0.75×/1×/1.25× pills. Script lines are white 44px rows with a 10px terracotta timecode; the active line turns pale sage. The paste state is a white form card with a 48px URL field and the primary action.
 
 ## Do's and Don'ts
 

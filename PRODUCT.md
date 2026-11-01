@@ -30,11 +30,12 @@ Learners hear and shadow real Asian American creators, not one generic textbook 
 
 - Static web app: no backend, database, accounts, analytics, cookies from the app, or saved progress.
 - Recordings are captured with `MediaRecorder` and held only in tab memory; discarded on leaving the lesson or tab. Media tracks are stopped after use. Length caps: 2 minutes video, 5 minutes audio.
-- Model voice for words and sentences uses browser `speechSynthesis` with an en-US voice; it varies by device and is a convenience, not the reference. Hide the control and explain when no en-US voice exists.
+- Model voice for words and sentences uses browser `speechSynthesis` with an en-US voice; it varies by device and is a convenience, not the reference. Prefer enhanced or neural device voices and let the learner choose from the available en-US voices; hide the control and explain when no en-US voice exists.
 - Videos are embedded only, via the YouTube IFrame Player API and `youtube-nocookie.com`; never downloaded or re-hosted. Fallback link when embedding is unavailable. Each lesson keeps a backup video candidate.
 - Speech-recognition scoring is out of scope for v1. Self-comparison and written checklists replace human correction.
 - Free, with no payments, ads, or sign-up.
 - Delivery is a Vite + React + TypeScript static site; lesson content lives in `public/lessons/lesson-N.json` with summaries in `public/lessons/index.json`, and IPA targets in `public/ipa.json`.
+- A Shadow lab accepts a learner-pasted YouTube URL and an optional learner-supplied transcript (YouTube transcript copy, SRT, or VTT). The link, script, and recording stay in tab memory; line looping and auto-pause require timestamps. The app never fetches YouTube captions.
 - Hosting: GitHub Pages project site at `anh-nguyenn.github.io/accent-trainer`, deployed from `main` by GitHub Actions; a custom domain can replace it later.
 
 ## Brand Commitments
